@@ -1,15 +1,11 @@
 <!-- Footer -->
 <section id="footer">
   <div class="inner">
-    <ul class="contact">
-      <li class="fa-home">
-        {{ site.name }}<br />
-        {{ site.street_address }}<br />
-	{{ site.zip_code }} {{ site.city}}<br />
-	C.f. {{ site.fiscal_code }}
-      </li>
-      <!--<li class="fa-phone">(000) 000-0000</li>-->
-      <li class="fa-envelope"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-    </ul>
+    {{ site.name }}<br />
+    {{ site.street_address }}<br />
+    {{ site.zip_code }} {{ site.city}}<br />
+    C.f. {{ site.fiscal_code }}
+    <!--<li class="fa-phone">(000) 000-0000</li>-->
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </div>
 </section>
