@@ -7,7 +7,7 @@ permalink: /it/contatti
 order: 6
 ---
 
-<p>Scrivici un messaggio o seguici sui nostri canali social.</p>
+Contattaci utilizzando il form seguente:
 
 <form name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/{{ site.email }}" method="post">
   <div class="field">
