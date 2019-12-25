@@ -25,17 +25,35 @@ social-links:
   en:
     twitter:
       name: "twitter"
-      url: "https://twitter.com/ITdigitalteam"
-    medium:
-      name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
+      url: "https://twitter.com/eutopian_eu"
+    facebook:
+      name: "facebook"
+      url: "https://fb.me/eutopian.eu"
+    github:
+      name: "github"
+      url: "https://github.com/eutopian-eu"
+    instagram:
+      name: "instagram"
+      url: "https://www.instagram.com/ass.eutopian/"
+    linkedin:
+      name: "linkedin"
+      url: "https://www.linkedin.com/company/eutopian/"
   it:
     twitter:
       name: "twitter"
-      url: "https://twitter.com/teamdigitaleIT"
-    medium:
-      name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
+      url: "https://twitter.com/eutopian_eu"
+    facebook:
+      name: "facebook"
+      url: "https://fb.me/eutopian.eu"
+    github:
+      name: "github"
+      url: "https://github.com/eutopian-eu"
+    instagram:
+      name: "instagram"
+      url: "https://www.instagram.com/ass.eutopian/"
+    linkedin:
+      name: "linkedin"
+      url: "https://www.linkedin.com/company/eutopian/"
 
 ## Labels
 italian-version:
