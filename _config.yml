@@ -28,6 +28,17 @@ url: "https://eutopian.eu"
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/"
 
+# Address and contacts
+email: eutopian.eu@gmail.com
+description: Osservatorio europeo sull'innovazione democratica
+street_address: Via Umberto Guarnieri 4
+city: Roma
+state:
+zip_code: "00177"
+country:
+phone:
+fiscal_code: 96438490581
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
