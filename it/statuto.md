@@ -3,7 +3,7 @@ layout: page
 title: Statuto
 lang: it
 ref: statute
-comments: true
+permalink: /it/statuto
 order: 4
 ---
 
