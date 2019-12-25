@@ -3,7 +3,7 @@ layout: page
 title: Manifesto
 lang: it
 ref: manifesto
-comments: true
+permalink: /it/manifesto
 order: 3
 ---
 
