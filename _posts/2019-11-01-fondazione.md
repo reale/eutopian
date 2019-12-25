@@ -7,4 +7,5 @@ lang: it
 ref: new
 categories:
 tags:
+publish: true
 ---
