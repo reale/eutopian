@@ -23,7 +23,5 @@ order: 6
     <textarea name="message" id="message" rows="4" required=""></textarea>
   </div>
   <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  <ul class="actions">
-    <li><input type="submit" value="Invia" /></li>
-  </ul>
+  <input type="submit" value="Invia" />
 </form>
