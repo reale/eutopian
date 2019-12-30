@@ -39,7 +39,7 @@ commands:
 jobs:
   build_and_test:
     docker:
-      - image: circleci/ruby:2.4.1-node-browswer
+      - image: circleci/ruby:2.6.3
     environment:
       - JEKYLL_ENV: production
       - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
@@ -65,7 +65,7 @@ jobs:
 
   deploy-gh-pages:
     docker:
-      - image: circleci/ruby:2.4.1-node-browswer
+      - image: circleci/ruby:2.6.3
     steps:
       - add_ssh_keys:
           fingerprints:
