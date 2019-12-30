@@ -69,7 +69,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "f6:5b:a0:9a:b1:06:51:d6:db:e3:db:26:d7:99:94:c2"
+            - "4a:80:48:12:8a:b6:9b:c4:54:6b:57:05:c7:44:fd:20"
       - checkout:
           path: /tmp/gh-pages
       - attach_workspace:
