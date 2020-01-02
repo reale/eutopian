@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Example Homepage
-description: This is an example for a "hero" homepage
+title: Homepage
+description: Homepage
 lang: en
 ref: homepage
 permalink: /en/
@@ -9,4 +9,10 @@ order: 1
 ---
 
 {% include hero.html %}
+
+<main class="container my-4" markdown="1">
+
 {% include posts.html %}
+
+</main>
+
