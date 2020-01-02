@@ -7,4 +7,4 @@ ref: privacy-policy
 permalink: /en/privacy-policy
 ---
 
-This is an example for a "privacy policy" page.
+The Privacy Policy is available in Italian only.
