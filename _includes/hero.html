@@ -25,9 +25,9 @@
                 <div class="card card-bg">
                     <div class="card-body">
                         <h5 class="card-title">Manifesto</h5>
-                        <p class="card-text text-sans-serif">Eutopian è un osservatorio indipendente, inclusivo ed aperto sull’innovazione democratica, intesa sia come innovazione all’interno di un contesto democratico sia come innovazione della democrazia, riconoscendo che i due aspetti sono tra loro inscindibili, e sono fondativi per un modello di società digitale in cui l’uomo conservi la sua centralità; e sulla rivoluzione digitale nei suoi vari aspetti: tecnologico, scientifico, economico, giuridico, sociale, culturale, politico.</p>
-                        <a class="read-more" href="{{ site.url }}{{ site.baseurl }}/it/manifesto">
-                            <span class="text">Leggi di più</span>
+                        <p class="card-text text-sans-serif">{{ site.data.t.manifesto-excerpt[page.lang] }}</p>
+                        <a class="read-more" href="{{ site.url }}{{ site.baseurl }}/{{ page.lang }}/manifesto">
+                            <span class="text">{{ site.data.t.read-more[page.lang] }}</span>
                             <svg class="icon">
                                 <use xlink:href="{{ site.url }}{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
                             </svg>
