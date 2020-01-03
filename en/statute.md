@@ -7,4 +7,4 @@ permalink: /en/statute
 order: 4
 ---
 
-The [Statute](/it/statute) is available in Italian only.
+The [Statute](/it/statuto) is available in Italian only.
