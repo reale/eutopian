@@ -7,7 +7,7 @@ permalink: /en/contacts
 order: 6
 ---
 
-Contattaci utilizzando il form seguente:
+Contact us by filling the following form:
 
 <form name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/{{ site.email }}" method="post">
   <div class="field">
