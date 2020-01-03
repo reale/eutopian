@@ -1,6 +1,7 @@
 # eutopian.eu
 
 [![CircleCI](https://circleci.com/gh/eutopian-eu/eutopian.eu.svg?style=svg)](https://circleci.com/gh/eutopian-eu/eutopian.eu)
+![Uptime Robot](https://img.shields.io/uptimerobot/status/m784089126-08ebc64f570419830dc453bc)
 
 Source code of the website [eutopian.eu](https://eutopian.eu).
 
