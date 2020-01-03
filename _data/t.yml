@@ -83,5 +83,6 @@ footer-links:
     cookie-policy:
       name: "Cookie Policy"
       url: "/it/cookie-policy"
-
-
+follow-us:
+  en: "Follow us"
+  it: "Seguici su"
