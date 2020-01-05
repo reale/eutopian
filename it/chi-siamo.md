@@ -9,7 +9,7 @@ order: 2
 
 ## Fondatori
 
-- Roberto Reale, presidente
+- [Roberto Reale](/it/bio-roberto-reale), presidente
 - Flavia Marzano, vicepresidente
 - Gaetano Bruno, segretario
 - Antonio Barbieri, tesoriere
