@@ -7,6 +7,8 @@ permalink: /en/about-us
 order: 2
 ---
 
+## Founders
+
 - Roberto Reale, president
 - Flavia Marzano, vice president
 - Gaetano Bruno, secretary
@@ -21,3 +23,10 @@ order: 2
 - Massimiliano Nicotra
 - Agata Quattrone
 - Luisa Scarcella
+
+## Ordinary Members
+
+- Marisa Ciarlo
+- Alfredo Cutolo
+- Sara Cutrona
+- Alessandro Scardovi

@@ -7,6 +7,8 @@ permalink: /it/chi-siamo
 order: 2
 ---
 
+## Fondatori
+
 - Roberto Reale, presidente
 - Flavia Marzano, vicepresidente
 - Gaetano Bruno, segretario
@@ -21,3 +23,10 @@ order: 2
 - Massimiliano Nicotra
 - [Agata Quattrone](/it/bio-agata-quattrone)
 - Luisa Scarcella
+
+## Soci ordinari
+
+- Marisa Ciarlo
+- Alfredo Cutolo
+- Sara Cutrona
+- Alessandro Scardovi
