@@ -19,5 +19,5 @@ order: 2
 - Federica Meta
 - Claudia Morelli
 - Massimiliano Nicotra
-- Agata Quattrone
+- [Agata Quattrone](/it/bio-agata-quattrone)
 - Luisa Scarcella
