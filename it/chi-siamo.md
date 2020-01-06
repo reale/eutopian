@@ -22,7 +22,7 @@ order: 2
 - Claudia Morelli
 - Massimiliano Nicotra
 - [Agata Quattrone](/it/bio-agata-quattrone)
-- Luisa Scarcella
+- [Luisa Scarcella](/it/bio-luisa-scarcella)
 
 ## Soci ordinari
 
