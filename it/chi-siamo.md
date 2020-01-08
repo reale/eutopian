@@ -11,7 +11,7 @@ order: 2
 
 - [Roberto Reale](/it/bio-roberto-reale), presidente
 - [Flavia Marzano](/it/bio-flavia-marzano), vicepresidente
-- Gaetano Bruno, segretario
+- [Gaetano Bruno](/it/bio-gaetano-bruno), segretario
 - Antonio Barbieri, tesoriere
 - Roberto Alma
 - Enrico Barich
