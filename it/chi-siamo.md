@@ -26,7 +26,7 @@ order: 2
 
 ## Soci ordinari
 
-- Marisa Ciarlo
+- [Marisa Ciarlo](/it/bio-marisa-ciarlo)
 - Alfredo Cutolo
 - Sara Cutrona
 - Alessandro Scardovi
