@@ -4,7 +4,7 @@ title: Contatti
 lang: it
 ref: contacts
 permalink: /it/contatti
-order: 7
+order: 8
 ---
 
 Contattaci utilizzando il form seguente:
