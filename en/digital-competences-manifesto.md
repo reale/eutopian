@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Competences Manifest
+title: Digital Competences Manifesto
 lang: en
 ref: actions
 permalink: /en/digital-competences-manifesto
