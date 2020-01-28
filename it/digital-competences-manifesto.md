@@ -2,7 +2,7 @@
 layout: page
 title: Digital Competences Manifesto
 lang: it
-ref: actions
+ref: digital-competences-manifesto
 permalink: /it/digital-competences-manifesto
 child_of_ref: actions
 order: 1
