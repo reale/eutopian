@@ -55,33 +55,68 @@ tutte le pagine del sito che:
         </div>
     </div>
     <div class="it-header-navbar-wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <nav class="navbar navbar-expand-lg has-megamenu">
-                        <button class="custom-navbar-toggler" type="button" aria-controls="nav10" aria-expanded="false" aria-label="Toggle navigation" data-target="#nav10">
-                            <svg class="icon">
-                                <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-burger"></use>
-                            </svg>
-                        </button>
-                        <div class="navbar-collapsable" id="nav10">
-                            <div class="overlay"></div>
-                            <div class="close-div sr-only">
-                                <button class="btn close-menu" type="button"><span class="it-close"></span>close</button>
-                            </div>
-                            <div class="menu-wrapper">
-                                <ul class="navbar-nav">
-                                    {% for menu_page in current_lang_menu_pages %}
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="{{menu_page.permalink}}"><span>{{menu_page.title}}</span></a>
-                                    </li>
-                                    {% endfor %}
-                                </ul>
-                            </div>
-                        </div>
-                    </nav>
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <nav class="navbar navbar-expand-lg has-megamenu" aria-label="{{ site.data.t.main-nav[page.lang] }}">
+              <button class="custom-navbar-toggler" type="button" aria-controls="nav10" aria-expanded="false"
+                aria-label="{{ site.data.t.toggle-nav[page.lang] }}" data-target="#nav10">
+                <svg class="icon">
+                  <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-burger"></use>
+                </svg>
+              </button>
+              <div class="navbar-collapsable" id="nav10">
+                <div class="overlay"></div>
+                <div class="close-div sr-only">
+                  <button class="btn close-menu" type="button"><span class="it-close"></span>close</button>
                 </div>
-            </div>
+                <div class="menu-wrapper">
+                  <ul class="navbar-nav">
+                    {% for menu_page in current_lang_menu_pages %}
+  
+                    {% comment %}
+                    Le pagine che vengono incluse in questo sottomenù sono un sottoinsieme di tutte le pagine del sito
+                    che:
+                    - hanno la stessa lingua della pagina corrente
+                    - hanno l'attributo "order" valorizzato
+                    - hanno l'attributo "child_of_ref" uguale a `menu_page.ref` attuale (sono quindi figlie di
+                    `menu_page`)
+                    {% endcomment %}
+                    {% assign current_lang_menu_child_pages = site.pages | where: "lang", page.lang | where_exp: "page", "page.order != nil" | where: "child_of_ref", menu_page.ref | sort: "order"%}
+                    {% if current_lang_menu_child_pages.size == 0 %}
+                    <li class="nav-item">
+                      <a class="nav-link" aria-label="{{ site.data.t.goto[page.lang]}} {{ menu_page.title }}" href="{{ site.baseurl }}{{ menu_page.url }}"><span>{{menu_page.title}}</span></a>
+                    </li>
+                    {% else %}
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" aria-label="{{ menu_page.title }} {{ site.data.t.selection[page.lang] }}" href="#" data-toggle="dropdown" aria-expanded="false">
+                        <span>{{ menu_page.title }}</span>
+                        <svg class="icon icon-xs">
+                          <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-expand">
+                          </use>
+                        </svg>
+                      </a>
+                      <div class="dropdown-menu">
+                        <div class="link-list-wrapper">
+                          <ul class="link-list">
+                            <li><a class="list-item" aria-label="{{ site.data.t.goto[page.lang] }} {{ menu_page.title }}" href="{{ site.baseurl }}{{ menu_page.url }}"><span>{{ menu_page.title }}</span></a></li>
+                            <li><span class="divider"></span></li>
+                            {% for menu_child_page in current_lang_menu_child_pages %}
+                            <li><a class="list-item" aria-label="{{ site.data.t.goto[page.lang] }} {{ menu_child_page.title }}" href="{{ site.baseurl }}{{ menu_child_page.url }}"><span>{{ menu_child_page.title }}</span></a>
+                            </li>
+                            {% endfor %}
+                          </ul>
+                        </div>
+                      </div>
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
+            </nav>
+          </div>
         </div>
+      </div>
     </div>
 </div>
