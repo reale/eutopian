@@ -5,7 +5,7 @@ lang: it
 ref: actions
 permalink: /it/digital-competences-manifesto
 child_of_ref: actions
-order: 5
+order: 1
 ---
 
 Eutopian aderisce al [Digital Competences Manifesto](https://all-digital.org/manifesto/) sviluppato da [ALL DIGITAL](https://all-digital.org/).
