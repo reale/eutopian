@@ -3,9 +3,10 @@ Le pagine che vengono incluse in questo menù sono un sottoinsieme di
 tutte le pagine del sito che:
 - hanno la stessa lingua della pagina corrente
 - hanno l'attributo "order" valorizzato
+- hanno l'attributo "child_of_ref" non valorizzato (è un sottomenu)
 {% endcomment %}
 
-{% assign current_lang_menu_pages = site.pages | where: "lang", page.lang | where_exp: "page", "page.order != nil" | sort: "order" %}
+{% assign current_lang_menu_pages = site.pages | where: "lang", page.lang | where_exp: "page", "page.order != nil" | where_exp: "page", "page.child_of_ref == nil" | sort: "order" %}
 <div class="it-nav-wrapper">
     <div class="it-header-center-wrapper">
         <div class="container">
