@@ -5,6 +5,7 @@ lang: en
 ref: actions
 permalink: /en/digital-competences-manifesto
 child_of_ref: actions
+order: 1
 ---
 
 Eutopian endorses the [Digital Competences Manifesto](https://all-digital.org/manifesto/) developed by [ALL DIGITAL](https://all-digital.org/).
