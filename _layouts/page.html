@@ -8,20 +8,19 @@ layout: default
             {% assign breadcrumbs = '' | split: '' %}
             {% assign parent = page.child_of_ref %}
             {% for counter in (0..9) %}
-            {% if parent == nil %}
-            {% break %}
-            {% endif %}
-            {% assign parent_page = site.pages | where: "ref", parent | where: "lang", page.lang %}
-            {% assign breadcrumbs = breadcrumbs | concat: parent_page %}
-            {% assign parent = parent_page[0].child_of_ref %}
+                {% if parent == nil %}
+                    {% break %}
+                {% endif %}
+                {% assign parent_page = site.pages | where: "ref", parent | where: "lang", page.lang %}
+                {% assign breadcrumbs = breadcrumbs | concat: parent_page %}
+                {% assign parent = parent_page[0].child_of_ref %}
             {% endfor %}
             {% assign breadcrumbs = breadcrumbs | reverse %}
 
             <li class="breadcrumb-item"><a href="/">Home</a><span class="separator">&gt;</span></li>
 
             {% for item in breadcrumbs %}
-            <li class="breadcrumb-item"><a aria-label="Breadcrumbs - {{ site.data.goto[page.lang] }} {{ item.title }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><span
-                                                                                                                       class="separator">&gt;</span>
+            <li class="breadcrumb-item"><a aria-label="Breadcrumbs - {{ site.data.goto[page.lang] }} {{ item.title }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><span class="separator">&gt;</span>
             </li>
             {% endfor %}
             <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
