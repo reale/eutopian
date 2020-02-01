@@ -53,18 +53,18 @@ social-links:
       url: "https://www.linkedin.com/company/eutopian/"
 
 ## Labels
-italian-version:
-  en: "Italian version"
-  it: "Versione italiana"
-english-version:
-  en: "English version"
-  it: "Versione inglese"
+close:
+  en: "Close"
+  it: "Chiudi"
 cookie-policy-info:
   en: "This site uses technical, analytics and third-party cookies <br>By continuing to browse, you accept the use of cookies."
   it: "Questo sito utilizza cookie tecnici, analytics e di terze parti.<br>Proseguendo nella navigazione accetti l’utilizzo dei cookie."
 cookie-policy-accept-btn:
   en: "Ok"
   it: "Accetto"
+english-version:
+  en: "English version"
+  it: "Versione inglese"
 footer-links:
   en:
     privacy-policy:
@@ -83,9 +83,18 @@ footer-links:
 follow-us:
   en: "Follow us"
   it: "Seguici su"
-read-more:
-  en: "Read more"
-  it: "Leggi di più"
+goto:
+  en: "Go to"
+  it: "Vai a"
+italian-version:
+  en: "Italian version"
+  it: "Versione italiana"
 manifesto-excerpt:
   en: "Eutopian is an independent, inclusive and open observatory on democratic innovation, both as innovation within a democratic context and as innovation of democracy, recognizing that the two aspects are inseparable from each other, and are fundamental for a digital society model in which humans retain their centrality; and on the digital revolution in its various aspects: technological, scientific, economic, legal, social, cultural, political."
   it: "Eutopian è un osservatorio indipendente, inclusivo ed aperto sull’innovazione democratica, intesa sia come innovazione all’interno di un contesto democratico sia come innovazione della democrazia, riconoscendo che i due aspetti sono tra loro inscindibili, e sono fondativi per un modello di società digitale in cui l’uomo conservi la sua centralità; e sulla rivoluzione digitale nei suoi vari aspetti: tecnologico, scientifico, economico, giuridico, sociale, culturale, politico."
+menu:
+  en: "Menu"
+  it: "Menu"
+read-more:
+  en: "Read more"
+  it: "Leggi di più"
