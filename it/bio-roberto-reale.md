@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: page
 title: Roberto Reale
 lang: it
 ref: bio-roberto-reale

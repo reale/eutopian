@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: page
 title: Luisa Scarcella
 lang: it
 ref: bio-luisa-scarcella

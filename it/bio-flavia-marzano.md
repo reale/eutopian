@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: page
 title: Flavia Marzano
 lang: it
 ref: bio-flavia-marzano

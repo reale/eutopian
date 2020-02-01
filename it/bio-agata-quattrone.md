@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: page
 title: Agata Quattrone
 lang: it
 ref: bio-agata-quattrone

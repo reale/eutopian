@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: page
 title: Gaetano Bruno
 lang: it
 ref: bio-gaetano-bruno

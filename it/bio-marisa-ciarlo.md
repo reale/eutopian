@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: page
 title: Marisa Ciarlo
 lang: it
 ref: bio-marisa-ciarlo
