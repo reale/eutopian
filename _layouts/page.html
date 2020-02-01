@@ -20,7 +20,7 @@ layout: default
             <li class="breadcrumb-item"><a href="/">Home</a><span class="separator">&gt;</span></li>
 
             {% for item in breadcrumbs %}
-            <li class="breadcrumb-item"><a aria-label="Breadcrumbs - {{ site.data.goto[page.lang] }} {{ item.title }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><span class="separator">&gt;</span>
+            <li class="breadcrumb-item"><a aria-label="Breadcrumbs - {{ site.data.t.goto[page.lang] }} {{ item.title }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><span class="separator">&gt;</span>
             </li>
             {% endfor %}
             <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
@@ -49,16 +49,14 @@ layout: default
 
         <div class="col-12 col-lg-4">
             <nav class="navbar it-navscroll-wrapper navbar-expand-lg it-bottom-navscroll it-left-side affix-top">
-                <button class="custom-navbar-toggler" type="button" aria-controls="navbarNav" aria-expanded="false"
-                                                                                              aria-label="{{ site.data.t.toggle-nav[page.lang] }}" data-target="#navbarNav"><span class="it-list"></span>Menu
-                </button>
+                <button class="custom-navbar-toggler" type="button" aria-controls="navbarNav" aria-expanded="false" aria-label="{{ site.data.t.toggle-nav[page.lang] }}" data-target="#navbarNav"><span class="it-list"></span>{{ site.data.t.menu[page.lang }}</button>
                 <div class="navbar-collapsable" id="navbarNav">
                     <div class="overlay"></div>
                     <div class="close-div sr-only">
-                        <button class="btn close-menu" type="button"><span class="it-close"></span>Chiudi</button>
+                        <button class="btn close-menu" type="button"><span class="it-close"></span>{{ site.data.t.close[page.lang] }}</button>
                     </div>
                     <a class="it-back-button" href="#"><svg class="icon icon-sm icon-primary align-top">
-                            <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-chevron-left"></use>
+                            <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-chevron-left"></use>
                         </svg><span>{{ site.data.t.back[page.lang] }} </span></a>
                         <div class="menu-wrapper">
                             <div class="link-list-wrapper">
@@ -66,13 +64,11 @@ layout: default
                                 <ul class="link-list">
                                     <li class="nav-item active">
 
-                                        <a class="nav-link {% if section.url == page.url %}active{% endif %}" aria-label="{{ site.data.t.goto[page.lang]}} {{ section.title }}"
-                                                                                                              href="{{ site.baseurl }}{{ section.url }}"><span>{{ section.title }}</span></a>
+                                        <a class="nav-link {% if section.url == page.url %}active{% endif %}" aria-label="{{ site.data.t.goto[page.lang]}} {{ section.title }}" href="{{ site.baseurl }}{{ section.url }}"><span>{{ section.title }}</span></a>
 
                                         {% assign items = site.pages | where: "child_of_ref", section.ref | where: "lang", page.lang | sort: "order" %}
                                         {% for item in items %}
-                                        <a class="nav-link {% if item.url == page.url %}active{% endif %}" aria-label="{{ site.data.t.goto[page.lang]}} {{ item.title }}"
-                                                                                                           href="{{ site.baseurl }}{{ item.url }}"><span>{{ item.title }}</span></a>
+                                        <a class="nav-link {% if item.url == page.url %}active{% endif %}" aria-label="{{ site.data.t.goto[page.lang]}} {{ item.title }}" href="{{ site.baseurl }}{{ item.url }}"><span>{{ item.title }}</span></a>
                                         {% endfor %}
 
                                     </li>
