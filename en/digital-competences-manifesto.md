@@ -4,6 +4,7 @@ title: Digital Competences Manifesto
 lang: en
 ref: digital-competences-manifesto
 permalink: /en/digital-competences-manifesto
+image: /assets/images/pic-luisa-scarcella.jpg
 child_of_ref: actions
 order: 1
 ---
