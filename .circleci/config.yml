@@ -63,7 +63,7 @@ jobs:
             - _site
             - .circleci
 
-  deploy-gh-pages:
+  deploy_gh_pages:
     docker:
       - image: circleci/ruby:2.6.3
     steps:
@@ -103,7 +103,7 @@ workflows:
             branches:
               ignore: gh-pages
 
-      - deploy-gh-pages:
+      - deploy_gh_pages:
           requires:
             - build_and_test
           filters:
