@@ -36,7 +36,6 @@ commands:
             - vendor/bundle
           key: v1-gem-{{ checksum "Gemfile.lock" }}
           
-
   install_pa11y:
     description: Install Pa11y
     steps:
@@ -57,6 +56,7 @@ jobs:
       - install_bundler
       - install_dependencies
       - save_gem_cache
+      - install_pa11y
       # build
       - run:
           name: Run build task
