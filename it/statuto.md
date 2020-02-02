@@ -7,12 +7,12 @@ permalink: /it/statuto
 order: 4
 ---
 
-**Art. 1 – Costituzione e denominazione**
+### Art. 1 – Costituzione e denominazione
 
 1.a. È costituita l’Associazione non riconosciuta denominata “**EUTOPIAN –
 OSSERVATORIO EUROPEO SULL’INNOVAZIONE DEMOCRATICA**”.
 
-**Art. 2 – Sede**
+### Art. 2 – Sede
 
 2.a. L’Associazione ha sede e domicilio legale a Roma, in via Umberto Guarnieri
 4, e può istituire sedi e succursali in Italia e all’estero, nei limiti di
@@ -28,7 +28,7 @@ Settore” o l’acronimo “ETS”, solo qualora l’Associazione effettui l’
 nel registro unico nazionale del terzo settore di cui all’art. 10 del D.lgs.
 117/2017.
 
-**Art. 3 – Descrizione**
+### Art. 3 – Descrizione
 
 3.a L’Associazione è organismo di solidarietà sociale, senza fini di lucro ed è
 regolata a norma del Titolo I, Capo III, art. 36 e segg. del Codice civile,
@@ -58,7 +58,7 @@ non profit con le quali abbia finalità analoghe o complementari, ivi incluse le
 Reti di associazioni di cui all’art. 41 del D.lgs. 117/2017, in ogni forma
 compatibile con le proprie finalità statutarie.
 
-**Art. 4 – Principi ispiratori**
+### Art. 4 – Principi ispiratori
 
 4.a. L’Associazione è fondata sui principi ispiratori della Costituzione
 italiana, ed in particolare sugli articoli 2 (diritti inviolabili dell’uomo), 3
@@ -75,7 +75,7 @@ fondamentali che riguardano l’indirizzo della propria attività, mediante
 l’approvazione assembleare delle linee generali dell’indirizzo dell’attività
 dell’Associazione e l’elezione delle principali cariche interne.
 
-**Art. 5 – Finalità ed oggetto**
+### Art. 5 – Finalità ed oggetto
 
 5.a. Il tema centrale da cui l’Associazione trae la sua ragion d’essere, e
 attorno al quale articola le proprie attività, è l’innovazione democratica,
@@ -142,7 +142,7 @@ privato, oppure associarsi con altre istituzioni o Enti o Organizzazioni nonché
 promuovere e/o coordinare iniziative con Enti pubblici, privati o Organizzazioni
 sociali o sindacali.
 
-**Art. 6 – Regolamento interno**
+### Art. 6 – Regolamento interno
 
 6.a. L’Associazione potrà dotarsi di un Regolamento interno che ne specificherà
 nel dettaglio le modalità di funzionamento, l’organizzazione interna ed i
@@ -159,7 +159,7 @@ attribuzioni e competenze.
 Consiglio Direttivo o dell’Assemblea, determinandone composizione, attribuzioni
 e competenze.
 
-**Art. 7 – Strumenti**
+### Art. 7 – Strumenti
 
 7.a. Per il raggiungimento dei suoi scopi indicati nell’art. 5 che precede
 l’Associazione può:
@@ -245,7 +245,7 @@ attività sociali, l’Associazione potrà effettuare attività di raccolta fond
 anche mediante portali internet e/o mediante l’adozione di tecnologie
 innovative, nel rispetto delle condizioni di cui all’art. 7 del D.lgs. 117/2017.
 
-**Art. 8 – Soci fondatori, soci sostenitori e soci ordinari**
+### Art. 8 – Soci fondatori, soci sostenitori e soci ordinari
 
 8.a. L’Associazione è aperta a gradi diversificati e a molteplici forme di
 partecipazione.
@@ -301,7 +301,7 @@ restano comunque acquisiti al patrimonio dell’Associazione.
 Decesso; Mancato versamento delle quote sociali; Perdita della piena capacità di
 agire, fallimento o sottoposizione ad una qualsiasi delle procedure concorsuali.
 
-**Art. 9 – Diritti e obblighi dei soci**
+### Art. 9 – Diritti e obblighi dei soci
 
 9.a. I soci hanno diritto a partecipare alle assemblee, a votare direttamente o
 per delega, a svolgere il lavoro preventivamente concordato e a recedere
@@ -344,14 +344,14 @@ facoltà per il Consiglio Direttivo di rendere disponibili i suddetti libri
 sociali, in forma telematica, mediante pubblicazione in apposita area riservata,
 ad accesso limitato, del sito istituzionale dell’associazione.
 
-**Art. 10 – Organi sociali**
+### Art. 10 – Organi sociali
 
 10.a. Sono organi sociali dell’Associazione: l’Assemblea; il Consiglio
 Direttivo; il Presidente; il Vicepresidente; il Tesoriere; il Segretario;
 l’Organo di Controllo; il Revisore dei Conti; il Comitato Scientifico; le
 Commissioni Tematiche.
 
-**Art. 11 – Assemblea**
+### Art. 11 – Assemblea
 
 11.a. L’Assemblea è costituita da tutti i soci, in regola con il pagamento della
 quota associativa annuale, i quali hanno diritto di voto attivo e passivo per
@@ -425,7 +425,7 @@ nell’atto di convocazione.
 11.i. Al momento della costituzione e all’atto del voto deve essere verificata
 l’identità dei soci.
 
-**Art. 12 – Consiglio Direttivo**
+### Art. 12 – Consiglio Direttivo
 
 12.a. Il Consiglio Direttivo è composto da un minimo di 3 ad un massimo di 35
 soci, eletti dall’Assemblea tra i propri componenti in regola con gli obblighi
@@ -515,7 +515,7 @@ svolgimento di atti o attività che si rende opportuno svolgere per lo scopo
 della loro designazione, salve comunque le prerogative del Vice Presidente, del
 Tesoriere e del Revisore dei conti.
 
-**Art. 13 – Presidente**
+### Art. 13 – Presidente
 
 13.a. Il Presidente ha la rappresentanza legale dell’Associazione e il potere di
 firma nei confronti di terzi e in giudizio. Convoca e presiede le riunioni
@@ -532,7 +532,7 @@ del Consiglio Direttivo, sottoponendoli a ratifica nella prima riunione utile.
 funzioni sono svolte dal Vice Presidente. La firma del Vice Presidente fa fede,
 di fronte ai terzi, dell'assenza o dell'impedimento del Presidente.
 
-**Art. 14 – Segretario**
+### Art. 14 – Segretario
 
 14.a. Coadiuva il Presidente per la gestione dell’Associazione.
 
@@ -542,7 +542,7 @@ all’aggiornamento del registro dei soci.
 14.c. Cura la redazione e la conservazione dei verbali delle riunioni degli
 organi collegiali.
 
-**Art. 15 – Tesoriere**
+### Art. 15 – Tesoriere
 
 15.a. Il Tesoriere coadiuva il Presidente e ha i seguenti compiti:
 
@@ -555,7 +555,7 @@ organi collegiali.
 -   Predispone quanto necessario alla riscossione delle entrate e al pagamento
     delle spese in conformità alle decisioni del Consiglio Direttivo.
 
-**Art. 16 – Membri e presidenti onorari**
+### Art. 16 – Membri e presidenti onorari
 
 16.a. Il Consiglio Direttivo può procedere alla nomina di Membri onorari e
 Presidenti onorari dell’Associazione.
@@ -576,7 +576,7 @@ dell’Associazione anche legate ad un singolo progetto.
 16.e. I Membri onorari possono essere anche altre personalità giuridiche come
 associazioni, enti, aziende.
 
-**Art.17 – Comitato Scientifico**
+### Art.17 – Comitato Scientifico
 
 17.a. Il Comitato Scientifico è un organo consultivo dell’Associazione, senza
 diritto di voto, composto da personalità anche non socie nominate in qualsiasi
@@ -585,14 +585,14 @@ momento dal Consiglio Direttivo e che accettino di farne parte.
 17.b. Il Comitato Scientifico si compone di un numero massimo di ottanta membri,
 che può essere aumentato con deliberazione del Consiglio Direttivo.
 
-**Art.18 – Commissioni Tematiche**
+### Art.18 – Commissioni Tematiche
 
 18.a. Il Consiglio Direttivo delibera in merito alla costituzione e soppressione
 di Commissioni Tematiche di elaborazione e proposta sulla base di una richiesta
 motivata di almeno 5 componenti del Consiglio Direttivo. 18.b. Il funzionamento
 di ciascuna Commissione Tematica è definito da apposito regolamento interno.
 
-**Art.19 – Durata delle cariche**
+### Art.19 – Durata delle cariche
 
 19.a. Tutte le cariche sociali, tra cui Consiglio Direttivo, Presidente, Vice
 Presidente e Tesoriere, tranne i Presidenti e Membri onorari che sono a vita
@@ -601,7 +601,7 @@ salvo revoca, hanno la durata di cinque anni e possono essere riconfermate.
 19.b. Le eventuali sostituzioni effettuate decadono allo scadere dei cinque
 anni, al momento della nuova elezione
 
-**Art. 20 – Revisore dei conti e Organo di Controllo**
+### Art. 20 – Revisore dei conti e Organo di Controllo
 
 20.a. Il Revisore dei Conti esercita la revisione legale dei conti, e deve
 essere nominato nei casi di cui all’art. 31 comma 1° del D.lgs. 117/2017
@@ -617,7 +617,7 @@ nominato nei casi di cui all’art. 30 comma 2° del D.lgs. 117/2017 dall’Asse
 dei Soci su proposta del Consiglio Direttivo. Dura in carica due anni e può
 essere riconfermato.
 
-**Art. 21 – Risorse economiche**
+### Art. 21 – Risorse economiche
 
 21.a. L’Associazione trae le risorse economiche per il funzionamento e lo
 svolgimento della propria attività da:
@@ -654,7 +654,7 @@ comunicare l'uso che ne viene fatto.
 21.c. Ogni operazione finanziaria o economica, a qualsiasi titolo, è disposta
 con firma del Presidente.
 
-**Art. 22 – Quota sociale**
+### Art. 22 – Quota sociale
 
 22.a. La quota associativa a carico dei soci è fissata dal Consiglio Direttivo.
 
@@ -663,7 +663,7 @@ partecipare alle riunioni dell’Assemblea né prendere parte alle attività
 istituzionali dell’Associazione fino a che non regolarizzino la loro posizione e
 il Consiglio Direttivo ne prenda atto.
 
-**Art. 23 – Rendiconti economici**
+### Art. 23 – Rendiconti economici
 
 23.a. Ogni anno devono essere redatti, a cura del Consiglio Direttivo, i
 rendiconti preventivo e consuntivo da sottoporre all’approvazione dell’Assemblea
@@ -675,7 +675,7 @@ lasciti ricevuti.
 23.c. Ai sensi dell’art. 13 D.lgs. 117/2017, il rendiconto dovrà essere redatto
 nel rispetto dell’art. 13 del D.lgs. 117/2017.
 
-**Art.24 – Modifiche allo statuto e scioglimento**
+### Art.24 – Modifiche allo statuto e scioglimento
 
 24.a. Le proposte di modifica allo Statuto possono essere presentate
 all’Assemblea esclusivamente dal Consiglio Direttivo o dal Presidente. Le
@@ -687,7 +687,7 @@ territorio di Roma Capitale, ovvero lo scioglimento dell’Associazione e la
 devoluzione del patrimonio occorre il voto favorevole di almeno tre quarti degli
 associati.
 
-**Art.25 – Norma di rinvio**
+### Art.25 – Norma di rinvio
 
 25.a. Per quanto non previsto dal presente Statuto, si fa riferimento alle
 vigenti disposizioni legislative in materia.
