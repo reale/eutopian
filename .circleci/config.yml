@@ -4,6 +4,9 @@
 #
 version: 2.1
 
+orbs:
+  pa11yci: nebulab/pa11yci@1.0.0
+
 commands:
   restore_gem_cache:
     description: Restore ruby dependencies cache
@@ -35,13 +38,6 @@ commands:
           paths:
             - vendor/bundle
           key: v1-gem-{{ checksum "Gemfile.lock" }}
-          
-  install_pa11y:
-    description: Install Pa11y
-    steps:
-      - run:
-          name: Install Pa11y
-          command: sudo npm install -g pa11y-ci --unsafe-perm=true --allow-root
 
 jobs:
   build_and_test:
@@ -56,7 +52,6 @@ jobs:
       - install_bundler
       - install_dependencies
       - save_gem_cache
-      - install_pa11y
       # build
       - run:
           name: Run build task
@@ -65,16 +60,13 @@ jobs:
       - run:
           name: Run test task
           command: bundle exec htmlproofer ./_site  --check-html --allow-hash-href --empty-alt-ignore --only-4xx --assume-extension --log-level :debug --check-favicon --enforce-https
-      - run:
-          name: Run accessibility test task
-          command: pa11y-ci ./_site
       - persist_to_workspace:
           root: .
           paths:
             - _site
             - .circleci
 
-  deploy-gh-pages:
+  deploy_gh_pages:
     docker:
       - image: circleci/ruby:2.6.3
     steps:
@@ -114,9 +106,16 @@ workflows:
             branches:
               ignore: gh-pages
 
-      - deploy-gh-pages:
+      - deploy_gh_pages:
           requires:
             - build_and_test
           filters:
             branches:
               only: master
+
+      - pa11yci/a11y-audit:
+          requires:
+            - deploy_gh_pages
+          filters:
+            branches:
+              only: gh-pages
