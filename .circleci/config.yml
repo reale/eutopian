@@ -39,7 +39,10 @@ commands:
 
   install_pa11y:
     description: Install Pa11y
-    command: sudo npm install -g pa11y-ci --unsafe-perm=true --allow-root
+    steps:
+      - run:
+          name: Install Pa11y
+          command: sudo npm install -g pa11y-ci --unsafe-perm=true --allow-root
 
 jobs:
   build_and_test:
