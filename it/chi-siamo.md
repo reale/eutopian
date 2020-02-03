@@ -29,4 +29,5 @@ order: 2
 - [Marisa Ciarlo](/it/bio-marisa-ciarlo)
 - Alfredo Cutolo
 - Sara Cutrona
+- Antonio Occhipinti
 - Alessandro Scardovi
