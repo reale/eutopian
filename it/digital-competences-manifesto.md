@@ -9,18 +9,16 @@ child_of_ref: actions
 order: 1
 ---
 
-Eutopian aderisce al [Digital Competences Manifesto](https://all-digital.org/manifesto/) sviluppato da [ALL DIGITAL](https://all-digital.org/).
+Eutopian aderisce al [Digital Competences Manifesto](https://all-digital.org/manifesto/) sviluppato da [ALL DIGITAL](https://all-digital.org/), associazione internazionale con sede a Bruxelles che si dedica allo sviluppo delle competenze digitali.
 
-Il Digital Competences Manifesto è stato presentato per la prima volta all'Assemblea generale di ALL DIGITAL nel maggio 2019, e dopo un'ampia consultazione con i membri di ALL DIGITAL è stato adottato dal consiglio di amministrazione e quindi presentato al vertice di ALL DIGITAL a Bologna l'11 ottobre 2019.
+In perfetta aderenza ai principi statutari di Eutopian, il Digital Competences Manifesto riconosce che le competenze digitali sono necessarie in tutti gli aspetti della vita, in pubblico e in privato, sul lavoro e nel tempo libero, e pone il miglioramento della cittadinanza attiva e consapevole come obiettivo fondante per il loro sviluppo.
 
-Le competenze digitali sono necessarie in tutti gli aspetti della vita, siano esse sociali o personali, riguardano il lavoro o il tempo libero, in qualsiasi settore, pubblico o privato. Il miglioramento della cittadinanza è l'obiettivo principale dello sviluppo delle competenze digitali. Siamo convinti che l'istruzione e la formazione sulle competenze digitali necessitino di un approccio più coerente e di un più coerente sistema europeo di sviluppo.
+Il Digital Competences Manifesto è stato proposto per la prima volta all'Assemblea generale di ALL DIGITAL nel maggio 2019 e poi presentato a Bologna l'11 ottobre 2019 dopo un'ampia consultazione. Il Manifesto contiene una serie di principi e raccomandazioni chiave in cinque aree principali:
 
-Il Manifesto contiene una serie di principi e raccomandazioni chiave in cinque aree principali su come massimizzare l'impatto dell'istruzione e della formazione, come strumenti utili per uno sviluppo continuo delle competenze digitali per i cittadini europei:
-
-1. L'offerta di istruzione e formazione
+1. Offerta di istruzione e formazione
 2. Accesso all'istruzione e alla formazione
 3. Qualità dell'istruzione e della formazione
-4. Validazione omogenea europea
+4. Validazione omogenea a livello europeo
 5. Sostenibilità e sviluppo
 
 [Leggi il testo completo del Manifesto](https://all-digital.org/digital-competences-manifesto/)

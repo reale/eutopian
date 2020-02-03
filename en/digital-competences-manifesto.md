@@ -9,11 +9,11 @@ child_of_ref: actions
 order: 1
 ---
 
-Eutopian endorses the [Digital Competences Manifesto](https://all-digital.org/manifesto/) developed by [ALL DIGITAL](https://all-digital.org/).
+Eutopian endorses the [Digital Competences Manifesto](https://all-digital.org/manifesto/) developed by [ALL DIGITAL](https://all-digital.org/), an international association based in Brussels whose aim is the development of digital competences.
 
-The Digital Competences Manifesto was first presented at the ALL DIGITAL General Assembly in May 2019, and after the extensive consultation with ALL DIGITAL members was adopted by the Board and then presented at the ALL DIGITAL Summit in Bologna on 11 October 2019.
+In full compliance with Eutopian's Statute, the Digital Competences Manifesto recognises tbat digital competences are necessary in all aspects of life, whether they are social or personal, relate to labour or leisure. Improved citizenship is the primary aim of developing digital competences.
 
-Digital competences are necessary in all aspects of life, whether they are social or personal, relate to labour or leisure, in any sector, public or private. Improved citizenship is the primary aim of developing digital competences. It is our conviction that the education and training on digital competences need a more consistent approach and a cohesive European system of delivery.
+The Digital Competences Manifesto was first proposed at the ALL DIGITAL General Assembly in May 2019, and after the extensive consultation was presented at the ALL DIGITAL Summit in Bologna on 11 October 2019.
 
 The Manifesto contains a series of key principles and recommendations under five main areas on how to maximise the impact of education and training, as powerful instruments towards a continuous development of digital competences for the European citizens:
 
