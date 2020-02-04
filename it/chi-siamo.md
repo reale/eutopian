@@ -18,7 +18,7 @@ order: 2
 - Davide Maniscalco
 - Gaia Nina Marano
 - Francesca Martini
-- Federica Meta
+- [Federica Meta](/it/bio-federica-meta)
 - Claudia Morelli
 - Massimiliano Nicotra
 - [Agata Quattrone](/it/bio-agata-quattrone)
