@@ -19,7 +19,7 @@ order: 2
 - Gaia Nina Marano
 - Francesca Martini
 - [Federica Meta](/it/bio-federica-meta)
-- Claudia Morelli
+- [Claudia Morelli](/it/bio-claudia-morelli)
 - Massimiliano Nicotra
 - [Agata Quattrone](/it/bio-agata-quattrone)
 - [Luisa Scarcella](/it/bio-luisa-scarcella)
