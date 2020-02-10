@@ -26,6 +26,7 @@ order: 2
 
 ## Soci ordinari
 
+- [Eva Bredariol](/it/bio-eva-bredariol)
 - [Marisa Ciarlo](/it/bio-marisa-ciarlo)
 - Alfredo Cutolo
 - Sara Cutrona
