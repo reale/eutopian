@@ -26,6 +26,7 @@ order: 2
 
 ## Ordinary Members
 
+- Eva Bredariol
 - Marisa Ciarlo
 - Alfredo Cutolo
 - Sara Cutrona
