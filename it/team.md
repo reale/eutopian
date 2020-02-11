@@ -18,7 +18,7 @@ order: 3
 - Enrico Barich
 - Davide Maniscalco
 - Gaia Nina Marano
-- Francesca Martini
+- [Francesca Martini](/it/bio-francesca-martini)
 - [Federica Meta](/it/bio-federica-meta)
 - [Claudia Morelli](/it/bio-claudia-morelli)
 - Massimiliano Nicotra
