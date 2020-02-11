@@ -4,7 +4,7 @@ title: Il sito
 lang: it
 ref: website
 permalink: /it/sito
-order: 8
+order: 6
 ---
 
 Salvo ove diversamente indicato, i contenuti pubblicati sul presente sito (testi, immagini, fotografie, video, ecc.) sono messi a disposizione con licenza CC-BY 4.0, il cui testo integrale è disponibile al seguente indirizzo: https://creativecommons.org/licenses/by/4.0/it/legalcode.
