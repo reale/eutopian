@@ -4,7 +4,7 @@ title: Contacts
 lang: en
 ref: contacts
 permalink: /en/contacts
-order: 7
+order: 5
 ---
 
 Contact us by filling the following form:
