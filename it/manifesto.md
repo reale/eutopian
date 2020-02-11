@@ -4,7 +4,8 @@ title: Manifesto
 lang: it
 ref: manifesto
 permalink: /it/manifesto
-order: 3
+child_of_ref: about-us
+order: 1
 ---
 
 Eutopian è un osservatorio indipendente, inclusivo ed aperto sull'innovazione democratica, intesa sia come innovazione all’interno di un contesto democratico sia come innovazione della democrazia, riconoscendo che i due aspetti sono tra loro inscindibili, e sono fondativi per un modello di società digitale in cui l’uomo conservi la sua centralità; e sulla rivoluzione digitale nei suoi vari aspetti: tecnologico, scientifico, economico, giuridico, sociale, culturale, politico.
