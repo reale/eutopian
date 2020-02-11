@@ -11,6 +11,6 @@ Teniamo molto ai valori e ai modelli open source, e questo sito non fa eccezione
 
 Il tema Jekyll si basa a sua volta sul [UI Kit](https://github.com/italia/design-ui-kit) ed è realizzato con [Bootstrap Italia](https://github.com/italia/bootstrap-italia/), entrambi sviluppati dalla community [Developer Italia](https://developers.italia.it/).
 
-Il sito è alimentato da un processo di integrazione continua basato su [CircleCi] (https://circleci.com/) e protetto da [Cloudflare] (https://www.cloudflare.com/), del cui [Progetto Galileo](https://www.cloudflare.com/galileo/) siamo orgogliosamente parte.
+Il sito è alimentato da un processo di integrazione continua basato su [CircleCi](https://circleci.com/) e protetto da [Cloudflare](https://www.cloudflare.com/), del cui [Progetto Galileo](https://www.cloudflare.com/galileo/) siamo orgogliosamente parte.
 
 Salvo ove diversamente indicato, i contenuti pubblicati sul sito (testi, immagini, fotografie, video, ecc.) sono messi a disposizione con licenza [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/it/legalcode): essi, pertanto, sono liberamente distribuibili e riutilizzabili, a patto che sia sempre citata la fonte e—ove possibile—riportato l'indirizzo web della pagina originale.
