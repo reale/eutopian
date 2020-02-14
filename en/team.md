@@ -33,3 +33,4 @@ order: 3
 - Sara Cutrona
 - Antonio Occhipinti
 - Alessandro Scardovi
+- Clara Silvano
