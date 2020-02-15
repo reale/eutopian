@@ -10,7 +10,7 @@ order: 1
 
 Eutopian is an independent, inclusive and open observatory on democratic innovation, both as innovation within a democratic context and as innovation of democracy, recognizing that the two aspects are inseparable from each other, and are fundamental for a digital society model in which humans retain their centrality; and on the digital revolution in its various aspects: technological, scientific, economic, legal, social, cultural, political.
 
-Eutopian cares about the high development of the political debate around the founding issues, but is strictly non-partisan. One of the aims is the proposal of concrete and feasible policies to improve national and European perspectives, while being aware of the complexity of a rapidly changing world.
+Eutopian cares about the development of a healthy political debate around our foundational topics, but is strictly non-partisan. One of our goals is the proposal of concrete and feasible policies to improve national and European perspectives, whilst being aware of the complexity of a rapidly changing world.
 
 The fundamental themes of Eutopian's activity are:
 - monitoring and promotion of technological innovation and its social, economic, political consequences;
