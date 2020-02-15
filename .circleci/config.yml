@@ -93,7 +93,7 @@ jobs:
       - run:
           name: Update GitHub Pages
           command: |
-            git config --global user.email "eutopian.eu@gmail.com"
+            git config --global user.email "info@eutopian.eu"
             git config --global user.name "Eutopian CI"
             
             cd /tmp/gh-pages
