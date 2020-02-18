@@ -3,7 +3,7 @@ layout: page
 title: Digital Competences Manifesto
 lang: it
 ref: digital-competences-manifesto
-permalink: /it/digital-competences-manifesto
+permalink: /it/iniziative/digital-competences-manifesto
 image: /assets/images/digital-competences-manifesto.jpg
 child_of_ref: actions
 order: 1
