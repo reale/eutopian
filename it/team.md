@@ -29,7 +29,7 @@ order: 3
 
 - [Eva Bredariol](/it/bio-eva-bredariol)
 - [Marisa Ciarlo](/it/bio-marisa-ciarlo)
-- Alfredo Cutolo
+- [Alfredo Cutolo](/it/bio-alfredo-cutolo)
 - Sara Cutrona
 - Antonio Occhipinti
 - Alessandro Scardovi
