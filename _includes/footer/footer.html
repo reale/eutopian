@@ -30,7 +30,6 @@
   </div>
   <div class="it-footer-small-prints clearfix">
     <div class="container">
-      <h3 class="sr-only">Sezione Link Utili</h3>
       <ul class="it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row">
         {% for footer-link in site.data.t.footer-links[page.lang] %}
 	<li class="list-inline-item"><a href="{{ site.url }}{{ site.baseurl }}{{ footer-link[1].url }}" title="{{ footer-link[1].name }}">{{ footer-link[1].name }}</a></li>
