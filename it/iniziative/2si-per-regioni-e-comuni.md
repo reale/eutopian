@@ -7,6 +7,7 @@ permalink: /it/iniziative/2si-per-regioni-e-comuni
 image: /assets/images/2si-per-regioni-e-comuni.jpg
 child_of_ref: actions
 order: 2
+redirect_from: /zMu0Y
 ---
 
 Eutopian aderisce al [Manifesto 2SÌ](https://www.statigeneralinnovazione.it/online/appuntamento-per-il-19-febbraio-2020-2si-per-regioni-e-comuni/) proposto da [Stati Generali dell'Innovazione](https://www.statigeneralinnovazione.it/) come linee programmatiche di base per le Regioni e i Comuni italiani in cui si terranno elezioni a primavera 2020.
