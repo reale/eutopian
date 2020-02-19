@@ -29,9 +29,9 @@ social-links:
     github:
       name: "github"
       url: "https://github.com/eutopian-eu"
-    instagram:
-      name: "instagram"
-      url: "https://www.instagram.com/ass.eutopian/"
+#    instagram:
+#      name: "instagram"
+#      url: "https://www.instagram.com/ass.eutopian/"
     linkedin:
       name: "linkedin"
       url: "https://www.linkedin.com/company/eutopian/"
@@ -45,9 +45,9 @@ social-links:
     github:
       name: "github"
       url: "https://github.com/eutopian-eu"
-    instagram:
-      name: "instagram"
-      url: "https://www.instagram.com/ass.eutopian/"
+#    instagram:
+#      name: "instagram"
+#      url: "https://www.instagram.com/ass.eutopian/"
     linkedin:
       name: "linkedin"
       url: "https://www.linkedin.com/company/eutopian/"
