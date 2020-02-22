@@ -4,7 +4,7 @@ title: Gaia Nina Marano
 lang: it
 ref: bio-gaia-nina-marano
 permalink: /it/bio-gaia-nina-marano
-image: /assets/images/pic-gaia-nina-marano.png
+image: /assets/images/pic-gaia-nina-marano.jpg
 ---
 
 Avvocato specializzato in diritto del lavoro con focus in diritto dell’economia e  dell’impresa, collabora presso uno studio boutique di diritto del lavoro di Roma.
