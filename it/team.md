@@ -17,7 +17,7 @@ order: 3
 - Roberto Alma
 - Enrico Barich
 - Davide Maniscalco
-- Gaia Nina Marano
+- [Gaia Nina Marano](/it/bio-gaia-nina-marano)
 - [Francesca Martini](/it/bio-francesca-martini)
 - [Federica Meta](/it/bio-federica-meta)
 - [Claudia Morelli](/it/bio-claudia-morelli)
