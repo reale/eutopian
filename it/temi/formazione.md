@@ -8,3 +8,5 @@ image:
 child_of_ref: themes
 order: 6
 ---
+
+Eutopian riconosce la formazione continua come strumento indispensabile per la riduzione dello skill gap e del digital divide.
