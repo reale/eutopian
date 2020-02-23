@@ -8,3 +8,5 @@ image:
 child_of_ref: themes
 order: 3
 ---
+
+Non è concepibile innovazione senza sostenibilità, etica, sociale, ambientale.
