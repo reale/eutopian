@@ -3,7 +3,7 @@ layout: page
 title: Statuto
 lang: it
 ref: statute
-permalink: /it/statuto
+permalink: /it/chi-siamo/statuto
 child_of_ref: about-us
 order: 2
 ---

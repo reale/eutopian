@@ -3,7 +3,7 @@ layout: page
 title: Manifesto
 lang: it
 ref: manifesto
-permalink: /it/manifesto
+permalink: /it/chi-siamo/manifesto
 child_of_ref: about-us
 order: 1
 ---

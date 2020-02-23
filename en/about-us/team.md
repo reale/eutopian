@@ -3,7 +3,7 @@ layout: page
 title: Our team
 lang: en
 ref: team
-permalink: /en/team
+permalink: /en/about-us/team
 child_of_ref: about-us
 order: 3
 ---
