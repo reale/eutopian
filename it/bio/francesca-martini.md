@@ -3,7 +3,7 @@ layout: page
 title: Francesca Martini
 lang: it
 ref: bio-francesca-martini
-permalink: /it/bio-francesca-martini
+permalink: /it/bio/bio-francesca-martini
 image:
 ---
 

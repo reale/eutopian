@@ -3,7 +3,7 @@ layout: page
 title: Alfredo Cutolo
 lang: it
 ref: bio-alfredo-cutolo
-permalink: /it/bio-alfredo-cutolo
+permalink: /it/bio/bio-alfredo-cutolo
 image:
 ---
 
