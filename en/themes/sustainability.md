@@ -8,3 +8,5 @@ image:
 child_of_ref: themes
 order: 3
 ---
+
+Innovation is not conceivable without ethical, social, environmental sustainability.
