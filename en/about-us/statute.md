@@ -3,12 +3,12 @@ layout: page
 title: Statute
 lang: en
 ref: statute
-permalink: /en/statute
+permalink: /en/about-us/statute
 child_of_ref: about-us
 order: 2
 ---
 
-**WARNING: The following English translation of the Statute is for informational purposes only. The only legally binding text is the [Italian](/it/statuto) one.**
+**WARNING: The following English translation of the Statute is for informational purposes only. The only legally binding text is the [Italian](/it/chi-siamo/statuto) one.**
 
 ### Art. 1 - Constitution and denomination
 
