@@ -8,3 +8,5 @@ image:
 child_of_ref: themes
 order: 1
 ---
+
+Innovation is the cornerstone of Eutopian's action.
