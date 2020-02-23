@@ -2,8 +2,8 @@
 layout: page
 title: Federica Meta
 lang: it
-ref: bio-federica-meta
-permalink: /it/bio/bio-federica-meta
+ref: federica-meta
+permalink: /it/bio/federica-meta
 image: /assets/images/pic-federica-meta.jpg
 ---
 

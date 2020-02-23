@@ -2,8 +2,8 @@
 layout: page
 title: Roberto Reale
 lang: it
-ref: bio-roberto-reale
-permalink: /it/bio/bio-roberto-reale
+ref: roberto-reale
+permalink: /it/bio/roberto-reale
 image: /assets/images/pic-roberto-reale.jpg
 ---
 

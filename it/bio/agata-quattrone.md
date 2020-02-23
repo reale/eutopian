@@ -2,8 +2,8 @@
 layout: page
 title: Agata Quattrone
 lang: it
-ref: bio-agata-quattrone
-permalink: /it/bio/bio-agata-quattrone
+ref: agata-quattrone
+permalink: /it/bio/agata-quattrone
 image: /assets/images/pic-agata-quattrone.jpg
 ---
 

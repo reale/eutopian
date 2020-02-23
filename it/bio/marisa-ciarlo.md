@@ -2,8 +2,8 @@
 layout: page
 title: Marisa Ciarlo
 lang: it
-ref: bio-marisa-ciarlo
-permalink: /it/bio/bio-marisa-ciarlo
+ref: marisa-ciarlo
+permalink: /it/bio/marisa-ciarlo
 image: /assets/images/pic-marisa-ciarlo.jpg
 ---
 
