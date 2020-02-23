@@ -5,29 +5,30 @@
                 <div class="it-header-slim-wrapper-content">
                     {% comment %}
                     <a class="d-none d-lg-block navbar-brand" href="#">Ente appartenenza/Owner</a>
+                    {% endcomment %}
                     <div class="nav-mobile">
                         <nav>
+                    {% comment %}
                             <a class="it-opener d-lg-none" data-toggle="collapse" href="#menu1" role="button" aria-expanded="false" aria-controls="menu1">
                                 <span>Ente appartenenza/Owner</span>
                                 <svg class="icon">
                                     <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-expand"></use>
                                 </svg>
                             </a>
+                    {% endcomment %}
                             <div class="link-list-wrapper collapse" id="menu1">
                                 <ul class="link-list">
-                                    <li><a href="#">Link 1</a></li>
-                                    <li><a href="#">Link 2</a></li>
-                                    <li class="d-lg-none"><a href="#">Ente appartenenza/Owner</a></li>
+                                    <li><a href="{{ site.data.t.header-links[page.lang].eu-parliament.url }}">{{ site.data.t.header-links[page.lang].eu-parliament.name }}</a></li>
+                                    <li><a href="{{ site.data.t.header-links[page.lang].eu-commission.url }}">{{ site.data.t.header-links[page.lang].eu-commission.name }}</a></li>
                                 </ul>
                             </div>
                         </nav>
                     </div>
-                    {% endcomment %}
                     <div class="header-slim-right-zone">
-                        <!-- Language Switch -->
-                        {% include header/header-lang-switch.html %}
                         <!-- Account options -->
 			<a class="d-none d-lg-block" href="https://drive.google.com/drive/folders/1GHwdUAP8ady0IP_w0fOZFrQ8KOh8Zz9J">{{ site.data.t.reserved-area[page.lang] }}</a>
+                        <!-- Language Switch -->
+                        {% include header/header-lang-switch.html %}
                     </div>
                 </div>
             </div>
