@@ -3,7 +3,7 @@ layout: page
 title: Eva Bredariol
 lang: it
 ref: bio-eva-bredariol
-permalink: /it/bio-eva-bredariol
+permalink: /it/bio/bio-eva-bredariol
 image: /assets/images/pic-eva-bredariol.jpg
 ---
 

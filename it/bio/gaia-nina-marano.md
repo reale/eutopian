@@ -3,7 +3,7 @@ layout: page
 title: Gaia Nina Marano
 lang: it
 ref: bio-gaia-nina-marano
-permalink: /it/bio-gaia-nina-marano
+permalink: /it/bio/bio-gaia-nina-marano
 image: /assets/images/pic-gaia-nina-marano.jpg
 ---
 

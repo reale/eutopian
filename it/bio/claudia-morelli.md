@@ -3,7 +3,7 @@ layout: page
 title: Claudia Morelli
 lang: it
 ref: bio-claudia-morelli
-permalink: /it/bio-claudia-morelli
+permalink: /it/bio/bio-claudia-morelli
 image: /assets/images/pic-claudia-morelli.png
 ---
 

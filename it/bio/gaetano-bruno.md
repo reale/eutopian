@@ -3,7 +3,7 @@ layout: page
 title: Gaetano Bruno
 lang: it
 ref: bio-gaetano-bruno
-permalink: /it/bio-gaetano-bruno
+permalink: /it/bio/bio-gaetano-bruno
 image: /assets/images/pic-gaetano-bruno.jpg
 ---
 
