@@ -17,6 +17,22 @@ author:
   en: "Eutopian"
   it: "Eutopian"
 
+header-links:
+  en:
+    eu-commission:
+      name: "European Commission"
+      url: "https://ec.europa.eu/info/index_en"
+    eu-parliament:
+      name: "European Parliament"
+      url: "https://www.europarl.europa.eu/portal/en"
+  it:
+    eu-commission:
+      name: "Commissione europea"
+      url: "https://ec.europa.eu/info/index_it"
+    eu-parliament:
+      name: "Parlamento europeo"
+      url: "https://www.europarl.europa.eu/portal/it"
+
 ## Social
 social-links:
   en:
