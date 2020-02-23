@@ -6,5 +6,5 @@ ref: territory
 permalink: /en/themes/territory
 image:
 child_of_ref: themes
-order: 5
+order: 7
 ---
