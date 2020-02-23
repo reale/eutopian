@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Security
+title: Sicurezza
 lang: it
 ref: sicurezza
 permalink: /it/temi/sicurezza
