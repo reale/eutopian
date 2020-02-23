@@ -8,8 +8,8 @@ gem 'html-proofer', '~> 3.11'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem 'jekyll-feed'
-   gem 'jekyll-sitemap'
    gem 'jekyll-redirect-from'
+   gem 'jekyll-sitemap'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
