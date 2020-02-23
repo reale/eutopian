@@ -6,5 +6,5 @@ ref: education
 permalink: /it/temi/formazione
 image:
 child_of_ref: themes
-order: 4
+order: 6
 ---
