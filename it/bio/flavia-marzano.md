@@ -2,8 +2,8 @@
 layout: page
 title: Flavia Marzano
 lang: it
-ref: bio-flavia-marzano
-permalink: /it/bio/bio-flavia-marzano
+ref: flavia-marzano
+permalink: /it/bio/flavia-marzano
 image: /assets/images/pic-flavia-marzano.jpg
 ---
 
