@@ -6,7 +6,7 @@ ref: digital-competences-manifesto
 permalink: /en/actions/digital-competences-manifesto
 image: /assets/images/digital-competences-manifesto.jpg
 child_of_ref: actions
-order: 1
+order: 3
 ---
 
 Eutopian endorses the [Digital Competences Manifesto](https://all-digital.org/manifesto/) developed by [ALL DIGITAL](https://all-digital.org/), an international association based in Brussels whose aim is the development of digital competences.
