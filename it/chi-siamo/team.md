@@ -31,6 +31,6 @@ order: 3
 - [Marisa Ciarlo](/it/bio/marisa-ciarlo)
 - [Alfredo Cutolo](/it/bio/alfredo-cutolo)
 - Sara Cutrona
-- Antonio Occhipinti
+- [Antonio Occhipinti](/it/bio/antonio-occhipinti)
 - Alessandro Scardovi
 - Clara Silvano
