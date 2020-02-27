@@ -33,4 +33,4 @@ order: 3
 - Sara Cutrona
 - [Antonio Occhipinti](/it/bio/antonio-occhipinti)
 - Alessandro Scardovi
-- Clara Silvano
+- [Clara Silvano](/it/bio/clara-silvano)
