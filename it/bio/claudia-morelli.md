@@ -7,28 +7,24 @@ permalink: /it/bio/claudia-morelli
 image: /assets/images/pic-claudia-morelli.png
 ---
 
-Giornalista professionista, da 20 anni mi occupo di Comunicazione e Business development per studi legali e realtà forensi, associative e istituzionali. Progetto e gestisco piani di Comunicazione legale presso i media, tramite il web e sui canali social.
+*“Una convinzione tra tanti dubbi: il digitale ci connetta al futuro”*
 
-Dagli studi ho tratto l’amore per il Diritto. Da romantica quello per la Giustizia. Ho una propensione entusiasta a partecipare a nuovi progetti. 
+Giornalista professionista, specializzata in Comunicazione in ambito giuridico e legale.
 
-Con Altalex ho contribuito a ideare, nel 2016, la rubrica settimanale Avvocatoquattropuntozero, la prima dedicata specificatamente alla innovazione digitale in ambito legale. 
+Con Altalex (Wolters Kluwer) ha contribuito a ideare, nel 2016, la rubrica settimanale Avvocatoquattropuntozero, la prima dedicata specificatamente alla innovazione digitale in ambito legale.
 
-Collaboro con ItaliaOggi (Class Editori), scrivendo dei progetti governativi e dell’attività parlamentare in materia di Giustizia.
+Consulente per la Comunicazione e le Media Relations di realtà associative forensi e professionali legali.
 
-Progetto piani di Comunicazione integrata per realtà associative e professionali legali.
+Docente in corsi di formazione di Legal Communication & Management.
 
-Partecipo come docente in corsi di formazione di Legal Communication & Management
+Divulga innovazione legale in eventi, convegni, giornate di formazione organizzati da Ordini e Associazioni forensi.
 
-Intervengo in qualità di divulgatrice di innovazione legale in eventi, convegni, giornate di formazione organizzata da Ordini e Associazioni forensi. 
+Collabora con ItaliaOggi (Class Editori), scrivendo dei progetti governativi e dell’attività parlamentare in materia di Giustizia.
 
-Per otto anni sono stata capo della Comunicazione e dei Rapporti con i Media del Consiglio Nazionale Forense. 
+Per otto anni è stata capo della Comunicazione e dei Rapporti con i Media del Consiglio Nazionale Forense.
 
-Precedentemente giornalista parlamentare e responsabile dell’inserto settimanale La Legge di ItaliaOggi – Class editori. 
+Precedentemente giornalista parlamentare e responsabile dell’inserto settimanale La Legge di ItaliaOggi – Class editori.
 
-Laurea in Giurisprudenza; Master ISDA in Gestione di impresa; Abilitazioni forense e giornalistica; Master in Comunicazione digitale; Certificazione Google Digital training. 
-
-Conoscenza, Etica, Responsabilità sono i principi ai quali mi ispiro. 
-
-Una convinzione tra tanti dubbi: il digitale ci connetta al futuro.
+Laurea in Giurisprudenza; Master ISDA in Gestione di impresa; Abilitazioni forense e giornalistica; Master in Comunicazione digitale; Certificazione Google Digital training.
 
 [LinkedIn](https://www.linkedin.com/in/claudia-morelli-clamor/)
