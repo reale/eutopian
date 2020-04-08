@@ -34,3 +34,4 @@ order: 3
 - Antonio Occhipinti
 - Alessandro Scardovi
 - Clara Silvano
+- Simone Stricelli

@@ -34,3 +34,4 @@ order: 3
 - [Antonio Occhipinti](/it/bio/antonio-occhipinti)
 - Alessandro Scardovi
 - [Clara Silvano](/it/bio/clara-silvano)
+- Simone Stricelli
