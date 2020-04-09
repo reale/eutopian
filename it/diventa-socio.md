@@ -7,7 +7,9 @@ permalink: /it/diventa-socio
 order: 6
 ---
 
-Per chiedere di diventare socio, compila il modulo seguente. In alternativa, puoi scaricare e compilare il [Modulo di adesione per persone fisiche](/assets/docs/eutopian-adesione-persone-fisiche.docx) oppure il [Modulo di adesione per persone giuridiche](/assets/docs/eutopian-adesione-persone-giuridiche.docx) ed inviarlo a <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Per chiedere di diventare socio, compila il modulo seguente.
+
+In alternativa, puoi scaricare e compilare il [Modulo di adesione per persone fisiche](/assets/docs/eutopian-adesione-persone-fisiche.docx) oppure il [Modulo di adesione per persone giuridiche](/assets/docs/eutopian-adesione-persone-giuridiche.docx) ed inviarlo a <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
 <form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/{{ site.email }}" method="post">
   <fieldset id="fs-frm-inputs">
@@ -23,17 +25,19 @@ Per chiedere di diventare socio, compila il modulo seguente. In alternativa, puo
     <input type="hidden" name="_language" value="{{ page.lang }}" />
     <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
 
-MANIFESTO LA MIA VOLONTÀ
+    <p class="text-center">MANIFESTO LA MIA VOLONTÀ</p>
 
-di aderire all’Associazione “EUTOPIAN – OSSERVATORIO EUROPEO SULL’INNOVAZIONE DEMOCRATICA”, ai sensi e per gli effetti di cui all’art. 8.f del vigente Statuto sociale
+    <p class="text-justify">di aderire all’Associazione “EUTOPIAN – OSSERVATORIO EUROPEO SULL’INNOVAZIONE DEMOCRATICA”, ai sensi e per gli effetti di cui all’art. 8.f del vigente Statuto sociale</p>
 
-DICHIARO
+    <p class="text-center">DICHIARO</p>
 
-* di condividere ed essere interessato alla realizzazione delle finalità della Associazione, di cui condivido lo spirito e gli ideali;
-* di impegnarmi ad osservare lo Statuto, i Regolamenti interni e le deliberazioni legittimamente adottati dagli Organi associativi che dichiaro di aver letto attentamente e di accettare integralmente;
-* di impegnarmi a corrispondere la quota di ammissione, ove stabilita dal Consiglio Direttivo dell’Associazione.
+    <ul class="text-justify">
+      <li>di condividere ed essere interessato alla realizzazione delle finalità della Associazione, di cui condivido lo spirito e gli ideali;
+      <li>di impegnarmi ad osservare lo Statuto, i Regolamenti interni e le deliberazioni legittimamente adottati dagli Organi associativi che dichiaro di aver letto attentamente e di accettare integralmente;
+      <li>di impegnarmi a corrispondere la quota di ammissione, ove stabilita dal Consiglio Direttivo dell’Associazione.
+    </ul>
 
-La/Il Sottoscritta/o autorizza al trattamento di tutti i dati riportati nel presente modulo di adesione, compresi i futuri eventuali aggiornamenti e/o modifiche dallo/a stesso/a comunicate, per tutte le finalità statutarie dell’Associazione “EUTOPIAN – OSSERVATORIO EUROPEO SULL’INNOVAZIONE DEMOCRATICA” e nelle modalità descritte dalla Privacy Policy.
+    <p class="text-justify">La/Il Sottoscritta/o autorizza al trattamento di tutti i dati riportati nel presente modulo di adesione, compresi i futuri eventuali aggiornamenti e/o modifiche dallo/a stesso/a comunicate, per tutte le finalità statutarie dell’Associazione “EUTOPIAN – OSSERVATORIO EUROPEO SULL’INNOVAZIONE DEMOCRATICA” e nelle modalità descritte dalla Privacy Policy.</p>
 
     <input type="submit" value="Invia">
   </fieldset>
