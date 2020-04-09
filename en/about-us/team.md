@@ -35,3 +35,4 @@ order: 3
 - Alessandro Scardovi
 - Clara Silvano
 - Simone Stricelli
+- Vito Valente

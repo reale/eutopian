@@ -35,3 +35,4 @@ order: 3
 - Alessandro Scardovi
 - [Clara Silvano](/it/bio/clara-silvano)
 - Simone Stricelli
+- Vito Valente
