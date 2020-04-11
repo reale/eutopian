@@ -5,6 +5,7 @@ lang: it
 ref: roberto-reale
 permalink: /it/bio/roberto-reale
 image: /assets/images/pic-roberto-reale.jpg
+child_of_ref: team
 ---
 
 Manager dell’innovazione con oltre 10 anni di esperienza in progetti di e-government e trasformazione digitale di settori strategici in ambito nazionale e UE (organi parlamentari, finanza pubblica, procurement, infrastrutture critiche, servizi pubblici) e 20 anni di esperienza in sviluppo, progettazione e gestione di piattaforme ICT. Nel quinquennio 2010-14 ha curato progetti di e-goverment presso il Ministero degli Affari Esteri, nel biennio 2016-18 presso la Camera dei deputati, dal 2018 cura progetti europei in ambito procurement elettronico e fatturazione elettronica presso l’Agenzia per l’Italia digitale.

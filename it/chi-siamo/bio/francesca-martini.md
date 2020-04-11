@@ -5,6 +5,7 @@ lang: it
 ref: francesca-martini
 permalink: /it/bio/francesca-martini
 image:
+child_of_ref: team
 ---
 
 Avvocato, dottore di ricerca in diritto amministrativo, svolge attività di consulenza e assistenza legale. Ha svolto attività di ricerca in ambito accademico, presso lo IUSS di Pavia, e presso l'Università di Pisa. È stata professore a contratto di diritto amministrativo presso l'Accademia Navale di Livorno e docente del Mater Open source organizzato dal Dipartimento dell'Informatica dell'Università di Pisa.
