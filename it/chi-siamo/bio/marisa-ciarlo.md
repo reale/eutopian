@@ -5,6 +5,7 @@ lang: it
 ref: marisa-ciarlo
 permalink: /it/bio/marisa-ciarlo
 image: /assets/images/pic-marisa-ciarlo.jpg
+child_of_ref: team
 ---
 
 Laureata in Economia e direzione delle imprese - Management alla Luiss Guido Carli nel 2010, ha avviato il suo percorso professionale nel settore della consulenza. Dal 2013 al 2015 ha lavorato presso Infratel Italia Spa (società in-house del MISE), con il ruolo di unico Responsabile della funzione di “Progetti speciali” a diretto riporto dell’AD. Ha svolto, inoltre, attività di tutor del Corporate MBA erogato dalla LUISS Business School presso la stessa azienda.

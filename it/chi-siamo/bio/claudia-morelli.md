@@ -5,6 +5,7 @@ lang: it
 ref: claudia-morelli
 permalink: /it/bio/claudia-morelli
 image: /assets/images/pic-claudia-morelli.png
+child_of_ref: team
 ---
 
 *“Una convinzione tra tanti dubbi: il digitale ci connetta al futuro”*

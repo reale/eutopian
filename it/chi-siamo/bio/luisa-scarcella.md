@@ -5,6 +5,7 @@ lang: it
 ref: luisa-scarcella
 permalink: /it/bio/luisa-scarcella
 image: /assets/images/pic-luisa-scarcella.jpg
+child_of_ref: team
 ---
 
 Assistente di Ricerca presso il dipartimento di diritto tributario dell’Università di Graz. È research associate al Centre for Blockchain Technologies dell’ Università UCL di Londra e coordinator del gruppo di lavoro Finance, Law and Economics della Young Scholars Initiative INET (Institute for New Economic Thinking).

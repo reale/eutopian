@@ -5,6 +5,7 @@ lang: it
 ref: agata-quattrone
 permalink: /it/bio/agata-quattrone
 image: /assets/images/pic-agata-quattrone.jpg
+child_of_ref: team
 ---
 
 Ingegnere, PhD in Ingegneria dei Trasporti e della Logistica. Esperta di Digital Transformation, Politiche Smart City e Innovazione.
