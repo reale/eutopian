@@ -3,7 +3,7 @@ layout: page
 title: Luisa Scarcella
 lang: it
 ref: luisa-scarcella
-permalink: /it/bio/luisa-scarcella
+permalink: /io/chi-siamo/bio/luisa-scarcella
 image: /assets/images/pic-luisa-scarcella.jpg
 child_of_ref: team
 ---

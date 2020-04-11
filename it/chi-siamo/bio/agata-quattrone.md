@@ -3,7 +3,7 @@ layout: page
 title: Agata Quattrone
 lang: it
 ref: agata-quattrone
-permalink: /it/bio/agata-quattrone
+permalink: /io/chi-siamo/bio/agata-quattrone
 image: /assets/images/pic-agata-quattrone.jpg
 child_of_ref: team
 ---
