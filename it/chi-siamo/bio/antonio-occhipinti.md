@@ -3,7 +3,7 @@ layout: page
 title: Antonio Occhipinti
 lang: it
 ref: antonio-occhipinti
-permalink: /it/bio/antonio-occhipinti
+permalink: /io/chi-siamo/bio/antonio-occhipinti
 image: /assets/images/pic-antonio-occhipinti.png
 child_of_ref: team
 ---
