@@ -19,11 +19,24 @@ order: 3
       <a href="/it/chi-siamo/bio/roberto-reale" class="card-link">Bio</a>
     </div>
   </div>
+  <div class="card border rounded">
+    <img class="card-img-top" src="/assets/images/pic-flavia-marzano.jpg" alt="Bio Flavia Marzano">
+    <div class="card-body">
+      <h5 class="card-title">Flavia Marzano</h5>
+      <p>Vicepresidente</p>
+      <a href="/it/chi-siamo/bio/flavia-marzano" class="card-link">Bio</a>
+    </div>
+  </div>
+  <div class="card border rounded">
+    <img class="card-img-top" src="/assets/images/pic-gaetano-bruno.jpg" alt="Bio Gaetano Bruno">
+    <div class="card-body">
+      <h5 class="card-title">Gaetano Bruno</h5>
+      <p>Segretario</p>
+      <a href="/it/chi-siamo/bio/gaetano-bruno" class="card-link">Bio</a>
+    </div>
+  </div>
 </div>
 
-- [Roberto Reale](/it/chi-siamo/bio/roberto-reale), presidente
-- [Flavia Marzano](/it/chi-siamo/bio/flavia-marzano), vicepresidente
-- [Gaetano Bruno](/it/chi-siamo/bio/gaetano-bruno), segretario
 - Antonio Barbieri, tesoriere
 - Roberto Alma
 - Enrico Barich
