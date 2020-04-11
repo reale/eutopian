@@ -38,7 +38,7 @@ order: 3
   <div class="card border rounded">
     <div class="card-body">
       <h5 class="card-title">Antonio Barbieri</h5>
-      <p>Tesoriore</p>
+      <p>Tesoriere</p>
     </div>
   </div>
   <div class="card border rounded">
