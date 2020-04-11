@@ -122,7 +122,6 @@ order: 3
     </div>
   </div>
   <div class="card border rounded">
-    <img class="card-img-top" src="/assets/images/pic-alfredo-cutolo.jpg" alt="Bio Alfredo Cutolo">
     <div class="card-body">
       <h5 class="card-title">Alfredo Cutolo</h5>
       <a href="/it/chi-siamo/bio/alfredo-cutolo" class="card-link">Bio</a>
