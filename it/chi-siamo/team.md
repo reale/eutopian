@@ -10,6 +10,16 @@ order: 3
 
 ## Fondatori
 
+<div class="card-columns">
+  <div class="card">
+    <img class="card-img-top" src="/assets/images/pic-roberto-reale.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Roberto Reale</h5>
+      <p class="card-text">Presidente</p>
+    </div>
+  </div>
+</div>
+
 - [Roberto Reale](/it/chi-siamo/bio/roberto-reale), presidente
 - [Flavia Marzano](/it/chi-siamo/bio/flavia-marzano), vicepresidente
 - [Gaetano Bruno](/it/chi-siamo/bio/gaetano-bruno), segretario
