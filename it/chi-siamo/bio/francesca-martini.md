@@ -3,7 +3,7 @@ layout: page
 title: Francesca Martini
 lang: it
 ref: francesca-martini
-permalink: /io/chi-siamo/bio/francesca-martini
+permalink: /it/chi-siamo/bio/francesca-martini
 image:
 child_of_ref: team
 ---

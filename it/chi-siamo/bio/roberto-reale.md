@@ -3,7 +3,7 @@ layout: page
 title: Roberto Reale
 lang: it
 ref: roberto-reale
-permalink: /io/chi-siamo/bio/roberto-reale
+permalink: /it/chi-siamo/bio/roberto-reale
 image: /assets/images/pic-roberto-reale.jpg
 child_of_ref: team
 ---
