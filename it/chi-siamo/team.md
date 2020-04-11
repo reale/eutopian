@@ -77,7 +77,7 @@ order: 3
     </div>
   </div>
   <div class="card border rounded">
-    <img class="card-img-top" src="/assets/images/pic-claudia-morelli.jpg" alt="Bio Claudia Morelli">
+    <img class="card-img-top" src="/assets/images/pic-claudia-morelli.png" alt="Bio Claudia Morelli">
     <div class="card-body">
       <h5 class="card-title">Claudia Morelli</h5>
       <a href="/it/chi-siamo/bio/claudia-morelli" class="card-link">Bio</a>
