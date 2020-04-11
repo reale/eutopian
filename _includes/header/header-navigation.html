@@ -100,8 +100,8 @@ tutte le pagine del sito che:
                       <div class="dropdown-menu">
                         <div class="link-list-wrapper">
                           <ul class="link-list">
-                            <li><a class="list-item" aria-label="{{ site.data.t.goto[page.lang] }} {{ menu_page.title }}" href="{{ site.baseurl }}{{ menu_page.url }}"><span>{{ menu_page.title }}</span></a></li>
-                            <li><span class="divider"></span></li>
+                            <!--<li><a class="list-item" aria-label="{{ site.data.t.goto[page.lang] }} {{ menu_page.title }}" href="{{ site.baseurl }}{{ menu_page.url }}"><span>{{ menu_page.title }}</span></a></li>
+                            <li><span class="divider"></span></li>-->
                             {% for menu_child_page in current_lang_menu_child_pages %}
                             <li><a class="list-item" aria-label="{{ site.data.t.goto[page.lang] }} {{ menu_child_page.title }}" href="{{ site.baseurl }}{{ menu_child_page.url }}"><span>{{ menu_child_page.title }}</span></a>
                             </li>
