@@ -11,7 +11,7 @@ order: 3
 ## Fondatori
 
 <div class="card-columns">
-  <div class="card">
+  <div class="card rounded">
     <img class="card-img-top" src="/assets/images/pic-roberto-reale.jpg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Roberto Reale</h5>
