@@ -11,11 +11,11 @@ order: 3
 ## Fondatori
 
 <div class="card-columns">
-  <div class="card rounded">
+  <div class="card border rounded">
     <img class="card-img-top" src="/assets/images/pic-roberto-reale.jpg" alt="Bio Roberto Reale">
     <div class="card-body">
       <h5 class="card-title">Roberto Reale</h5>
-      <p class="card-text">Presidente</p>
+      <p>Presidente</p>
       <a href="/it/chi-siamo/bio/roberto-reale" class="card-link">Bio</a>
     </div>
   </div>
