@@ -3,7 +3,7 @@ layout: page
 title: Clara Silvano
 lang: it
 ref: clara-silvano
-permalink: /io/chi-siamo/bio/clara-silvano
+permalink: /it/chi-siamo/bio/clara-silvano
 image: /assets/images/pic-clara-silvano.jpg
 child_of_ref: team
 ---

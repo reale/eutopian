@@ -3,7 +3,7 @@ layout: page
 title: Marisa Ciarlo
 lang: it
 ref: marisa-ciarlo
-permalink: /io/chi-siamo/bio/marisa-ciarlo
+permalink: /it/chi-siamo/bio/marisa-ciarlo
 image: /assets/images/pic-marisa-ciarlo.jpg
 child_of_ref: team
 ---

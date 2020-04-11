@@ -3,7 +3,7 @@ layout: page
 title: Federica Meta
 lang: it
 ref: federica-meta
-permalink: /io/chi-siamo/bio/federica-meta
+permalink: /it/chi-siamo/bio/federica-meta
 image: /assets/images/pic-federica-meta.jpg
 child_of_ref: team
 ---
