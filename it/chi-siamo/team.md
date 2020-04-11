@@ -96,7 +96,7 @@ order: 3
     </div>
   </div>
   <div class="card border rounded">
-    <img class="card-img-top" src="/assets/images/pic-gaia-nina-marano.jpg" alt="Bio Luisa Scarcella">
+    <img class="card-img-top" src="/assets/images/pic-luisa-scarcella.jpg" alt="Bio Luisa Scarcella">
     <div class="card-body">
       <h5 class="card-title">Luisa Scarcella</h5>
       <a href="/it/chi-siamo/bio/luisa-scarcella" class="card-link">Bio</a>
