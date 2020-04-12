@@ -1,0 +1,197 @@
+## Members
+
+founders:
+    - name: "Roberto Reale"
+      priority: 2
+      role: president
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/robertoreale
+          twitter: https://twitter.com/Reale_EU
+
+    - name: "Flavia Marzano"
+      priority: 1
+      role: vicepresident
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/flaviamarzano
+          twitter: https://twitter.com/flavia_marzano
+
+    - name: "Gaetano Bruno"
+      priority: 0
+      role: secretary
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/gaetanobruno
+          twitter: https://twitter.com/GB7113
+
+    - name: "Antonio Barbieri"
+      priority: 0
+      role: treasurer
+      bio: false
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/antonio-barbieri-38a9372
+
+    - name: "Roberto Alma"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/roberto-alma-92560328
+
+    - name: "Enrico Barich"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/enrico-barich-875aab2b
+
+    - name: "Davide Maniscalco"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/davide-maniscalco-🇮🇹🇪🇺-6512aa66
+          twitter: https://twitter.com/manisco74
+
+    - name: "Gaia Nina Marano"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/gnmarano
+
+    - name: "Francesca Martini"
+      priority: 0
+      role:
+      bio: true
+      headshot:
+      social-links:
+
+    - name: "Federica Meta"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/federica-meta-54b428167
+          twitter: https://twitter.com/federicameta
+
+    - name: "Claudia Morelli"
+      priority: 0
+      role:
+      bio: true
+      headshot: png
+      social-links:
+          linkedin: https://www.linkedin.com/in/claudia-morelli-clamor
+          twitter: https://twitter.com/clamorelli
+        
+    - name: "Massimiliano Nicotra"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/massimiliano-nicotra-38757328
+          twitter: https://twitter.com/avvmax70
+
+    - name: "Agata Quattrone"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/quattroneagata
+          twitter: https://twitter.com/Tatella_77
+
+    - name: "Luisa Scarcella"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/luisa-scarcella-0b6601147
+          twitter: https://twitter.com/luisa_scarcella
+
+ordinary:
+    - name: "Eva Bredariol"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/eva-bredariol
+          twitter: https://twitter.com/EvaBredariol
+
+    - name: "Marisa Ciarlo"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/marisa-ciarlo-74319421
+
+    - name: "Alfredo Cutolo"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/alfredo-cutolo-7b288953
+
+    - name: "Sara Cutrona"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/sara-cutrona-b47655aa
+          twitter: https://twitter.com/SaraCutrona
+
+    - name: "Antonio Occhipinti"
+      priority: 0
+      role:
+      bio: true
+      headshot: png
+      social-links:
+          linkedin: https://www.linkedin.com/in/antonio-occhipinti-09b26637
+
+    - name: "Alessandro Scardovi"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/alessandroscardovi
+
+    - name: "Clara Silvano"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/clara-silvano-0190b0156
+
+    - name: "Simone Stricelli"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/simonestricelli
+
+    - name: "Vito Valente"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/vito-valente-9687875a
