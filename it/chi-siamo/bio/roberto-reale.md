@@ -4,7 +4,7 @@ title: Roberto Reale
 lang: it
 ref: roberto-reale
 permalink: /it/chi-siamo/bio/roberto-reale
-image: /assets/images/pic-roberto-reale.jpg
+image: /assets/images/headshots/roberto-reale.jpg
 child_of_ref: team
 ---
 

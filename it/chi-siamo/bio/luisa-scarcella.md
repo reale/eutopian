@@ -4,7 +4,7 @@ title: Luisa Scarcella
 lang: it
 ref: luisa-scarcella
 permalink: /it/chi-siamo/bio/luisa-scarcella
-image: /assets/images/pic-luisa-scarcella.jpg
+image: /assets/images/headshots/luisa-scarcella.jpg
 child_of_ref: team
 ---
 

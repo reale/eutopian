@@ -4,7 +4,7 @@ title: Federica Meta
 lang: it
 ref: federica-meta
 permalink: /it/chi-siamo/bio/federica-meta
-image: /assets/images/pic-federica-meta.jpg
+image: /assets/images/headshots/federica-meta.jpg
 child_of_ref: team
 ---
 

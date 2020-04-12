@@ -4,7 +4,7 @@ title: Flavia Marzano
 lang: it
 ref: flavia-marzano
 permalink: /it/chi-siamo/bio/flavia-marzano
-image: /assets/images/pic-flavia-marzano.jpg
+image: /assets/images/headshots/flavia-marzano.jpg
 child_of_ref: team
 ---
 

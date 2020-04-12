@@ -4,7 +4,7 @@ title: Clara Silvano
 lang: it
 ref: clara-silvano
 permalink: /it/chi-siamo/bio/clara-silvano
-image: /assets/images/pic-clara-silvano.jpg
+image: /assets/images/headshots/clara-silvano.jpg
 child_of_ref: team
 ---
 

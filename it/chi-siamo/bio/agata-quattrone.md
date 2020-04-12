@@ -4,7 +4,7 @@ title: Agata Quattrone
 lang: it
 ref: agata-quattrone
 permalink: /it/chi-siamo/bio/agata-quattrone
-image: /assets/images/pic-agata-quattrone.jpg
+image: /assets/images/headshots/agata-quattrone.jpg
 child_of_ref: team
 ---
 

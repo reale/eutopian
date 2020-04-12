@@ -4,7 +4,7 @@ title: Simone Stricelli
 lang: it
 ref: simone-stricelli
 permalink: /it/chi-siamo/bio/simone-stricelli
-image: /assets/images/pic-simone-stricelli.jpg
+image: /assets/images/headshots/simone-stricelli.jpg
 child_of_ref: team
 ---
 

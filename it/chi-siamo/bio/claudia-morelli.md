@@ -4,7 +4,7 @@ title: Claudia Morelli
 lang: it
 ref: claudia-morelli
 permalink: /it/chi-siamo/bio/claudia-morelli
-image: /assets/images/pic-claudia-morelli.png
+image: /assets/images/headshots/claudia-morelli.png
 child_of_ref: team
 ---
 

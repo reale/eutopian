@@ -4,7 +4,7 @@ title: Antonio Occhipinti
 lang: it
 ref: antonio-occhipinti
 permalink: /it/chi-siamo/bio/antonio-occhipinti
-image: /assets/images/pic-antonio-occhipinti.png
+image: /assets/images/headshots/antonio-occhipinti.png
 child_of_ref: team
 ---
 

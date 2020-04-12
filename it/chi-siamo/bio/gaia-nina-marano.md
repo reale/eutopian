@@ -4,7 +4,7 @@ title: Gaia Nina Marano
 lang: it
 ref: gaia-nina-marano
 permalink: /it/chi-siamo/bio/gaia-nina-marano
-image: /assets/images/pic-gaia-nina-marano.jpg
+image: /assets/images/headshots/gaia-nina-marano.jpg
 child_of_ref: team
 ---
 

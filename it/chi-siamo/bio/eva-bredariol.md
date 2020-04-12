@@ -4,7 +4,7 @@ title: Eva Bredariol
 lang: it
 ref: eva-bredariol
 permalink: /it/chi-siamo/bio/eva-bredariol
-image: /assets/images/pic-eva-bredariol.jpg
+image: /assets/images/headshots/eva-bredariol.jpg
 child_of_ref: team
 ---
 

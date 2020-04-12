@@ -4,7 +4,7 @@ title: Gaetano Bruno
 lang: it
 ref: gaetano-bruno
 permalink: /it/chi-siamo/bio/gaetano-bruno
-image: /assets/images/pic-gaetano-bruno.jpg
+image: /assets/images/headshots/gaetano-bruno.jpg
 child_of_ref: team
 ---
 
