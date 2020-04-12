@@ -143,7 +143,7 @@ ordinary:
       priority: 0
       role:
       bio: true
-      headshot: jpg
+      headshot:
       social-links:
           linkedin: https://www.linkedin.com/in/alfredo-cutolo-7b288953
 
