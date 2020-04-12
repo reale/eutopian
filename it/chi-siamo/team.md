@@ -63,16 +63,15 @@ order: 3
       <p>{{ site.data.t.member-roles[page.lang][member.role] }}</p>
       {% endif %}
 
-      <ul>
         {% for social-link in member.social-links %}
-        <li class="list-inline-item">
+        <!--<li class="list-inline-item">
           <a href="{{ social-link[1] }}" title="{{ social-link[0] }}" target="_blank">
             <svg class="icon"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-{{ social-link[0] }}"></use></svg>
             <span class="sr-only">{{ social-link[0] }}</span>
           </a>
-        </li>
+        </li>-->
+        <a href="{{ social-link[1] }}" title="{{ social-link[0] }}" target="_blank">{{ social-link[0] }} </a>
         {% endfor %}
-      </ul>
 
     </div>
   </div>
