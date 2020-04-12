@@ -152,8 +152,10 @@ order: 3
     </div>
   </div>
   <div class="card border rounded">
+    <img class="card-img-top" src="/assets/images/pic-simone-stricelli.jpg" alt="Bio Simone Stricelli">
     <div class="card-body">
       <h5 class="card-title">Simone Stricelli</h5>
+      <a href="/it/chi-siamo/bio/simone-stricelli" class="card-link">Bio</a>
     </div>
   </div>
   <div class="card border rounded">
