@@ -55,8 +55,8 @@ founders:
     - name: "Davide Maniscalco"
       priority: 0
       role:
-      bio: false
-      headshot:
+      bio: true
+      headshot: jpg
       social-links:
           linkedin: https://www.linkedin.com/in/davide-maniscalco-🇮🇹🇪🇺-6512aa66
           twitter: https://twitter.com/manisco74
