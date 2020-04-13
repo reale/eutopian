@@ -3,7 +3,7 @@ layout: page
 title: Alfredo Cutolo
 lang: en
 ref: alfredo-cutolo
-permalink: /en/chi-siamo/bio/alfredo-cutolo
+permalink: /en/about-us/bio/alfredo-cutolo
 image:
 child_of_ref: team
 ---
