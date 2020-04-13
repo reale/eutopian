@@ -14,13 +14,13 @@ Degree, Specialization and Doctorate from the University of Padua.
 
 For a decade, she has been an expert on the subject at some chairs of the School of Law of the University of Padua.
 
-She is the author of several publications with contributions in Guidelines, legal manuals and essays on the topic of corporate networks.
+Authorship of several publications with contributions in Guidelines, legal manuals and essays on the topic of business networks.
 
-Author of the commentary on some articles in *Commentario Breve al Codice Civile* edited by G. Cian.
+Authorship of the commentary on some articles in *Commentario Breve al Codice Civile* edited by G. Cian.
 
-She has several participations in the last decade at conferences, seminars, training activities, with lectures in various second level masters throughout Italy on the topic of networks.
+Participation, in the last decade, in conferences, seminars, training activities, with lectures in various second level masters throughout Italy on the topic of business networks.
 
-She is a freelancer corporate lawyer, specialising in corporate networks and inter-entrepreneurial aggregation phenomena.
+She is a freelancer business lawyer, specialising in corporate networks and inter-entrepreneurial aggregation phenomena.
 
 She was a legal consultant for Confindustria at a national level in the first seven years of Retimpresa.
 
