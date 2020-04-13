@@ -187,6 +187,7 @@ ordinary:
       headshot: jpg
       social-links:
           linkedin: https://www.linkedin.com/in/simonestricelli
+          twitter: https://twitter.com/MoStricelli
 
     - name: "Vito Valente"
       priority: 0
