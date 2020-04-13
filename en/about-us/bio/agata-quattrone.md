@@ -14,6 +14,6 @@ Project Manager, designer of digital platforms and smart services with experienc
 
 She has been external technical councilor with responsibility for 'Planning of Sustainable Urban Development, Transport and Mobility, Smart City' at the Municipality of Reggio Calabria (Nov 2014 - Dec 2016).
 
-She is President of [P4C - Prepare for Change](http://prepareforchange.it/). She carries out research in the field of the Digital Agenda, Transport and Smart & Sustainable Mobility. She has produced numerous scientific publications nationally and internationally and has carried out various teaching assignments in the context of second level masters and postgraduate specialization courses.
+She is President of P4C - Prepare for Change. She carries out research in the field of the Digital Agenda, Transport and Smart & Sustainable Mobility. She has produced numerous scientific publications nationally and internationally and has carried out various teaching assignments in the context of second level masters and postgraduate specialization courses.
 
 [LinkedIn](https://www.linkedin.com/in/quattroneagata/)
