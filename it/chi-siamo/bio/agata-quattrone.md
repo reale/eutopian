@@ -14,6 +14,6 @@ Project Manager, progettista di piattaforme digitali e servizi intelligenti con 
 
 Ha ricoperto il ruolo di Assessore tecnico esterno con delega a 'Pianificazione dello Sviluppo Urbano Sostenibile, Trasporti e Mobilità, Smart City' presso il Comune di Reggio Calabria (nov 2014 - dic 2016).
 
-Presidente di P4C - Prepare for Change. Svolge attività di ricerca nel campo dell'Agenda Digitale, dei Trasporti e della Smart & Sustainable Mobility. Ha prodotto numerose pubblicazioni scientifiche in campo nazionale e internazionale e svolto diversi incarichi di docenza nell’ambito di master di secondo livello e corsi di perfezionamento post-laurea.
+Presidente di [P4C - Prepare for Change](http://prepareforchange.it/). Svolge attività di ricerca nel campo dell'Agenda Digitale, dei Trasporti e della Smart & Sustainable Mobility. Ha prodotto numerose pubblicazioni scientifiche in campo nazionale e internazionale e svolto diversi incarichi di docenza nell’ambito di master di secondo livello e corsi di perfezionamento post-laurea.
 
 [LinkedIn](https://www.linkedin.com/in/quattroneagata/)
