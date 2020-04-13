@@ -12,7 +12,7 @@ Professore straordinario e direttore del Master Smart Public Administration alla
 
 Assessora a Roma Capitale per la smart city dal giugno 2016 al settembre 2019.
 
-Fondatore del gruppo WISTER (Women for Intelligent and Smart TERritories).
+Fondatore del gruppo WISTER (Women for Inclusive and Smart TERritories).
 
 Ex docente presso le Università di Roma (Sapienza), Bologna, Pisa (Master in Gestione Open Source, Dipartimento di Informatica) e Torino.
 
