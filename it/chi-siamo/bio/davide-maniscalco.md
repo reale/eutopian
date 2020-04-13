@@ -23,7 +23,6 @@ l’essere:
 - partner ed autore del magazine on line ofcs.report, di cui cura la rubrica cyber, l’analisi di difesa, monitoring e le tematiche sulla sicurezza nazionale;
 - certified functional continuity professional (CFCP) DRII International;
 - iscritto negli appositi elenchi per professionisti della privacy dell’Associazione Anorc, per la quale è inoltre Referente Territoriale;
-- executive partner e security manager dell’Istituto Internazionale di Ricerca Sviluppo ReS On Network di Londra;
 - co-founder partner ed of counsel del Dipartimento di Business Innovation Development dello Studio Viola.
 
 È inoltre membro di enti e network come Confcommercio Professioni, Democrazia nelle Regole, FuturLab, Anorc Professioni, Manageritalia, MicroLab e D&L Net dello Studio Legale Lisi.
