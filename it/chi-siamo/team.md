@@ -19,7 +19,7 @@ order: 3
     {% endif %}
     <div class="card-body">
       {% if member.bio %}
-        <a href="/it/chi-siamo/bio/{{ slug }}" class="card-link"><h5 class="card-title">{{ member.name }}</h5></a>
+        <a href="/{{ page.lang }}/chi-siamo/bio/{{ slug }}" class="card-link"><h5 class="card-title">{{ member.name }}</h5></a>
       {% else %}
         <h5 class="card-title">{{ member.name }}</h5>
       {% endif %}
@@ -54,7 +54,7 @@ order: 3
     {% endif %}
     <div class="card-body">
       {% if member.bio %}
-        <a href="/it/chi-siamo/bio/{{ slug }}" class="card-link"><h5 class="card-title">{{ member.name }}</h5></a>
+        <a href="/{{ page.lang }}/chi-siamo/bio/{{ slug }}" class="card-link"><h5 class="card-title">{{ member.name }}</h5></a>
       {% else %}
         <h5 class="card-title">{{ member.name }}</h5>
       {% endif %}
