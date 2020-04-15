@@ -132,3 +132,6 @@ read-more:
 reserved-area:
   en: "Reserved Area"
   it: "Area Riservata"
+selection:
+  en: "Selection"
+  it: "Selezione"
