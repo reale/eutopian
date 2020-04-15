@@ -54,7 +54,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
         </button>
       </h5>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
         Una governance dei dati (dove per dati si intendono dati personali, dati aggregati, open data, ...) è il requisito principale per la costruzione di una società dell’informazione che non sia distopica, per l’equilibrio e la salvaguardia dei diritti, per l’implementazione di politiche redistributive. In questo tema rientrano anche la gestione dell’identità digitale e i sistemi di tracciamento.
       </div>
@@ -68,7 +68,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
         </button>
       </h5>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
       <div class="card-body">
       </div>
     </div>
@@ -81,7 +81,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
         </button>
       </h5>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
       <div class="card-body">
       </div>
     </div>
@@ -94,7 +94,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
         </button>
       </h5>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
       <div class="card-body">
       </div>
     </div>
@@ -107,7 +107,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
         </button>
       </h5>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
       <div class="card-body">
       </div>
     </div>
@@ -120,7 +120,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
         </button>
       </h5>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
       <div class="card-body">
         Ripartenza o Re-startup in uno scenario che presenta diversi profili di sofferenza: dalla crisi di liquidità, alla contrazione della domanda, alla frenata delle esportazioni. Vanno elaborate idee e proposte soluzioni: oltre alla forte leva di aiuti esogeni, le imprese devono cercare una risposta anche al loro interno, all’auspicato “piano Marshall” deve affiancarsi un moto interno di pronta reazione. La situazione impone un cambiamento repentino in cui alle istanze e necessità venga offerta risposta in tempi rapidissimi: servono luoghi di matching per far incontrare le necessità e favorire le imprese nel fornirsi risposte in un’ottica collaborativa e cooperativa. Operare in rete, perchè la rete, in quanto bacino di competenze e di capacità di collaborazione trasversale, può esprimere skills che travalicano la singola esigenza e sanno affrontare scenari più complessi.
       </div>
@@ -134,7 +134,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
         </button>
       </h5>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+    <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion">
       <div class="card-body">
         Stiamo cambiando profondamente il nostro modo di vivere i luoghi, la socialità, gli spostamenti. Alcuni luoghi (ad esempio, i cinema) potrebbero essere abbandonati su orizzonti temporali molto lunghi: la loro funzione dovrà essere reinventata o “arricchita”. La mobilità a sua volta dovrà essere ripensata a partire dal dato che parte di essa non è necessaria.
         Ripensare i servizi che le pubbliche amministrazioni devono offrire per garantire usabilità e accessibilità.
@@ -149,7 +149,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
         </button>
       </h5>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+    <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordion">
       <div class="card-body">
       </div>
     </div>
