@@ -49,21 +49,21 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
   <div class="card">
     <div class="card-header" id="StartupDecalogo03">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           Governance dei dati e information security
         </button>
       </h5>
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
-        Una governance dei dati (dove per dati si intendono dati personali, dati aggregati, open data, …) è il requisito principale per la costruzione di una società dell’informazione che non sia distopica, per l’equilibrio e la salvaguardia dei diritti, per l’implementazione di politiche redistributive. In questo tema rientrano anche la gestione dell’identità digitale e i sistemi di tracciamento.
+        Una governance dei dati (dove per dati si intendono dati personali, dati aggregati, open data, ...) è il requisito principale per la costruzione di una società dell’informazione che non sia distopica, per l’equilibrio e la salvaguardia dei diritti, per l’implementazione di politiche redistributive. In questo tema rientrano anche la gestione dell’identità digitale e i sistemi di tracciamento.
       </div>
     </div>
   </div>
   <div class="card">
     <div class="card-header" id="StartupDecalogo04">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
           Sostenibilità e ambiente
         </button>
       </h5>
@@ -76,7 +76,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
   <div class="card">
     <div class="card-header" id="StartupDecalogo05">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
           Sanità digitale
         </button>
       </h5>
@@ -89,7 +89,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
   <div class="card">
     <div class="card-header" id="StartupDecalogo06">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
           Scuola, lifelong learning, lavoro agile
         </button>
       </h5>
@@ -102,7 +102,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
   <div class="card">
     <div class="card-header" id="StartupDecalogo07">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
           Comunicazione e informazione
         </button>
       </h5>
@@ -115,7 +115,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
   <div class="card">
     <div class="card-header" id="StartupDecalogo08">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
         Tessuto produttivo, territorio, startup
         </button>
       </h5>
@@ -129,7 +129,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
   <div class="card">
     <div class="card-header" id="StartupDecalogo09">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
           Mobilità, smart city, “ripensare i luoghi”
         </button>
       </h5>
@@ -144,7 +144,7 @@ Questo documento sarà tradotto nel maggior numero di lingue possibile ed aperto
   <div class="card">
     <div class="card-header" id="StartupDecalogo02">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
           Fintech ed economia circolare
         </button>
       </h5>
