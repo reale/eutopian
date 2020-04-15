@@ -90,7 +90,7 @@ tutte le pagine del sito che:
                     </li>
                     {% else %}
                     <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" aria-label="{{ menu_page.title }} {{ site.data.t.selection[page.lang] }}" href="#" data-toggle="dropdown" aria-expanded="false">
+                      <a class="nav-link dropdown-toggle" aria-label="{{ menu_page.title | remove: '#' }} {{ site.data.t.selection[page.lang] }}" href="#" data-toggle="dropdown" aria-expanded="false">
                         <span>{{ menu_page.title }}</span>
                         <svg class="icon icon-xs">
                           <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-expand">
