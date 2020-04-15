@@ -3,8 +3,9 @@ layout: page
 title: Become a Member
 lang: en
 ref: membership
-permalink: /en/become-member
-order: 6
+permalink: /en/join-in/become-member
+child_of_ref: join-in
+order: 1
 ---
 
 In order to become a member, please fill this form.

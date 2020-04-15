@@ -3,8 +3,9 @@ layout: page
 title: Diventa Socio
 lang: it
 ref: membership
-permalink: /it/diventa-socio
-order: 6
+permalink: /it/partecipa/diventa-socio
+child_of_ref: join-in
+order: 1
 ---
 
 Per chiedere di diventare socio, compila il modulo seguente.

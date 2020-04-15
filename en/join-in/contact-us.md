@@ -1,25 +1,26 @@
 ---
 layout: page
-title: Contatti
-lang: it
-ref: contacts
-permalink: /it/contatti
-order: 7
+title: Contact Us
+lang: en
+ref: contact-us
+permalink: /en/join-in/contact-us
+child_of_ref: join-in
+order: 2
 ---
 
-Contattaci utilizzando il form seguente:
+Contact us by filling the following form:
 
 <form name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/{{ site.email }}" method="post">
   <div class="field">
-    <label for="full-name">Nome</label>
+    <label for="full-name">Name</label>
     <input type="text" name="name" id="full-name" />
   </div>
   <div class="field">
-    <label for="email-address">Email</label>
+    <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" required="" />
   </div>
   <div class="field">
-    <label for="message">Messaggio</label>
+    <label for="message">Message</label>
     <textarea name="message" id="message" rows="4" required=""></textarea>
   </div>
   <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
