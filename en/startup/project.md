@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "#Startup: The project"
+title: The project
 lang: en
 ref: startup-project
 permalink: /en/startup/project
