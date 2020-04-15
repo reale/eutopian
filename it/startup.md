@@ -1,6 +1,6 @@
 ---
 layout: page
-title: #Startup
+title: "#Startup"
 lang: it
 ref: startup
 permalink: /it/startup

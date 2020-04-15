@@ -1,6 +1,6 @@
 ---
 layout: page
-title: #Startup: Manifesto
+title: "#Startup: Manifesto"
 lang: it
 ref: startup-manifesto
 permalink: /it/startup/manifesto
