@@ -1,0 +1,64 @@
+webinars:
+    - title: Contact tracing e data governance
+      ref: contact-tracing
+      date: Aprile 2020
+      coordinator: Roberto Reale
+      description:
+      permalink:
+      image:
+
+    - title: Smart city
+      ref: smart-city
+      date: Maggio 2020
+      coordinator: Flavia Marzano
+      description: "Come le città e la politica che le governa cambieranno (dovrebbero cambiare) dopo la tempesta CoronaVirus (Lavoro Agile, Sostenibilità, servizi Online,...)"
+      permalink:
+      image:
+
+    - title: Post Pandemic Design
+      ref: post-pandemic-design
+      date: Giugno 2020
+      coordinator: Simone Stricelli
+      description: "Future. Humans. Innovation. Cosa succederà dopo e quanto una pandemia può incidere sulle nostre abitudini e su come il digital ci potrà aiutare"
+      permalink:
+      image:
+
+    - title: Sharing Docs
+      ref: sharing-docs
+      date: Luglio 2020
+      coordinator: Gaetano Bruno
+      description: "Strumenti di condivisione e partecipazione dei documenti pubblici digitali e non solo..."
+      permalink:
+      image:
+
+    - title: Networking
+      ref: networking
+      date: Settembre 2020
+      coordinator: Eva Bredariol
+      description: "Collaborazione inter-imprenditoriale e ruolo della digitalizzazione"
+      permalink:
+      image:
+
+    - title: Openness nella PA
+      ref: openness
+      date: Ottobre 2020
+      coordinator: Flavia Marzano
+      description: "Open data, Open Source, Open Access, Open Agenda... Open Mind nella PA"
+      permalink:
+      image:
+
+    - title: Smart & Sustainable Mobility 
+      ref: smart-mobility
+      date: Novembre 2020
+      coordinator: Agata Quattrone
+      description: "COVID-19 le implicazioni e le nuove opportunità per la mobilità urbana sostenibile e digitale"
+      permalink:
+      image:
+
+    - title: L'intelligenza artificiale nella lotta contro il coronavirus
+      ref: ai-covid
+      date: Dicembre 2020
+      coordinator: Clara Silvano
+      description:
+      permalink:
+      image:

@@ -127,7 +127,7 @@ Dal canto nostro, noi ci impegniamo a raccogliere e discutere i vostri contribut
     </div>
     <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
       <div class="card-body">
-        Ripartenza o Re-startup in uno scenario che presenta diversi profili di sofferenza: dalla crisi di liquidità, alla contrazione della domanda, alla frenata delle esportazioni. Vanno elaborate idee e proposte soluzioni: oltre alla forte leva di aiuti esogeni, le imprese devono cercare una risposta anche al loro interno, all’auspicato “piano Marshall” deve affiancarsi un moto interno di pronta reazione. La situazione impone un cambiamento repentino in cui alle istanze e necessità venga offerta risposta in tempi rapidissimi: servono luoghi di matching per far incontrare le necessità e favorire le imprese nel fornirsi risposte in un’ottica collaborativa e cooperativa. Operare in rete, perchè la rete, in quanto bacino di competenze e di capacità di collaborazione trasversale, può esprimere skills che travalicano la singola esigenza e sanno affrontare scenari più complessi.
+        Ripartenza o Restart in uno scenario che presenta diversi profili di sofferenza: dalla crisi di liquidità, alla contrazione della domanda, alla frenata delle esportazioni. Vanno elaborate idee e proposte soluzioni: oltre alla forte leva di aiuti esogeni, le imprese devono cercare una risposta anche al loro interno, all’auspicato “piano Marshall” deve affiancarsi un moto interno di pronta reazione. La situazione impone un cambiamento repentino in cui alle istanze e necessità venga offerta risposta in tempi rapidissimi: servono luoghi di matching per far incontrare le necessità e favorire le imprese nel fornirsi risposte in un’ottica collaborativa e cooperativa. Operare in rete, perché la rete, in quanto bacino di competenze e di capacità di collaborazione trasversale, può esprimere skills che travalicano la singola esigenza e sanno affrontare scenari più complessi.
       </div>
     </div>
   </div>
@@ -142,7 +142,6 @@ Dal canto nostro, noi ci impegniamo a raccogliere e discutere i vostri contribut
     <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion">
       <div class="card-body">
         Stiamo cambiando profondamente il nostro modo di vivere i luoghi, la socialità, gli spostamenti. Alcuni luoghi (ad esempio, i cinema) potrebbero essere abbandonati su orizzonti temporali molto lunghi: la loro funzione dovrà essere reinventata o “arricchita”. La mobilità a sua volta dovrà essere ripensata a partire dal dato che parte di essa non è necessaria.
-        Ripensare i servizi che le pubbliche amministrazioni devono offrire per garantire usabilità e accessibilità.
       </div>
     </div>
   </div>
