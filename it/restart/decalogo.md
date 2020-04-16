@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Il progetto
+title: Decalogo
 lang: it
-ref: restart-project
-permalink: /it/restart/progetto
+ref: restart-decalogo
+permalink: /it/restart/decalogo
 child_of_ref: restart
 order: 1
 ---
