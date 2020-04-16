@@ -3,7 +3,7 @@ layout: default
 title: Home
 lang: it
 ref: homepage
-permalink: /
+permalink: /it/
 order: 1
 ---
 
