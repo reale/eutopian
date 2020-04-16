@@ -2,14 +2,14 @@
 layout: page
 title: Webinar
 lang: it
-ref: startup-webinar
+ref: restart-webinar
 permalink: /it/restart/webinar
 child_of_ref: restart
 order: 2
 ---
 
 <div class="card-columns">
-  {% for webinar in site.data.startup.webinars %}
+  {% for webinar in site.data.restart.webinars %}
   {% assign member = webinar.coordinator | downcase | replace: ' ', '-' %}
   <div class="card border rounded">
     {% if webinar.image != nil and webinar.image != "" %}

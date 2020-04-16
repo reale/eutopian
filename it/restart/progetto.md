@@ -2,9 +2,9 @@
 layout: page
 title: Il progetto
 lang: it
-ref: startup-project
-permalink: /it/startup/progetto
-child_of_ref: startup
+ref: restart-project
+permalink: /it/restart/progetto
+child_of_ref: restart
 order: 1
 ---
 
