@@ -10,7 +10,6 @@ order: 2
 
 <div class="card-columns">
   {% for webinar in site.data.restart.webinars %}
-  {% assign member = webinar.coordinator | downcase | replace: ' ', '-' %}
   <div class="card border rounded">
     {% if webinar.image != nil and webinar.image != "" %}
     <img class="card-img-top" src="/assets/images/restart/{{ webinar.ref }}.{{ webinar.image }}" alt="{{ webinar.title }}">
@@ -24,6 +23,10 @@ order: 2
 
       {% if webinar.description != nil and webinar.description != "" %}
       <p>{{ webinar.description }}</p>
+      {% endif %}
+
+      {% if webinar.coordinator != nil and webinar.coordinator != "" %}
+      <p>Coordinamento: {{ webinar.coordinator }}</p>
       {% endif %}
 
       {% if webinar.date != nil and webinar.date != "" %}
