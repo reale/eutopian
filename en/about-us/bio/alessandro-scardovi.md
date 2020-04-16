@@ -4,7 +4,7 @@ title: Alessandro Scardovi
 lang: en
 ref: alessandro-scardovi
 permalink: /en/about-us/bio/alessandro-scardovi
-image:
+image: /assets/images/headshots/alessandro-scardovi.jpg
 child_of_ref: team
 ---
 
