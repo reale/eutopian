@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: News
-description: 
 lang: it
 ref: news
+permalink: /it/news
 order: 5
 ---
 
