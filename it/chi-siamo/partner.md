@@ -16,7 +16,7 @@ order: 4
     {% endif %}
     <div class="card-body">
       {% if partner.links.website %}
-        <a href="partner.links.website" class="card-link"><h5 class="card-title">{{ partner.name }}</h5></a>
+        <a href="{{ partner.links.website }}" class="card-link"><h5 class="card-title">{{ partner.name }}</h5></a>
       {% else %}
         <h5 class="card-title">{{ partner.name }}</h5>
       {% endif %}
