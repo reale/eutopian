@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: News
 lang: it
 ref: news
