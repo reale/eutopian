@@ -4,6 +4,8 @@ title: 2SÌ per Regioni e Comuni
 lang: it
 ref: 2si-per-regioni-e-comuni
 permalink: /it/news/2si-per-regioni-e-comuni
+redirect_from:
+  - /it/iniziative/2si-per-regioni-e-comuni
 image: /assets/images/2si-per-regioni-e-comuni.jpg
 ---
 

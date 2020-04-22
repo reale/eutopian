@@ -4,6 +4,9 @@ title: Digital Competences Manifesto
 lang: en
 ref: digital-competences-manifesto
 permalink: /en/news/digital-competences-manifesto
+redirect_from:
+  - /en/digital-competences-manifesto
+  - /en/actions/digital-competences-manifesto
 image: /assets/images/digital-competences-manifesto.jpg
 ---
 
