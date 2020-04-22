@@ -3,8 +3,8 @@ layout: page
 title: Become a Member
 lang: en
 ref: membership
-permalink: /en/join-in/become-member
-child_of_ref: join-in
+permalink: /en/get-involved/become-member
+child_of_ref: get-involved
 order: 1
 ---
 

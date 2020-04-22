@@ -3,8 +3,8 @@ layout: page
 title: Contact Us
 lang: en
 ref: contact-us
-permalink: /en/join-in/contact-us
-child_of_ref: join-in
+permalink: /en/get-involved/contact-us
+child_of_ref: get-involved
 order: 2
 ---
 
