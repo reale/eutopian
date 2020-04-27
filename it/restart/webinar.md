@@ -21,8 +21,8 @@ order: 2
         <h5 class="card-title">{{ webinar.title }}</h5>
       {% endif %}
 
-      {% if webinar.description != nil and webinar.description != "" %}
-      <p>{{ webinar.description }}</p>
+      {% if webinar.description[page.lang] != nil and webinar.description[page.lang] != "" %}
+      <p>{{ webinar.description[page.lang] }}</p>
       {% endif %}
 
       {% if webinar.coordinator != nil and webinar.coordinator != "" %}
