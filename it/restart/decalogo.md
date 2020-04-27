@@ -5,7 +5,7 @@ lang: it
 ref: restart-decalogo
 permalink: /it/restart/decalogo
 child_of_ref: restart
-order: 1
+order: 2
 ---
 
 Come ogni crisi, la pandemia non è soltanto distruzione, ma porta con sé la possibilità di ripensare i modi di essere e di fare a cui eravamo abituati. Come insegna Schumpeter, la distruzione è anche creazione.

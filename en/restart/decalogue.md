@@ -5,7 +5,7 @@ lang: en
 ref: restart-decalogo
 permalink: /en/restart/decalogue
 child_of_ref: restart
-order: 1
+order: 2
 ---
 
 Like any crisis, the pandemic is not only destruction, but brings with it the possibility of rethinking the ways of being and doing that we were used to. As Schumpeter teaches, destruction is also creation.
