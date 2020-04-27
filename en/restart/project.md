@@ -14,7 +14,7 @@ The **#Restart** project is made up of two interconnected initiatives:
 
 * a [Decalogue](/en/restart/decalogue), intended as a collaborative document published on the Association's web portal at least in Italian and English and open to contributions from all social parties; at the end of a consultation period, the Decalogue will be consolidated and shared with national and European stakeholders
 
-Furthermore, also for the purpose of coordinating the project, Eutopian has set up a [Working Group on innovation and public policies](/en/restart/ working-group), with special attention to the dimensions of sustainability (social, economic, environmental), information security and inter-regional and cross-border interoperability.
+Furthermore, also for the purpose of coordinating the project, Eutopian has set up a [Working Group on innovation and public policies](/en/restart/working-group), with special attention to the dimensions of sustainability (social, economic, environmental), information security and inter-regional and cross-border interoperability.
 
 The Working Group aims at analysing good practices and proposing the development of useful models to be adopted or, where identified, to suggest improvements to be introduced in organizational models, processes and platforms.
 

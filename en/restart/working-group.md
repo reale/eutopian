@@ -8,7 +8,7 @@ child_of_ref: restart
 order: 4
 ---
 
-Eutopian has set up a [Working Group on innovation and public policies](/en/restart/ working-group), with special attention to the dimensions of sustainability (social, economic, environmental), information security and inter-regional and cross-border interoperability.
+Eutopian has set up a **Working Group on innovation and public policies**, with special attention to the dimensions of sustainability (social, economic, environmental), information security and inter-regional and cross-border interoperability.
 
 The Working Group aims at analysing good practices and proposing the development of useful models to be adopted or, where identified, to suggest improvements to be introduced in organizational models, processes and platforms.
 
