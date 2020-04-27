@@ -7,7 +7,7 @@ founders:
       bio: true
       headshot: jpg
       social-links:
-          email: roberto.reale@eutopian.eu
+          email: mailto:roberto.reale@eutopian.eu
           linkedin: https://www.linkedin.com/in/robertoreale
           twitter: https://twitter.com/Reale_EU
 
@@ -17,7 +17,7 @@ founders:
       bio: true
       headshot: jpg
       social-links:
-          email: flavia.marzano@eutopian.eu
+          email: mailto:flavia.marzano@eutopian.eu
           linkedin: https://www.linkedin.com/in/flaviamarzano
           twitter: https://twitter.com/flavia_marzano
 
@@ -27,7 +27,7 @@ founders:
       bio: true
       headshot: jpg
       social-links:
-          email: gaetano.bruno@eutopian.eu
+          email: mailto:gaetano.bruno@eutopian.eu
           linkedin: https://www.linkedin.com/in/gaetanobruno
           twitter: https://twitter.com/GB7113
 
@@ -37,7 +37,7 @@ founders:
       bio: false
       headshot:
       social-links:
-          email: antonio.barbieri@eutopian.eu
+          email: mailto:antonio.barbieri@eutopian.eu
           linkedin: https://www.linkedin.com/in/antonio-barbieri-38a9372
 
     - name: "Roberto Alma"
@@ -46,7 +46,7 @@ founders:
       bio: false
       headshot:
       social-links:
-          email: roberto.alma@eutopian.eu
+          email: mailto:roberto.alma@eutopian.eu
           linkedin: https://www.linkedin.com/in/roberto-alma-92560328
 
     - name: "Enrico Barich"
@@ -55,7 +55,7 @@ founders:
       bio: false
       headshot:
       social-links:
-          email: enrico.barich@eutopian.eu
+          email: mailto:enrico.barich@eutopian.eu
           linkedin: https://www.linkedin.com/in/enrico-barich-875aab2b
 
     - name: "Davide Maniscalco"
@@ -64,7 +64,7 @@ founders:
       bio: true
       headshot: jpg
       social-links:
-          email: davide.maniscalco@eutopian.eu
+          email: mailto:davide.maniscalco@eutopian.eu
           linkedin: https://www.linkedin.com/in/davide-maniscalco-🇮🇹🇪🇺-6512aa66
           twitter: https://twitter.com/manisco74
 
@@ -74,7 +74,7 @@ founders:
       bio: true
       headshot: jpg
       social-links:
-          email: gaia.nina.marano@eutopian.eu
+          email: mailto:gaia.nina.marano@eutopian.eu
           linkedin: https://www.linkedin.com/in/gnmarano
 
     - name: "Francesca Martini"
@@ -83,7 +83,7 @@ founders:
       bio: true
       headshot:
       social-links:
-          email: francesca.martini@eutopian.eu
+          email: mailto:francesca.martini@eutopian.eu
 
     - name: "Federica Meta"
       priority: 0
@@ -91,7 +91,7 @@ founders:
       bio: true
       headshot: jpg
       social-links:
-          email: federica.meta@eutopian.eu
+          email: mailto:federica.meta@eutopian.eu
           linkedin: https://www.linkedin.com/in/federica-meta-54b428167
           twitter: https://twitter.com/federicameta
 
@@ -101,7 +101,7 @@ founders:
       bio: true
       headshot: png
       social-links:
-          email: claudia.morelli@eutopian.eu
+          email: mailto:claudia.morelli@eutopian.eu
           linkedin: https://www.linkedin.com/in/claudia-morelli-clamor
           twitter: https://twitter.com/clamorelli
         
@@ -111,7 +111,7 @@ founders:
       bio: false
       headshot:
       social-links:
-          email: massimiliano.nicotra@eutopian.eu
+          email: mailto:massimiliano.nicotra@eutopian.eu
           linkedin: https://www.linkedin.com/in/massimiliano-nicotra-38757328
           twitter: https://twitter.com/avvmax70
 
@@ -121,7 +121,7 @@ founders:
       bio: true
       headshot: jpg
       social-links:
-          email: agata.quattrone@eutopian.eu
+          email: mailto:agata.quattrone@eutopian.eu
           linkedin: https://www.linkedin.com/in/quattroneagata
           twitter: https://twitter.com/Tatella_77
 
@@ -131,7 +131,7 @@ founders:
       bio: true
       headshot: jpg
       social-links:
-          email: luisa.scarcella@eutopian.eu
+          email: mailto:luisa.scarcella@eutopian.eu
           linkedin: https://www.linkedin.com/in/luisa-scarcella-0b6601147
           twitter: https://twitter.com/luisa_scarcella
 
@@ -142,7 +142,7 @@ ordinary:
       bio: true
       headshot: jpg
       social-links:
-          email: eva.bredariol@eutopian.eu
+          email: mailto:eva.bredariol@eutopian.eu
           linkedin: https://www.linkedin.com/in/eva-bredariol
           twitter: https://twitter.com/EvaBredariol
 
@@ -152,7 +152,7 @@ ordinary:
       bio: true
       headshot: jpg
       social-links:
-          email: marisa.ciarlo@eutopian.eu
+          email: mailto:marisa.ciarlo@eutopian.eu
           linkedin: https://www.linkedin.com/in/marisa-ciarlo-74319421
 
     - name: "Alfredo Cutolo"
@@ -161,7 +161,7 @@ ordinary:
       bio: true
       headshot:
       social-links:
-          email: alfredo.cutolo@eutopian.eu
+          email: mailto:alfredo.cutolo@eutopian.eu
           linkedin: https://www.linkedin.com/in/alfredo-cutolo-7b288953
 
     - name: "Sara Cutrona"
@@ -170,7 +170,7 @@ ordinary:
       bio: false
       headshot:
       social-links:
-          email: sara.cutrona@eutopian.eu
+          email: mailto:sara.cutrona@eutopian.eu
           linkedin: https://www.linkedin.com/in/sara-cutrona-b47655aa
           twitter: https://twitter.com/SaraCutrona
 
@@ -180,7 +180,7 @@ ordinary:
       bio: true
       headshot: png
       social-links:
-          email: antonio.occhipinti@eutopian.eu
+          email: mailto:antonio.occhipinti@eutopian.eu
           linkedin: https://www.linkedin.com/in/antonio-occhipinti-09b26637
 
     - name: "Alessandro Scardovi"
@@ -189,7 +189,7 @@ ordinary:
       bio: true
       headshot: jpg
       social-links:
-          email: alessandro.scardovi@eutopian.eu
+          email: mailto:alessandro.scardovi@eutopian.eu
           linkedin: https://www.linkedin.com/in/alessandroscardovi
 
     - name: "Clara Silvano"
@@ -198,7 +198,7 @@ ordinary:
       bio: true
       headshot: jpg
       social-links:
-          email: clara.silvano@eutopian.eu
+          email: mailto:clara.silvano@eutopian.eu
           linkedin: https://www.linkedin.com/in/clara-silvano-0190b0156
 
     - name: "Simone Stricelli"
@@ -207,7 +207,7 @@ ordinary:
       bio: true
       headshot: jpg
       social-links:
-          email: simone.stricelli@eutopian.eu
+          email: mailto:simone.stricelli@eutopian.eu
           linkedin: https://www.linkedin.com/in/simonestricelli
           twitter: https://twitter.com/MoStricelli
 
@@ -217,5 +217,5 @@ ordinary:
       bio: true
       headshot:
       social-links:
-          email: vito.valente@eutopian.eu
+          email: mailto:vito.valente@eutopian.eu
           linkedin: https://www.linkedin.com/in/vito-valente-9687875a
