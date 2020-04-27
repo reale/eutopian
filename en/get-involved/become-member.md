@@ -40,6 +40,6 @@ Alternatively, you may fill in either the [Application form for natural persons]
 
     <p class="text-justify">The undersigned authorises the processing of all the data contained herein, including any future updates and/or changes, for all statutory purposes of the Association “EUTOPIAN - EUROPEAN OBSERVATORY ON DEMOCRATIC INNOVATION”, as described in the <a href="/en/privacy-policy"> Privacy Policy </a>.</p>
 
-    <input type = "submit" value = "submit">
+    <input type = "submit" value = "submit" class="btn btn-primary">
   </fieldset>
 </form>
