@@ -4,7 +4,7 @@ title: Diventa Socio
 lang: it
 ref: membership
 permalink: /it/partecipa/diventa-socio
-child_of_ref: join-in
+child_of_ref: get-involved
 order: 1
 ---
 

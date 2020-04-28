@@ -2,7 +2,7 @@
 layout: page
 title: Partecipa
 lang: it
-ref: join-in
+ref: get-involved
 permalink: /it/partecipa
 order: 5
 ---

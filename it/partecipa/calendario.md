@@ -4,7 +4,7 @@ title: Calendario
 lang: it
 ref: calendar
 permalink: /it/partecipa/calendario
-child_of_ref: join-in
+child_of_ref: get-involved
 order: 2
 ---
 

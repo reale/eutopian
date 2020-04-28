@@ -4,7 +4,7 @@ title: Contattaci
 lang: it
 ref: contact-us
 permalink: /it/partecipa/contattaci
-child_of_ref: join-in
+child_of_ref: get-involved
 order: 3
 ---
 
