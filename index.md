@@ -1,5 +1,6 @@
 ---
-ref: homepage
+layout: default
+title: Home
 permalink: /
 ---
 
