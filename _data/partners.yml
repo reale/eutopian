@@ -1,6 +1,11 @@
 ## Partners
 
 partners:
+    - name: "Legal Hackers Roma"
+      ref: lh-rome
+      logo: jpg
+      links:
+          website: https://www.meetup.com/it-IT/Legal-Hackers-Roma/
     - name: "Prepare for Change"
       ref: p4c
       logo: png
