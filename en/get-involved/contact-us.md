@@ -24,5 +24,5 @@ Contact us by filling the following form:
     <textarea name="message" id="message" rows="4" required=""></textarea>
   </div>
   <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  <input type="submit" value="Invia" />
+  <input type="submit" value="Invia" class="btn btn-primary"/>
 </form>
