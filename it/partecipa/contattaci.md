@@ -5,7 +5,7 @@ lang: it
 ref: contact-us
 permalink: /it/partecipa/contattaci
 child_of_ref: join-in
-order: 2
+order: 3
 ---
 
 Contattaci utilizzando il form seguente:
