@@ -63,6 +63,9 @@ social-links:
     linkedin:
       name: "linkedin"
       url: "https://www.linkedin.com/company/eutopian/"
+    youtube:
+      name: "youtube"
+      url: "https://www.youtube.com/channel/UCQITLFTGdByqPgI-RtHe5_Q"
   it:
     twitter:
       name: "twitter"
@@ -79,6 +82,9 @@ social-links:
     linkedin:
       name: "linkedin"
       url: "https://www.linkedin.com/company/eutopian/"
+    youtube:
+      name: "youtube"
+      url: "https://www.youtube.com/channel/UCQITLFTGdByqPgI-RtHe5_Q"
 
 ## Labels
 close:
