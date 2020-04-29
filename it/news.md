@@ -4,7 +4,7 @@ title: News
 lang: it
 ref: news
 permalink: /it/news
-order: 4
+order: 5
 ---
 
 <main class="container my-5" markdown="1">
