@@ -37,6 +37,10 @@ order: 3
       <p>{{ webinar.date }}</p>
       {% endif %}
 
+      {% if webinar.eventbrite != nil and webinar.eventbrite != "" %}
+      <p><a href="{{ webinar.eventbrite }}>Iscriviti</a></p>
+      {% endif %}
+
         {% for social-link in member.social-links %}
         <!--<li class="list-inline-item">
           <a href="{{ social-link[1] }}" title="{{ social-link[0] }}" target="_blank">
