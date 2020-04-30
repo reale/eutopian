@@ -25,6 +25,10 @@ order: 3
       <p>{{ webinar.description[page.lang] }}</p>
       {% endif %}
 
+      {% if webinar.speaker != nil and webinar.speaker != "" %}
+      <p>Keynote speaker: {{ webinar.speaker }}</p>
+      {% endif %}
+
       {% if webinar.coordinator != nil and webinar.coordinator != "" %}
       <p>Coordinamento: {{ webinar.coordinator }}</p>
       {% endif %}

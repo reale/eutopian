@@ -2,11 +2,24 @@ webinars:
     - title: Contact tracing e data governance
       ref: contact-tracing
       language: it
-      date: Aprile 2020
+      date: 11 Maggio 2020
       coordinator: Roberto Reale
+      speaker: Francesco Paolo Micozzi
       description:
           en: "Contact tracing and rights balance"
           it: "Tecnologie per il tracciamento e bilanciamento dei diritti"
+      permalink:
+      image:
+
+    - title: Webinar with Paul Vanderbroeck
+      ref: webinar-paul-vanderbroeck
+      language: en
+      date: 25 Maggio 2020
+      coordinator: Roberto Reale
+      speaker: Paul Vanderbroeck
+      description:
+          en: "Webinar with Paul Vanderbroeck"
+          it: "Webinar con Paul Vanderbroeck"
       permalink:
       image:
 
