@@ -38,7 +38,7 @@ order: 3
       {% endif %}
 
       {% if webinar.eventbrite != nil and webinar.eventbrite != "" %}
-      <p><a href="{{ webinar.eventbrite }}>Iscriviti</a></p>
+      <p><a href="{{ webinar.eventbrite }}">Iscriviti</a></p>
       {% endif %}
 
         {% for social-link in member.social-links %}
