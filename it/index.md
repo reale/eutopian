@@ -11,7 +11,7 @@ order: 1
 
 <main class="container my-4" markdown="1">
 
-{% include posts.html %}
+{% include news.html %}
 
 </main>
 

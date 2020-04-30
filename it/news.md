@@ -8,5 +8,5 @@ order: 5
 ---
 
 <main class="container my-5" markdown="1">
-    {% include posts.html %}
+    {% include news.html %}
 </main>
