@@ -3,6 +3,8 @@ layout: page
 title: 2SÌ per Regioni e Comuni
 lang: en
 ref: 2si-per-regioni-e-comuni
+tags:
+categories: news
 permalink: /en/news/2si-per-regioni-e-comuni
 redirect_from:
   - /en/actions/2si-per-regioni-e-comuni

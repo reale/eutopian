@@ -3,6 +3,8 @@ layout: page
 title: Digital Competences Manifesto
 lang: it
 ref: digital-competences-manifesto
+tags:
+categories: news
 permalink: /it/news/digital-competences-manifesto
 redirect_from:
   - /it/digital-competences-manifesto
