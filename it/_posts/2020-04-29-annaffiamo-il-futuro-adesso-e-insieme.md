@@ -4,7 +4,7 @@ title: "Costituzione Eutopian"
 lang: it
 ref: costituzione-eutopian
 tags: InnovazioneDigitale road2forumpa2020 ForumPA2020 DigitalDivide PariOpportunità OpenSource Semplificazione formazione comunicazione
-categories: news
+categories: articles
 permalink: /it/articoli/annaffiamo-il-futuro-adesso-e-insieme
 author: Flavia Marzano
 canonical: https://www.linkedin.com/pulse/annaffiamo-il-futuro-adesso-e-insieme-flavia-marzano/
