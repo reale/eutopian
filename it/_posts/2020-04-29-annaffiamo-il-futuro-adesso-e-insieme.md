@@ -11,7 +11,7 @@ canonical: https://www.linkedin.com/pulse/annaffiamo-il-futuro-adesso-e-insieme-
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://youtu.be/_QBc6YuzgMg" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_QBc6YuzgMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Grazie a [FPA - FORUM PA](https://www.linkedin.com/company/forum-pa/) e a [Gianni Dominici](https://www.linkedin.com/in/giannidominici/) che mi ha intervistata sul "Dopo Coronavirus".
