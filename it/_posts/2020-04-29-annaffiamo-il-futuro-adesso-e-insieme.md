@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Costituzione Eutopian"
+title: "Annaffiamo il futuro, adesso e insieme!"
 lang: it
-ref: costituzione-eutopian
+ref: annaffiamo-il-futuro-adesso-e-insieme
 tags: InnovazioneDigitale road2forumpa2020 ForumPA2020 DigitalDivide PariOpportunità OpenSource Semplificazione formazione comunicazione
 categories: articles
 permalink: /it/articoli/annaffiamo-il-futuro-adesso-e-insieme
