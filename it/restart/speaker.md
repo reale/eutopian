@@ -9,20 +9,20 @@ order: 5
 ---
 
 <div class="card-columns">
-  {% for member in site.data.speakers.speakers %}
-  {% assign slug = member.name | downcase | replace: ' ', '-' %}
+  {% for speaker in site.data.speakers.speakers %}
+  {% assign slug = speaker.name | downcase | replace: ' ', '-' %}
   <div class="card border rounded">
-    {% if member.headshot != nil and member.headshot != "" %}
-    <img class="card-img-top" src="/assets/images/headshots/{{ slug }}.{{ member.headshot }}" alt="{{ member.name }}">
+    {% if speaker.headshot != nil and speaker.headshot != "" %}
+    <img class="card-img-top" src="/assets/images/headshots/{{ slug }}.{{ speaker.headshot }}" alt="{{ speaker.name }}">
     {% endif %}
     <div class="card-body">
-      {% if member.bio %}
-        <a href="/it/restart/speaker/{{ slug }}" class="card-link"><h5 class="card-title">{{ member.name }}</h5></a>
+      {% if speaker.bio %}
+        <a href="/it/restart/speaker/{{ slug }}" class="card-link"><h5 class="card-title">{{ speaker.name }}</h5></a>
       {% else %}
-        <h5 class="card-title">{{ member.name }}</h5>
+        <h5 class="card-title">{{ speaker.name }}</h5>
       {% endif %}
 
-        {% for social-link in member.social-links %}
+        {% for social-link in speaker.social-links %}
         <!--<li class="list-inline-item">
           <a href="{{ social-link[1] }}" title="{{ social-link[0] }}" target="_blank">
             <svg class="icon"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-{{ social-link[0] }}"></use></svg>
