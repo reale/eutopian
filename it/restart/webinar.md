@@ -26,11 +26,11 @@ order: 3
       {% endif %}
 
       {% if webinar.speaker != nil and webinar.speaker != "" %}
-      <p>Keynote speaker: {{ webinar.speaker }}</p>
+      <p><b>Keynote speaker:</b> {{ webinar.speaker }}</p>
       {% endif %}
 
       {% if webinar.coordinator != nil and webinar.coordinator != "" %}
-      <p>Coordinamento: {{ webinar.coordinator }}</p>
+      <p><b>Coordinamento:</b> {{ webinar.coordinator }}</p>
       {% endif %}
 
       {% if webinar.date != nil and webinar.date != "" %}
