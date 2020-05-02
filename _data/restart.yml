@@ -5,6 +5,8 @@ webinars:
       date: 8 Maggio 2020
       coordinator: Roberto Reale
       speaker: Massimo Canevacci
+      coordinator-bio: true
+      speaker-bio: true
       description:
           en:
           it:
