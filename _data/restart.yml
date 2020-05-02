@@ -1,4 +1,17 @@
 webinars:
+    - title: Identità Ubique. Verso un'antropologia non antropocentrica
+      ref: identita-ubique
+      language: it
+      date: 8 Maggio 2020
+      coordinator: Roberto Reale
+      speaker: Massimo Canevacci
+      description:
+          en:
+          it:
+      eventbrite:
+      permalink:
+      image:
+
     - title: Contact tracing e data governance
       ref: contact-tracing
       language: it
