@@ -26,11 +26,21 @@ order: 3
       {% endif %}
 
       {% if webinar.speaker != nil and webinar.speaker != "" %}
+      {% if webinar.speaker-bio %}
+      {% assign speaker-slug = webinar.speaker | downcase | replace: ' ', '-' %}
+      <p><b>Keynote speaker:</b> <a href="/en/restart/speakers/{{ speaker-slug }}">{{ webinar.speaker }}</a></p>
+      {% else %}
       <p><b>Keynote speaker:</b> {{ webinar.speaker }}</p>
+      {% endif %}
       {% endif %}
 
       {% if webinar.coordinator != nil and webinar.coordinator != "" %}
+      {% if webinar.coordinator-bio %}
+      {% assign coordinator-slug = webinar.coordinator | downcase | replace: ' ', '-' %}
+      <p><b>Coordinator:</b> <a href="/en/about-us/bio/{{ coordinator-slug }}">{{ webinar.coordinator }}</a></p>
+      {% else %}
       <p><b>Coordinator:</b> {{ webinar.coordinator }}</p>
+      {% endif %}
       {% endif %}
 
       {% if webinar.date != nil and webinar.date != "" %}
