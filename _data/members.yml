@@ -43,8 +43,8 @@ founders:
     - name: "Roberto Alma"
       priority: 0
       role:
-      bio: false
-      headshot:
+      bio: true
+      headshot: png
       social-links:
           email: mailto:roberto.alma@eutopian.eu
           linkedin: https://www.linkedin.com/in/roberto-alma-92560328
