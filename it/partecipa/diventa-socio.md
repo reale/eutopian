@@ -16,7 +16,9 @@ In alternativa, puoi scaricare e compilare il [Modulo di adesione per persone fi
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Io sottoscritta/o</label><input type="text" name="full-name" id="full-name" placeholder="Nome e cognome" required>
     <label for="birth-place">Nata/o a</label><input type="text" name="birth-place" id="birth-place" placeholder="Luogo di nascita" required>
-    <label for="birth-date">In data</label><input type="text" name="birth-date" id="birth-date" placeholder="Data di nascita" required>
+    <div class="it-datepicker-wrapper">
+        <input class="form-control it-date-datepicker" id="birth-date" type="text" placeholder="inserisci la data in formato gg/mm/aaaa">
+    </div>
     <label for="profession">Professione</label><input type="text" name="profession" id="profession" placeholder="Professione" required>
     <label for="fiscal-code">Codice Fiscale</label><input type="text" name="fiscal-code" id="fiscal-code" placeholder="Codice Fiscale" required>
     <label for="email-address">Email</label><input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required>
