@@ -682,5 +682,15 @@
 
 <!-- Mailchimp -->
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"6cb64ed54154559bd12131547","lid":"2e9a230b99","uniqueMethods":true}) })</script>
+
+<!-- enable datepicker -->
+<script>
+    $(document).ready(function() {
+    $('.it-date-datepicker').datepicker({
+      inputFormat: ["dd/MM/yyyy"],
+      outputFormat: 'dd/MM/yyyy',
+    });
+});
+</script>
 </body>
 </html>

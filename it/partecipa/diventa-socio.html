@@ -504,7 +504,9 @@
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Io sottoscritta/o</label><input type="text" name="full-name" id="full-name" placeholder="Nome e cognome" required="" />
     <label for="birth-place">Nata/o a</label><input type="text" name="birth-place" id="birth-place" placeholder="Luogo di nascita" required="" />
-    <label for="birth-date">In data</label><input type="text" name="birth-date" id="birth-date" placeholder="Data di nascita" required="" />
+    <div class="it-datepicker-wrapper">
+        <input class="form-control it-date-datepicker" id="birth-date" type="text" placeholder="inserisci la data in formato gg/mm/aaaa" />
+    </div>
     <label for="profession">Professione</label><input type="text" name="profession" id="profession" placeholder="Professione" required="" />
     <label for="fiscal-code">Codice Fiscale</label><input type="text" name="fiscal-code" id="fiscal-code" placeholder="Codice Fiscale" required="" />
     <label for="email-address">Email</label><input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" />
@@ -724,5 +726,15 @@
 
 <!-- Mailchimp -->
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"6cb64ed54154559bd12131547","lid":"2e9a230b99","uniqueMethods":true}) })</script>
+
+<!-- enable datepicker -->
+<script>
+    $(document).ready(function() {
+    $('.it-date-datepicker').datepicker({
+      inputFormat: ["dd/MM/yyyy"],
+      outputFormat: 'dd/MM/yyyy',
+    });
+});
+</script>
 </body>
 </html>
