@@ -14,28 +14,47 @@ webinars:
       permalink:
       image: jpg
 
-    - title: Contact tracing e data governance
+    - title: Gestione dell'emergenza da COVID-19 e soluzioni tecnologiche di contact tracing: il bilanciamento tra il tecnicamente possibile e il giuridicamente ammissibile
       ref: contact-tracing
       language: it
-      date: 11 Maggio 2020
+      date: 11 Maggio 2020 19:00-20:00
       coordinator: Roberto Reale
       speaker: Francesco Paolo Micozzi
+      coordinator-bio: true
+      speaker-bio: true
       description:
-          en: "Contact tracing and rights balance"
-          it: "Tecnologie per il tracciamento e bilanciamento dei diritti"
+          en:
+          it:
       eventbrite: https://www.eventbrite.it/e/biglietti-contact-tracing-e-data-governance-104031996502
       permalink:
       image:
 
-    - title: Webinar with Paul Vanderbroeck
+    - title: Webinar con Tiziano Treu
+      ref: webinar-treu
+      language: it
+      date: 19 Maggio 2020 19:00-20:00
+      coordinator:
+      speaker: Tiziano Treu
+      coordinator-bio: false
+      speaker-bio: false
+      description:
+          en:
+          it:
+      eventbrite:
+      permalink:
+      image:
+
+    - title: Does technology increase or decrease empowerment?
       ref: webinar-paul-vanderbroeck
       language: en
-      date: 25 Maggio 2020
+      date: 25 Maggio 2020 19:00-20:00
       coordinator: Roberto Reale
       speaker: Paul Vanderbroeck
+      coordinator-bio: true
+      speaker-bio: true
       description:
-          en: "Webinar with Paul Vanderbroeck"
-          it: "Webinar con Paul Vanderbroeck"
+          en:
+          it:
       permalink:
       image:
 
