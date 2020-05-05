@@ -502,19 +502,44 @@
 
 <form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/info@eutopian.eu" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Io sottoscritta/o</label><input type="text" name="full-name" id="full-name" placeholder="Nome e cognome" required="" />
-    <label for="birth-place">Nata/o a</label><input type="text" name="birth-place" id="birth-place" placeholder="Luogo di nascita" required="" />
-    <div class="it-datepicker-wrapper">
-        <input class="form-control it-date-datepicker" id="birth-date" type="text" placeholder="inserisci la data in formato gg/mm/aaaa" />
+    <div class="form-group">
+        <input class="form-control" type="text" name="full-name" id="full-name" placeholder="Nome e cognome" required="" />
+        <label for="full-name">Io sottoscritta/o</label>
     </div>
-    <label for="profession">Professione</label><input type="text" name="profession" id="profession" placeholder="Professione" required="" />
-    <label for="fiscal-code">Codice Fiscale</label><input type="text" name="fiscal-code" id="fiscal-code" placeholder="Codice Fiscale" required="" />
-    <label for="email-address">Email</label><input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" />
-    <label for="phone-number">Telefono</label><input type="text" name="phone-number" id="phone-number" placeholder="Telefono" required="" />
-    <label for="city">Residente a</label><input type="text" name="city" id="city" placeholder="Comune di residenza" required="" />
-    <label for="note">Informazioni aggiuntive</label><textarea rows="2" name="note" id="note" placeholder="Informazioni aggiuntive"></textarea>
-    <input type="hidden" name="_language" value="it" />
-    <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission" />
+    <div class="it-datepicker-wrapper">
+        <div class="form-group">
+            <input class="form-control it-date-datepicker" id="birth-date" type="text" placeholder="inserisci la data in formato gg/mm/aaaa" required="" />
+            <label for="birth-date">Data di nascita</label>
+        </div>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="profession" id="profession" placeholder="Professione" required="" />
+        <label for="profession">Professione</label>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="fiscal-code" id="fiscal-code" placeholder="Codice Fiscale" required="" />
+        <label for="fiscal-code">Codice Fiscale</label>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" />
+        <label for="email-address">Email</label>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="phone-number" id="phone-number" placeholder="Telefono" required="" />
+        <label for="phone-number">Telefono</label>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="city" id="city" placeholder="Comune di residenza" required="" />
+        <label for="city">Residente a</label>
+    </div>
+    <div class="form-group">
+        <textarea class="form-control" rows="2" name="note" id="note" placeholder="Informazioni aggiuntive"></textarea>
+        <label for="note">Informazioni aggiuntive</label>
+    </div>
+    <div class="form-group">
+        <input type="hidden" name="_language" value="it" />
+        <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission" />
+    </div>
 
     <p class="text-center">MANIFESTO LA MIA VOLONTÀ</p>
 
