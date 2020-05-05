@@ -19,7 +19,7 @@ Alternatively, you may fill in either the [Application form for natural persons]
         <label for="full-name">I the undersigned</label>
     </div>
     <div class="form-group">
-        <input class="form-control" type="text" name="birth-place" id="birth-placd" placeholder="Birthplace" required>
+        <input class="form-control" type="text" name="birth-place" id="birth-place" placeholder="Birthplace" required>
         <label for="full-name">Birthplace</label>
     </div>
     <div class="it-datepicker-wrapper">
