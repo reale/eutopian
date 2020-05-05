@@ -50,8 +50,8 @@ webinars:
       date: 25 Maggio 2020 19:00-20:00
       coordinator: Roberto Reale
       speaker: Paul Vanderbroeck
-      coordinator-bio: true
-      speaker-bio: true
+      coordinator-bio:
+      speaker-bio:
       description:
           en:
           it:

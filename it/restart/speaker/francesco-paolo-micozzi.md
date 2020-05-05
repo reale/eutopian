@@ -55,4 +55,4 @@ Forense (FIIF) presso il Consiglio Nazionale Forense ed è membro della
 Commissione Privacy del CNF. È membro del gruppo di lavoro “Surveillance”, per
 il CNF, a Bruxelles presso il CCBE (Conseil des Barreaux Européens)
 
-[Sito web](www.array.eu) [Twitter](https://twitter.com/fpmicozzi) [LinkedIn](https://www.linkedin.com/in/francesco-paolo-micozzi/)
+[Sito web](https://array.eu) [Twitter](https://twitter.com/fpmicozzi) [LinkedIn](https://www.linkedin.com/in/francesco-paolo-micozzi/)
