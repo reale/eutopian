@@ -18,6 +18,10 @@ In alternativa, puoi scaricare e compilare il [Modulo di adesione per persone fi
         <input class="form-control" type="text" name="full-name" id="full-name" placeholder="Nome e cognome" required>
         <label for="full-name">Io sottoscritta/o</label>
     </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="birth-place" id="birth-place" placeholder="Luogo di nascita" required>
+        <label for="full-name">Luogo di nascita</label>
+    </div>
     <div class="it-datepicker-wrapper">
         <div class="form-group">
             <input class="form-control it-date-datepicker" id="birth-date" type="text" placeholder="inserisci la data in formato gg/mm/aaaa" required>
