@@ -502,17 +502,48 @@
 
 <form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/info@eutopian.eu" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">I the undersigned</label><input type="text" name="full-name" id="full-name" placeholder="Full Name" required="" />
-    <label for="birth-place">Birthplace</label><input type="text" name="birth-place" id="birth-place" placeholder="Birthplace" required="" />
-    <label for="birth-date">Birthday</label><input type="text" name="birth-date" id="birth-date" placeholder="Date of Birth" required="" />
-    <label for="profession">Profession</label><input type="text" name="profession" id="profession" placeholder="Profession" required="" />
-    <label for="fiscal-code">Fiscal Code or equivalent</label><input type="text" name="fiscal-code" id="fiscal-code" placeholder="Fiscal Code" required="" />
-    <label for="email-address">Email Address</label><input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" />
-    <label for="phone-number">Phone Number</label><input type="text" name="phone-number" id="phone-number" placeholder="Phone Number" required="" />
-    <label for="city">City</label><input type="text" name="city" id="city" placeholder="City" required="" />
-    <label for="note">Notes</label><textarea rows="2" name="note" id="note" placeholder="Notes"></textarea>
-    <input type="hidden" name="_language" value="en" />
-    <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission" />
+    <div class="form-group">
+        <input class="form-control" type="text" name="full-name" id="full-name" placeholder="Full Name" required="" />
+        <label for="full-name">I the undersigned</label>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="birth-place" id="birth-place" placeholder="Birthplace" required="" />
+        <label for="full-name">Birthplace</label>
+    </div>
+    <div class="it-datepicker-wrapper">
+        <div class="form-group">
+            <input class="form-control it-date-datepicker" id="birth-date" type="text" placeholder="please insert the date in the format dd/mm/yyyy" required="" />
+            <label for="birth-date">Birthdaty</label>
+        </div>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="profession" id="profession" placeholder="Profession" required="" />
+        <label for="profession">Profession</label>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="fiscal-code" id="fiscal-code" placeholder="Fiscal Code" required="" />
+        <label for="fiscal-code">Fiscal Code or equivalent</label>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" />
+        <label for="email-address">Email Address</label>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="phone-number" id="phone-number" placeholder="Phone Number" required="" />
+        <label for="phone-number">Phone Number</label>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" name="city" id="city" placeholder="City" required="" />
+        <label for="city">City</label>
+    </div>
+    <div class="form-group">
+        <textarea class="form-control" rows="2" name="note" id="note" placeholder="Notes"></textarea>
+        <label for="note">Notes</label>
+    </div>
+    <div class="form-group">
+        <input type="hidden" name="_language" value="en" />
+        <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission" />
+    </div>
 
     <p class="text-center">EXPRESS MY WISH</p>
 
