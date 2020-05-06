@@ -25,9 +25,9 @@ webinars:
       description:
           en:
           it:
-      eventbrite: https://www.eventbrite.it/e/biglietti-contact-tracing-e-data-governance-104031996502
+      eventbrite: https://www.eventbrite.it/e/biglietti-gestione-dellemergenza-covid-e-soluzioni-tecnologiche-di-contact-tracing-104545498400
       permalink:
-      image:
+      image: jpg
 
     - title: Webinar con Tiziano Treu
       ref: webinar-treu
