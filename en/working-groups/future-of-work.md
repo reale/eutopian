@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Futuro of work
+title: Future of work
 lang: en
 ref: future-of-work
 permalink: /en/working-groups/future-of-work
