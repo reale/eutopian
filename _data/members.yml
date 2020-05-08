@@ -201,6 +201,16 @@ ordinary:
           email: mailto:clara.silvano@eutopian.eu
           linkedin: https://www.linkedin.com/in/clara-silvano-0190b0156
 
+    - name: "Serena Torquati"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          email: mailto:serena.torquati@eutopian.eu
+          linkedin:
+          twitter:
+
     - name: "Simone Stricelli"
       priority: 0
       role:
