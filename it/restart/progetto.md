@@ -14,7 +14,7 @@ Il progetto **#Restart** si compone di due iniziative interconnesse:
 
 * un [Decalogo](/it/restart/decalogo) per la ripresa, inteso come documento collaborativo pubblicato sul portale web dell’Associazione almeno in italiano ed inglese e aperto a contributi di tutte le parti sociali; al termine di un periodo di consultazione, il Decalogo verrà consolidato e condiviso con stakeholder nazionali ed europei
 
-Inoltre, anche ai fini di un coordinamento del progetto, Eutopian ha costituito un [Gruppo di Lavoro su innovazione e politiche pubbliche](/it/restart/working-group), con particolare attenzione alle dimensioni della sostenibilità (sociale, economica, ambientale), dell’information security e dell’interoperabilità a livello interregionale e transfrontaliero.
+Inoltre, anche ai fini di un coordinamento del progetto, Eutopian ha costituito un Gruppo di Lavoro su [innovazione, impresa e politiche pubbliche](/it/gruppi-di-lavoro/innovazione-impresa-politiche-pubbliche), con particolare attenzione alle dimensioni della sostenibilità (sociale, economica, ambientale), dell’information security e dell’interoperabilità a livello interregionale e transfrontaliero.
 
 Il Gruppo di Lavoro mira ad analizzare buone pratiche e proporre lo sviluppo di modelli utili da adottare o, ove individuati, suggerire miglioramenti da introdurre in modelli organizzativi, processi e piattaforme.
 

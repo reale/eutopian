@@ -5,7 +5,7 @@ lang: en
 ref: restart-speakers
 permalink: /en/restart/speakers
 child_of_ref: restart
-order: 5
+order: 4
 ---
 
 <div class="card-columns">
