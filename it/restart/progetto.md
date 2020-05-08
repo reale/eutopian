@@ -11,7 +11,7 @@ order: 1
 
 Il progetto **#Restart** si compone di due iniziative interconnesse:
 
-* una serie di [webinar](/it/restart/webinar) aperti a tutti, con cadenza almeno mensile (ad eccezione di agosto), sui temi fondativi dell’Associazione e coinvolgendo, nella misura più ampia possibile, esperti italiani e internazionali
+* un ciclo di [webinar](/it/restart/webinar) aperti a tutti, con cadenza almeno mensile (ad eccezione di agosto), sui temi fondativi dell’Associazione e coinvolgendo, nella misura più ampia possibile, esperti italiani e internazionali
 
 * un [Decalogo](/it/restart/decalogo) per la ripresa, inteso come documento collaborativo pubblicato sul portale web dell’Associazione almeno in italiano ed inglese e aperto a contributi di tutte le parti sociali; al termine di un periodo di consultazione, il Decalogo verrà consolidato e condiviso con stakeholder nazionali ed europei
 
