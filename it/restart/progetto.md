@@ -4,6 +4,7 @@ title: Il progetto
 lang: it
 ref: restart-progetto
 permalink: /it/restart/progetto
+image: /assets/images/repubblica-digitale.png
 child_of_ref: restart
 order: 1
 ---
@@ -16,8 +17,4 @@ Il progetto **#Restart** si compone di due iniziative interconnesse:
 
 Inoltre, anche ai fini di un coordinamento del progetto, Eutopian ha costituito un Gruppo di Lavoro su [innovazione, impresa e politiche pubbliche](/it/gruppi-di-lavoro/innovazione-impresa-politiche-pubbliche), con particolare attenzione alle dimensioni della sostenibilità (sociale, economica, ambientale), dell’information security e dell’interoperabilità a livello interregionale e transfrontaliero.
 
-Il Gruppo di Lavoro mira ad analizzare buone pratiche e proporre lo sviluppo di modelli utili da adottare o, ove individuati, suggerire miglioramenti da introdurre in modelli organizzativi, processi e piattaforme.
-
-L’attività del Gruppo di Lavoro è da intendersi in sinergia con altri soggetti nazionali e comunitari impegnati nel medesimo ambito.
-
-Il progetto #Restart è in corso di valutazione nell'ambito dell'iniziativa [Repubblica Digitale](https://innovazione.gov.it/it/repubblica-digitale/) del Ministero dell'Innovazione Tecnologica.
+Attraverso il progetto #Restart, Eutopian aderisce all'iniziativa [Repubblica Digitale](https://innovazione.gov.it/it/repubblica-digitale/) del Ministero dell'Innovazione Tecnologica.

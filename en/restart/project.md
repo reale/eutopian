@@ -4,6 +4,7 @@ title: The project
 lang: en
 ref: restart-progetto
 permalink: /en/restart/project
+image: /assets/images/repubblica-digitale.png
 child_of_ref: restart
 order: 1
 ---
@@ -16,8 +17,4 @@ The **#Restart** project is made up of two interconnected initiatives:
 
 Furthermore, also for the purpose of coordinating the project, Eutopian has set up a Working Group on [innovation, enterprises, and public policies](/en/working-groups/innovation-enterprises-public-policies), with special attention to the dimensions of sustainability (social, economic, environmental), information security and inter-regional and cross-border interoperability.
 
-The Working Group aims at analysing good practices and proposing the development of useful models to be adopted or, where identified, to suggest improvements to be introduced in organizational models, processes and platforms.
-
-The activity of the Working Group is to be understood in synergy with other national and community entities engaged in the same area.
-
-The #Restart project is being evaluated as part of the [Digital Republic](https://innovazione.gov.it/it/repubblica-digitale/) initiative, by the Italian Ministry of Technological Innovation.
+Through the #Restart project, Eutopian joins the [Digital Republic](https://innovazione.gov.it/it/repubblica-digitale/) initiative, by the Italian Ministry of Technological Innovation.
