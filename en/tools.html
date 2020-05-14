@@ -419,8 +419,26 @@
                     
                     
                     
-                    <li class="nav-item">
-                      <a class="nav-link" aria-label="Go to Tools" href="/en/tools"><span>Tools</span></a>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" aria-label="Tools Selection" href="#" data-toggle="dropdown" aria-expanded="false">
+                        <span>Tools</span>
+                        <svg class="icon icon-xs">
+                          <use xlink:href="/assets/bootstrap-italia/dist/svg/sprite.svg#it-expand">
+                          </use>
+                        </svg>
+                      </a>
+                      <div class="dropdown-menu">
+                        <div class="link-list-wrapper">
+                          <ul class="link-list">
+                            <!--<li><a class="list-item" aria-label="Go to Tools" href="/en/tools"><span>Tools</span></a></li>
+                            <li><span class="divider"></span></li>-->
+                            
+                            <li><a class="list-item" aria-label="Go to HTTPS for Public Administrations" href="/en/tools/https"><span>HTTPS for Public Administrations</span></a>
+                            </li>
+                            
+                          </ul>
+                        </div>
+                      </div>
                     </li>
                     
                     
@@ -506,7 +524,7 @@
             <div class="container">
                 <div class="row">
                     
-                    <div class="col-sm"><p>This page is available <a href="/it/strumenti">in Italian only</a>.</p>
+                    <div class="col-sm">
 </div>
                 </div>
             </div>
@@ -556,6 +574,8 @@
                                         <!--<a class="nav-link active" aria-label="Go to Tools" href="/en/tools"><span>Tools</span></a>-->
 
                                         
+                                        
+                                        <a class="nav-link " aria-label="Go to HTTPS for Public Administrations" href="/en/tools/https"><span>HTTPS for Public Administrations</span></a>
                                         
 
                                     </li>
