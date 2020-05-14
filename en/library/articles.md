@@ -3,8 +3,9 @@ layout: default
 title: Articles
 lang: en
 ref: articles
-permalink: /en/articles
-order: 6
+permalink: /en/library/articles
+child_of_ref: library
+order: 2
 ---
 
 <main class="container my-5" markdown="1">

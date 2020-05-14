@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: default
 title: News
-lang: en
+lang: it
 ref: news
-permalink: /en/news
-order: 5
+permalink: /it/libreria/news
+child_of_ref: library
+order: 1
 ---
 
 <main class="container my-5" markdown="1">
