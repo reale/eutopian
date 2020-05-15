@@ -54,21 +54,21 @@ For these purposes:
 
 5.d. The fundamental themes of the Association's activities are (by way of example and not limited to):
 
-monitoring and promotion of technological innovation and its social, economic and political consequences;
+- monitoring and promotion of technological innovation and its social, economic and political consequences;
 
-the conscious participation of the citizen in the present time, also through dialogue with institutions, and in particular the new models of citizenship, also through the study of enabling technologies;
+- the conscious participation of the citizen in the present time, also through dialogue with institutions, and in particular the new models of citizenship, also through the study of enabling technologies;
 
-the diffusion of international experiences of creating open / smart communities in terms of quality of services, sustainable development, application of new technologies, digital transformation of processes and development of new models of economic growth;
+- the diffusion of international experiences of creating open / smart communities in terms of quality of services, sustainable development, application of new technologies, digital transformation of processes and development of new models of economic growth;
 
-the promotion of active participation in the processes of democratic innovation and digitalization, deepening technological, economic, social, ethical, managerial and cooperation logic aspects;
+- the promotion of active participation in the processes of democratic innovation and digitalization, deepening technological, economic, social, ethical, managerial and cooperation logic aspects;
 
-the policymaker engagement and the dialogue with the institutions and with the intermediate bodies of the democratic debate (parties, unions, think tanks), and in particular the diffusion of democratic innovation among administrators and in the Public Administration;
+- the policymaker engagement and the dialogue with the institutions and with the intermediate bodies of the democratic debate (parties, unions, think tanks), and in particular the diffusion of democratic innovation among administrators and in the Public Administration;
 
-the sharing of possible benefits, opportunities and cooperation models that can arise from innovation processes;
+- the sharing of possible benefits, opportunities and cooperation models that can arise from innovation processes;
 
-the security and protection of personal data, and in general the protection of digital identity;
+- the security and protection of personal data, and in general the protection of digital identity;
 
-inclusion, diversity, leadership development.
+- inclusion, diversity, leadership development.
 
 5.e. For the pursuit of the aforementioned purposes, the Association may carry out activities of general interest such as scientific research activities of particular social interest, pursuant to art. 5 paragraph 1, lett. h) of Legislative Decree 117/2017, the university and post-university training activities pursuant to art. 5 paragraph 1, lett. g) of Legislative Decree 117/2017, and activities to promote and protect human, civil, social and political rights.
 
@@ -88,31 +88,31 @@ inclusion, diversity, leadership development.
 
 7.a. To achieve its purposes indicated in art. 5 above the Association can:
 
-Plan and pursue fundraising campaigns to obtain donations from institutions, administrations, foundations, companies, sponsors, private citizens, and anyone else interested in supporting the Association's activities, even with technologically advanced means.
+- Plan and pursue fundraising campaigns to obtain donations from institutions, administrations, foundations, companies, sponsors, private citizens, and anyone else interested in supporting the Association's activities, even with technologically advanced means.
 
-Organize awareness-raising and training events and campaigns, including advertising and press campaigns to raise public awareness.
+- Organize awareness-raising and training events and campaigns, including advertising and press campaigns to raise public awareness.
 
-Organize conferences, educational / informative seminars, booklet publications, books, magazines, video productions, website openings, organize exhibitions and cultural events.
+- Organize conferences, educational / informative seminars, booklet publications, books, magazines, video productions, website openings, organize exhibitions and cultural events.
 
-Select, train and employ volunteers, collaborators and employees to pursue the Association's activities.
+- Select, train and employ volunteers, collaborators and employees to pursue the Association's activities.
 
-Establish offices or detachments where and if they are necessary for the conduct of activities in order to achieve social purposes.
+- Establish offices or detachments where and if they are necessary for the conduct of activities in order to achieve social purposes.
 
-Accept sponsorships and advertising matches to support the statutory purposes and to cover the costs of implementing the various initiatives.
+- Accept sponsorships and advertising matches to support the statutory purposes and to cover the costs of implementing the various initiatives.
 
-Participate in national, community and / or international calls and / or projects on issues relating to new technologies.
+- Participate in national, community and / or international calls and / or projects on issues relating to new technologies.
 
-Organize non-profit activities of a commercial nature for self-financing, in particular, consultancy activities, organization of commercial events on topics related to new technologies.
+- Organize non-profit activities of a commercial nature for self-financing, in particular, consultancy activities, organization of commercial events on topics related to new technologies.
 
-Purchase, both for consideration and free of charge, rent, usufruct, concession, use, loan and management of movable and immovable property; enter into any more appropriate deed or contract, including for the financing of the approved operations, including, without excluding others, taking on short, medium or long-term mortgages with guarantees on assets or properties, the granting of contributions or other forms of intervention with any type of guarantee, including real guarantees, on the assets subject to the Association's aims; the signing of mandatory or submission deeds for the concession in use of goods, the stipulation of special conventions of any kind, also transcribable on the Public Registers, with public or private entities that are deemed appropriate for the achievement of the purposes of the Association; administer and manage the assets of which it is the owner, lessor, borrower, usufructuary or otherwise owned or managed, also by administrative concession.
+- Purchase, both for consideration and free of charge, rent, usufruct, concession, use, loan and management of movable and immovable property; enter into any more appropriate deed or contract, including for the financing of the approved operations, including, without excluding others, taking on short, medium or long-term mortgages with guarantees on assets or properties, the granting of contributions or other forms of intervention with any type of guarantee, including real guarantees, on the assets subject to the Association's aims; the signing of mandatory or submission deeds for the concession in use of goods, the stipulation of special conventions of any kind, also transcribable on the Public Registers, with public or private entities that are deemed appropriate for the achievement of the purposes of the Association; administer and manage the assets of which it is the owner, lessor, borrower, usufructuary or otherwise owned or managed, also by administrative concession.
 
-Implement all the instrumental activities necessary or useful for the pursuit of statutory purposes including consultancy, the organization of trips for the purpose of education and study, the organization of events or shows, the organization of training courses and the support also abroad of research and study campaigns.
+- Implement all the instrumental activities necessary or useful for the pursuit of statutory purposes including consultancy, the organization of trips for the purpose of education and study, the organization of events or shows, the organization of training courses and the support also abroad of research and study campaigns.
 
-Promote, also through joint programs or grants, the development of institutions, associations, bodies that operate to achieve similar ends to those of the Association or that facilitate the Association to achieve its ends.
+- Promote, also through joint programs or grants, the development of institutions, associations, bodies that operate to achieve similar ends to those of the Association or that facilitate the Association to achieve its ends.
 
-Any other activities foreseen by the Internal Regulations.
+- Any other activities foreseen by the Internal Regulations.
 
-All the activities referred to in the previous points can be carried out both in Italy and abroad if it is necessary or appropriate, to export or acquire professional training, culture, experience and technical-scientific information, actions or programs of didactic training and / or cooperation on their own or on behalf of third parties.
+- All the activities referred to in the previous points can be carried out both in Italy and abroad if it is necessary or appropriate, to export or acquire professional training, culture, experience and technical-scientific information, actions or programs of didactic training and / or cooperation on their own or on behalf of third parties.
 
 7.b. It is forbidden for the Association to carry out activities other than the institutional ones listed above with the exception of the activities directly connected to the institutional ones, or accessory as they are complementary to the same.
 
@@ -126,13 +126,13 @@ All the activities referred to in the previous points can be carried out both in
 
 8.b. Members of the Association are:
 
-Founding members: those who signed the Articles of Association
+- Founding members: those who signed the Articles of Association
 
-Supporting members: those who, having the requirements of ordinary members, decide to pay a higher membership fee as determined by the Board of Directors which will establish certain benefits in their favor. The ordinary member can become a supporter simply by paying the quota foreseen for this category by the Board of Directors or return to being an ordinary member for the following year.
+- Supporting members: those who, having the requirements of ordinary members, decide to pay a higher membership fee as determined by the Board of Directors which will establish certain benefits in their favor. The ordinary member can become a supporter simply by paying the quota foreseen for this category by the Board of Directors or return to being an ordinary member for the following year.
 
-Ordinary members: all those who do not fall into one of the previous categories.
+- Ordinary members: all those who do not fall into one of the previous categories.
 
-Honorary members: they are people nominated by the Assembly for particular merits acquired in favor of the Association or people of clear fame in the sphere of the competences covered by the Association's activity.
+- Honorary members: they are people nominated by the Assembly for particular merits acquired in favor of the Association or people of clear fame in the sphere of the competences covered by the Association's activity.
 
 8.c. Natural or legal persons who, sharing the aims of the Association, undertake to collaborate in their achievement, in compliance with this Statute, the Regulations and the resolutions of the Bodies of the Association, can acquire the quality of members, assuming the commitment of contribute, in a spirit of solidarity, to the achievement of social goals.
 
@@ -156,13 +156,13 @@ Honorary members: they are people nominated by the Assembly for particular merit
 
 9.b. Members have the obligations:
 
-to strictly comply with the provisions of the Articles of Association, the Regulations and the resolutions legally adopted by the corporate bodies;
+- to strictly comply with the provisions of the Articles of Association, the Regulations and the resolutions legally adopted by the corporate bodies;
 
-to contribute to the pursuit of social purposes by participating in social activity in the forms and ways established by the Assembly and other corporate bodies;
+- to contribute to the pursuit of social purposes by participating in social activity in the forms and ways established by the Assembly and other corporate bodies;
 
-to pay the social dues in the terms and with the methods established by the Board of Directors;
+- to pay the social dues in the terms and with the methods established by the Board of Directors;
 
-to execute with the utmost diligence the programs they undertake to support.
+- to execute with the utmost diligence the programs they undertake to support.
 
 9.c. If the Association requests and obtains professional and / or intellectual or work services from its members, distinct from institutional activities, they will be remunerated according to criteria and methods established by the Board of Directors within the limits of the resources destined for the project, according to which the performance is finalized and within the relevant economic framework and legal provisions, with particular reference to art. 8, paragraph 3, of Legislative Decree 117/2017.
 
@@ -190,25 +190,25 @@ to execute with the utmost diligence the programs they undertake to support.
 
 11.g. The Assembly has the following tasks:
 
-It elects and revokes the President, the Vice President and the members of the Board of Directors, with the absolute majority on the first call and with the simple majority on the second call.
+- It elects and revokes the President, the Vice President and the members of the Board of Directors, with the absolute majority on the first call and with the simple majority on the second call.
 
-Appoint and revoke the Auditor.
+- Appoint and revoke the Auditor.
 
-Appoint and dismiss the members of the Control Body
+- Appoint and dismiss the members of the Control Body
 
-Resolves on the promotion of liability actions against members of corporate bodies.
+- Resolves on the promotion of liability actions against members of corporate bodies.
 
-Deliberates on the activity program proposed by the Board of Directors.
+- Deliberates on the activity program proposed by the Board of Directors.
 
-Deliberates on the preventive economic report.
+- Deliberates on the preventive economic report.
 
-Resolution on the final economic report.
+- Resolution on the final economic report.
 
-Resolves on requests to modify the Statute proposed by the Board of Directors or by the President.
+- Resolves on requests to modify the Statute proposed by the Board of Directors or by the President.
 
-Resolution on the internal Regulations.
+- Resolution on the internal Regulations.
 
-Deliberates the dissolution, transformation, merger or division of the Association.
+- Deliberates the dissolution, transformation, merger or division of the Association.
 
 11.h. The Assembly can meet and vote also in a place other than the registered office of the Association, including IT and telematic methods, provided that, pursuant to art. 24 of Legislative Decree 117/2017, it is possible to verify the identity of the participating and voting member and provided that this is clearly indicated in the convocation deed.
 
@@ -224,13 +224,13 @@ Deliberates the dissolution, transformation, merger or division of the Associati
 
 12.d. The Assembly, in electing the members of the Board of Directors, adheres to the following principles:
 
-the social, political and territorial representativeness of the candidates;
+- the social, political and territorial representativeness of the candidates;
 
-pluralism of positions in the ways recognized by the Statute;
+- pluralism of positions in the ways recognized by the Statute;
 
-the principle of merit that ensures the selection of competent candidates;
+- the principle of merit that ensures the selection of competent candidates;
 
-gender diversity.
+- gender diversity.
 
 12.e. The Board of Directors can co-opt, always among the members in good standing with their obligations towards the Association and among those who carry out useful activities for the Association, further components for a number not exceeding 1/3 of those nominated by the assembly .
 
@@ -240,29 +240,29 @@ gender diversity.
 
 12.h. The Board of Directors has the task of carrying out the Association's program in every part, as established by this Statute and by the Assembly and, for this purpose, it will have to (for example and without exhaustiveness):
 
-Hire the staff.
+- Hire the staff.
 
-Approving the strategic lines of the Association, in relation to the annual and half-yearly programming, as well as the cultural and scientific orientation. Also approve the Association's management guidelines, with reference to the programmatic use of its resources and assets.
+- Approving the strategic lines of the Association, in relation to the annual and half-yearly programming, as well as the cultural and scientific orientation. Also approve the Association's management guidelines, with reference to the programmatic use of its resources and assets.
 
-Submit the annual economic and final financial statements for approval by the Shareholders' Meeting.
+- Submit the annual economic and final financial statements for approval by the Shareholders' Meeting.
 
-Determine the work program on the basis of the guidelines contained in the general program approved by the Assembly, promoting and coordinating its activity.
+- Determine the work program on the basis of the guidelines contained in the general program approved by the Assembly, promoting and coordinating its activity.
 
-Accept or reject applications from aspiring members.
+- Accept or reject applications from aspiring members.
 
-Deliberate on the exclusion of members.
+- Deliberate on the exclusion of members.
 
-Ratify, in the first useful session, the measures of its competence adopted by the President for reasons of necessity and urgency.
+- Ratify, in the first useful session, the measures of its competence adopted by the President for reasons of necessity and urgency.
 
-Set up thematic commissions with possible delegation for specific tasks.
+- Set up thematic commissions with possible delegation for specific tasks.
 
-Determine the membership fee for each category of member.
+- Determine the membership fee for each category of member.
 
-Transfer or establish other offices or branches of the Association.
+- Transfer or establish other offices or branches of the Association.
 
-To deliberate, on proposal of the President, to accept or not any inheritance, donations, bequests, disbursements or goods on free loan in favor of the Association.
+- To deliberate, on proposal of the President, to accept or not any inheritance, donations, bequests, disbursements or goods on free loan in favor of the Association.
 
-Carry out any activity and / or legal, negotiating, administrative, social, advertising, information and dissemination, including scientific, of the results achieved and of the activities in progress, of technical, scientific or social, commercial, information and general investigation, as well as design, programming, proposal, proposition, ideation and anything else needed to achieve the objectives of the Association.
+- Carry out any activity and / or legal, negotiating, administrative, social, advertising, information and dissemination, including scientific, of the results achieved and of the activities in progress, of technical, scientific or social, commercial, information and general investigation, as well as design, programming, proposal, proposition, ideation and anything else needed to achieve the objectives of the Association.
 
 12.i. The President can delegate to members of the Board of Directors the carrying out of acts or activities that it is appropriate to carry out for the purpose of their designation, without prejudice however to the prerogatives of the Vice President, the Treasurer and the Auditor.
 
@@ -288,11 +288,11 @@ Carry out any activity and / or legal, negotiating, administrative, social, adve
 
 15.a. The Treasurer assists the President and has the following duties:
 
-It prepares the budget and final report scheme, which it submits to the CD.
+- It prepares the budget and final report scheme, which it submits to the CD.
 
-It provides for the keeping of the Association's records and accounts and for the conservation of the relative documentation.
+- It provides for the keeping of the Association's records and accounts and for the conservation of the relative documentation.
 
-It prepares what is necessary for the collection of revenue and the payment of expenses in accordance with the decisions of the Board of Directors.
+- It prepares what is necessary for the collection of revenue and the payment of expenses in accordance with the decisions of the Board of Directors.
 
 ### Art. 16 - Honorary members and presidents
 
@@ -332,23 +332,23 @@ It prepares what is necessary for the collection of revenue and the payment of e
 
 21.a. The Association derives the economic resources for the functioning and performance of its activity from:
 
-Membership fees and membership contributions.
+- Membership fees and membership contributions.
 
-Contributions from private individuals.
+- Contributions from private individuals.
 
-Contributions from the state, bodies and public institutions.
+- Contributions from the state, bodies and public institutions.
 
-Contributions from international bodies.
+- Contributions from international bodies.
 
-Donations and bequests.
+- Donations and bequests.
 
-Income from conventions.
+- Income from conventions.
 
-Annuities of movable or immovable property received by the Association in any capacity.
+- Annuities of movable or immovable property received by the Association in any capacity.
 
-Proceeds from management, cultural promotion and any other activity, including commercial activities, put in place by the Association for the purpose of providing financial support for its purposes as well as funds from the management of publishing, dissemination, cultural and professional training activities .
+- Proceeds from management, cultural promotion and any other activity, including commercial activities, put in place by the Association for the purpose of providing financial support for its purposes as well as funds from the management of publishing, dissemination, cultural and professional training activities .
 
-Revenue from fundraisers also made through innovative technologies.
+- Revenue from fundraisers also made through innovative technologies.
 
 21.b. Anyone who contributes in kind or money to the activities of the Association, authorizes and delegates the Association to freely use its contribution, without the need to request further authorizations and / or communicate the use made of it.
 
