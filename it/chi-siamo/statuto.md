@@ -590,8 +590,10 @@ che può essere aumentato con deliberazione del Consiglio Direttivo.
 
 18.a. Il Consiglio Direttivo delibera in merito alla costituzione e soppressione
 di Commissioni Tematiche di elaborazione e proposta sulla base di una richiesta
-motivata di almeno 5 componenti del Consiglio Direttivo. 18.b. Il funzionamento
-di ciascuna Commissione Tematica è definito da apposito regolamento interno.
+motivata di almeno 5 componenti del Consiglio Direttivo.
+
+18.b. Il funzionamento di ciascuna Commissione Tematica è definito da apposito
+regolamento interno.
 
 ### Art.19 – Durata delle cariche
 
