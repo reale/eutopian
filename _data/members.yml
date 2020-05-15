@@ -146,6 +146,16 @@ ordinary:
           linkedin: https://www.linkedin.com/in/eva-bredariol
           twitter: https://twitter.com/EvaBredariol
 
+    - name: "Massimo Canducci"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          email: mailto:massimo.canducci@eutopian.eu
+          linkedin: https://www.linkedin.com/in/canducci/
+          twitter: https://twitter.com/mcanducci
+
     - name: "Marisa Ciarlo"
       priority: 0
       role:
@@ -173,6 +183,16 @@ ordinary:
           email: mailto:sara.cutrona@eutopian.eu
           linkedin: https://www.linkedin.com/in/sara-cutrona-b47655aa
           twitter: https://twitter.com/SaraCutrona
+
+    - name: "Marco Del Fungo"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          email: mailto:marco.delfungo@eutopian.eu
+          linkedin:
+          twitter:
 
     - name: "Antonio Occhipinti"
       priority: 0
