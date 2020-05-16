@@ -108,6 +108,9 @@ cookie-policy-info:
 cookie-policy-accept-btn:
   en: "Ok"
   it: "Accetto"
+coordinator:
+  en: "Coordinator"
+  it: "Coordinamento"
 english-version:
   en: "English version"
   it: "Versione inglese"
@@ -135,6 +138,12 @@ goto:
 italian-version:
   en: "Italian version"
   it: "Versione italiana"
+join:
+  en: "Join"
+  it: "Partecipa"
+keynote-speaker:
+  en: "Keynote speaker"
+  it: "Keynote speaker"
 keywords:
   en: "#europe #innovation #technology #democracy #growth"
   it: "#europa #innovazione #tecnologia #democrazia #crescita"
