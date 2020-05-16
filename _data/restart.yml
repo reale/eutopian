@@ -7,10 +7,8 @@ webinars:
       speaker: Massimo Canevacci
       coordinator-bio: true
       speaker-bio: true
-      description:
-          en:
-          it:
       eventbrite: https://www.eventbrite.it/e/biglietti-identita-ubique-verso-unantropologia-non-antropocentrica-104325339900
+      youtube: https://youtu.be/QzNbOSZUZj0
       permalink:
       image: jpg
 
@@ -22,27 +20,22 @@ webinars:
       speaker: Francesco Paolo Micozzi
       coordinator-bio: true
       speaker-bio: true
-      description:
-          en:
-          it:
       eventbrite: https://www.eventbrite.it/e/biglietti-gestione-dellemergenza-covid-e-soluzioni-tecnologiche-di-contact-tracing-104545498400
+      youtube: https://youtu.be/uCva5mtztSE
       permalink:
       image: jpg
 
-    - title: Webinar con Tiziano Treu
-      ref: webinar-treu
+    - title: "Il mondo del lavoro che verrà"
+      ref: mondo-del-lavoro-che-verra
       language: it
       date: 19 Maggio 2020 19:00-20:00
-      coordinator:
+      coordinator: Eva Bredariol
       speaker: Tiziano Treu
-      coordinator-bio: false
-      speaker-bio: false
-      description:
-          en:
-          it:
-      eventbrite:
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-il-mondo-del-lavoro-che-verra-conversazione-con-tiziano-treu-105287457620
       permalink:
-      image:
+      image: png
 
     - title: Does technology increase or decrease empowerment?
       ref: webinar-paul-vanderbroeck
