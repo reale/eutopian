@@ -5,6 +5,7 @@ lang: it
 ref: massimo-canevacci
 permalink: /it/restart/speaker/massimo-canevacci
 image: /assets/images/headshots/massimo-canevacci.jpg
+child_of_ref: restart-webinar
 ---
 
 Docente di Antropologia Culturale presso la Facoltà di Scienze della Comunicazione - Università di Roma "La Sapienza". Visiting Professor in diverse università europee, a Tokyo (Giappone), Nanjing (China). Dal 2010 al 2018, è stato Professor Visitante in Brasile: Florianôpolis (UFSC), Rio de Janeiro (UERJ), São Paulo (IEA/USP). Alcuni libri:
