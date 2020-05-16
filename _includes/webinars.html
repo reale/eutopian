@@ -4,8 +4,8 @@
   <img class="card-img-top" src="/assets/images/restart/{{ webinar.ref }}.{{ webinar.image }}" alt="{{ webinar.title }}">
   {% endif %}
   <div class="card-body">
-    {% if webinar.permalink %}
-      <a href="{{ webinar.permalink }}" class="card-link"><h5 class="card-title">{{ webinar.title }}</h5></a>
+    {% if webinar.ref %}
+      <a href="/{{ webinar.lang }}/restart/webinar/{{ webinar.ref }}" class="card-link"><h5 class="card-title">{{ webinar.title }}</h5></a>
     {% else %}
       <h5 class="card-title">{{ webinar.title }}</h5>
     {% endif %}

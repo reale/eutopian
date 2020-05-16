@@ -1,7 +1,7 @@
 webinars:
     - title: Identità Ubique. Verso un'antropologia non antropocentrica
       ref: identita-ubique
-      language: it
+      lang: it
       date: 8 Maggio 2020 19:00-20:00
       coordinator: Roberto Reale
       speaker: Massimo Canevacci
@@ -9,12 +9,11 @@ webinars:
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-identita-ubique-verso-unantropologia-non-antropocentrica-104325339900
       youtube: https://youtu.be/QzNbOSZUZj0
-      permalink:
       image: jpg
 
-    - title: "Gestione dell'emergenza da COVID-19 e soluzioni tecnologiche di contact tracing: il bilanciamento tra il tecnicamente possibile e il giuridicamente ammissibile"
+    - title: "Gestione dell'emergenza da COVID-19 e soluzioni tecnologiche di contact tracing"
       ref: contact-tracing
-      language: it
+      lang: it
       date: 11 Maggio 2020 19:00-20:00
       coordinator: Roberto Reale
       speaker: Francesco Paolo Micozzi
@@ -22,24 +21,23 @@ webinars:
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-gestione-dellemergenza-covid-e-soluzioni-tecnologiche-di-contact-tracing-104545498400
       youtube: https://youtu.be/uCva5mtztSE
-      permalink:
       image: jpg
 
     - title: "Il mondo del lavoro che verrà"
       ref: mondo-del-lavoro-che-verra
-      language: it
+      lang: it
       date: 19 Maggio 2020 19:00-20:00
       coordinator: Eva Bredariol
       speaker: Tiziano Treu
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-il-mondo-del-lavoro-che-verra-conversazione-con-tiziano-treu-105287457620
-      permalink:
+      youtube:
       image: png
 
     - title: Does technology increase or decrease empowerment?
       ref:
-      language: en
+      lang: en
       date: 25 Maggio 2020 19:00-20:00
       coordinator: Roberto Reale
       speaker: Paul Vanderbroeck
@@ -53,7 +51,7 @@ webinars:
 
     - title: Smart city
       ref:
-      language: it
+      lang: it
       date: 15 Giugno 2020
       coordinator: Federica Meta
       speaker: Flavia Marzano
@@ -65,7 +63,7 @@ webinars:
 
     - title: Post Pandemic Design
       ref:
-      language: it
+      lang: it
       date: Giugno 2020
       coordinator: Simone Stricelli
       description:
@@ -76,7 +74,7 @@ webinars:
 
     - title: Sharing Docs
       ref:
-      language: it
+      lang: it
       date: Luglio 2020
       coordinator: Gaetano Bruno
       description:
@@ -87,7 +85,7 @@ webinars:
 
     - title: Networking
       ref:
-      language: it
+      lang: it
       date: Settembre 2020
       coordinator: Eva Bredariol
       description:
@@ -98,7 +96,7 @@ webinars:
 
     - title: Openness nella PA
       ref:
-      language: it
+      lang: it
       date: Ottobre 2020
       coordinator: Flavia Marzano
       description:
@@ -109,7 +107,7 @@ webinars:
 
     - title: Smart & Sustainable Mobility 
       ref:
-      language: it
+      lang: it
       date: Novembre 2020
       coordinator: Agata Quattrone
       description:
@@ -120,7 +118,7 @@ webinars:
 
     - title: L'intelligenza artificiale nella lotta contro il coronavirus
       ref:
-      language: it
+      lang: it
       date: Dicembre 2020
       coordinator: Clara Silvano
       description:
