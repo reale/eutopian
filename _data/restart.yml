@@ -38,7 +38,7 @@ webinars:
       image: png
 
     - title: Does technology increase or decrease empowerment?
-      ref: webinar-paul-vanderbroeck
+      ref:
       language: en
       date: 25 Maggio 2020 19:00-20:00
       coordinator: Roberto Reale
@@ -52,7 +52,7 @@ webinars:
       image:
 
     - title: Smart city
-      ref: smart-city
+      ref:
       language: it
       date: 15 Giugno 2020
       coordinator: Federica Meta
@@ -64,7 +64,7 @@ webinars:
       image:
 
     - title: Post Pandemic Design
-      ref: post-pandemic-design
+      ref:
       language: it
       date: Giugno 2020
       coordinator: Simone Stricelli
@@ -75,7 +75,7 @@ webinars:
       image:
 
     - title: Sharing Docs
-      ref: sharing-docs
+      ref:
       language: it
       date: Luglio 2020
       coordinator: Gaetano Bruno
@@ -86,7 +86,7 @@ webinars:
       image:
 
     - title: Networking
-      ref: networking
+      ref:
       language: it
       date: Settembre 2020
       coordinator: Eva Bredariol
@@ -97,7 +97,7 @@ webinars:
       image:
 
     - title: Openness nella PA
-      ref: openness
+      ref:
       language: it
       date: Ottobre 2020
       coordinator: Flavia Marzano
@@ -108,7 +108,7 @@ webinars:
       image:
 
     - title: Smart & Sustainable Mobility 
-      ref: smart-mobility
+      ref:
       language: it
       date: Novembre 2020
       coordinator: Agata Quattrone
@@ -119,7 +119,7 @@ webinars:
       image:
 
     - title: L'intelligenza artificiale nella lotta contro il coronavirus
-      ref: ai-covid
+      ref:
       language: it
       date: Dicembre 2020
       coordinator: Clara Silvano
