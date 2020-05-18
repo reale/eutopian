@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Does technology increase or decrease empowerment?""
+title: "Does technology increase or decrease empowerment?"
 lang: en
 ref: technology-and-empowerment
 permalink: /en/restart/webinar/technology-and-empowerment
