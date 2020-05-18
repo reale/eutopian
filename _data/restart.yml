@@ -35,19 +35,17 @@ webinars:
       youtube:
       image: png
 
-    - title: Does technology increase or decrease empowerment?
-      ref:
+    - title: "Does technology increase or decrease empowerment?"
+      ref: technology-and-empowerment
       lang: en
-      date: 25 Maggio 2020 19:00-20:00
+      date: 25 May 2020 19:00-20:00
       coordinator: Luisa Scarcella
       speaker: Paul Vanderbroeck
-      coordinator-bio:
-      speaker-bio:
-      description:
-          en:
-          it:
-      permalink:
-      image:
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-does-technology-increase-or-decrease-empowerment-105933648394
+      youtube:
+      image: png
 
     - title: Smart city
       ref:
