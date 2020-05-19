@@ -26,7 +26,7 @@
     {% if webinar.coordinator != nil and webinar.coordinator != "" %}
     {% if webinar.coordinator-bio %}
     {% assign coordinator-slug = webinar.coordinator | downcase | replace: ' ', '-' %}
-    <p><b>{{ site.data.t.coordinator[page.lang] }}</b> <a href="/{{ webinar.lang }}/chi-siamo/bio/{{ coordinator-slug }}">{{ webinar.coordinator }}</a></p>
+    <p><b>{{ site.data.t.coordinator[page.lang] }}</b> <a href="/{{ webinar.lang }}/{{ site.data.t.about-us-url[webinar.lang] }}/bio/{{ coordinator-slug }}">{{ webinar.coordinator }}</a></p>
     {% else %}
     <p><b>{{ site.data.t.coordinator[page.lang] }}</b> {{ webinar.coordinator }}</p>
     {% endif %}

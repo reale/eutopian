@@ -99,6 +99,9 @@ social-links:
       url: "https://www.youtube.com/channel/UC3Or5xUopeeJSofALn-NuZg"
 
 ## Labels
+about-us-url:
+  en: "about-us"
+  it: "chi-siamo"
 close:
   en: "Close"
   it: "Chiudi"
