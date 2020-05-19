@@ -32,7 +32,7 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-il-mondo-del-lavoro-che-verra-conversazione-con-tiziano-treu-105287457620
-      youtube:
+      youtube: https://youtu.be/eya-P7WOurQ
       image: png
 
     - title: "Does technology increase or decrease empowerment?"
