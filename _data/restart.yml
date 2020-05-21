@@ -47,6 +47,18 @@ webinars:
       youtube:
       image: png
 
+    - title: "Using technology for social good"
+      ref: technology-for-social-good
+      lang: en
+      date: 1 June 2020 19:00-20:00
+      coordinator: Luisa Scarcella
+      speaker: Lina Zdruli
+      coordinator-bio:
+      speaker-bio:
+      eventbrite:
+      youtube:
+      image:
+
     - title: Smart city
       ref:
       lang: it
