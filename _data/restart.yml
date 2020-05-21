@@ -53,8 +53,8 @@ webinars:
       date: 1 June 2020 19:00-20:00
       coordinator: Luisa Scarcella
       speaker: Lina Zdruli
-      coordinator-bio:
-      speaker-bio:
+      coordinator-bio: true
+      speaker-bio: true
       eventbrite:
       youtube:
       image:
