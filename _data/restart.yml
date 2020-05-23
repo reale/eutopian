@@ -71,14 +71,17 @@ webinars:
       permalink:
       image:
 
-    - title: Post Pandemic Design
-      ref:
+    - title: "Post Pandemic Design"
+      ref: post-pandemic-design
       lang: it
-      date: Giugno 2020
-      coordinator: Simone Stricelli
+      date: 29 Giugno 2020
+      coordinator: Roberto Reale
+      speaker: Simone Stricelli
       description:
-          en: "Future. Humans. Innovation. What will happen next and how much a pandemic can affect our habits. How digital can help us"
           it: "Future. Humans. Innovation. Cosa succederà dopo e quanto una pandemia può incidere sulle nostre abitudini e su come il digital ci potrà aiutare"
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
       permalink:
       image:
 
