@@ -60,11 +60,14 @@ webinars:
       image:
 
     - title: "La città di domani: prospettive, opportunità e idee"
-      ref:
+      ref: citta-di-domani
       lang: it
       date: 15 Giugno 2020
       coordinator: Federica Meta
       speaker: Flavia Marzano
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
       permalink:
       image:
 
