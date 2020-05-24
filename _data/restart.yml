@@ -72,7 +72,7 @@ webinars:
       image:
 
     - title: "Post Pandemic Design"
-      ref: post-pandemic-design
+      ref:
       lang: it
       date: 29 Giugno 2020
       coordinator: Roberto Reale
