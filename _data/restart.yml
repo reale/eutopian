@@ -55,7 +55,7 @@ webinars:
       speaker: Lina Zdruli
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      eventbrite: https://www.eventbrite.it/e/biglietti-using-technology-for-social-good-106775167400
       youtube:
       image:
 
