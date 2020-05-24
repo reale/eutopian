@@ -44,7 +44,7 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-does-technology-increase-or-decrease-empowerment-105933648394
-      youtube:
+      youtube: https://youtu.be/r60gqiqqlqM
       image: png
 
     - title: "Using technology for social good"
