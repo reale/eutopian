@@ -4,7 +4,7 @@ title: "Using technology for social good"
 lang: en
 ref: technology-for-social-good
 permalink: /en/restart/webinar/technology-for-social-good
-image:
+image: /assets/images/restart/technology-for-social-good.png
 child_of_ref: restart-webinar
 ---
 

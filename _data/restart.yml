@@ -57,7 +57,7 @@ webinars:
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-using-technology-for-social-good-106775167400
       youtube:
-      image:
+      image: png
 
     - title: "La città di domani: prospettive, opportunità e idee"
       ref: citta-di-domani
