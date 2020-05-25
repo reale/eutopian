@@ -194,6 +194,15 @@ ordinary:
           linkedin:
           twitter:
 
+    - name: "Federico Francesco Fratta"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          email: mailto:federico.francesco.fratta@eutopian.eu
+          linkedin: https://www.linkedin.com/in/federicofratta/
+
     - name: "Antonio Occhipinti"
       priority: 0
       role:
