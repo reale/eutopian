@@ -4,7 +4,7 @@ title: Antonio Barbieri
 lang: it
 ref: antonio-barbieri
 permalink: /it/chi-siamo/bio/antonio-barbieri
-image: /assets/images/headshots/antonio-barbieri.png
+image: /assets/images/headshots/antonio-barbieri.jpg
 child_of_ref: team
 ---
 
