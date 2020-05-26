@@ -3,7 +3,9 @@
 founders:
     - name: "Roberto Reale"
       priority: 2
-      role: president
+      role:
+          en: President
+          it: Presidente
       bio: true
       headshot: jpg
       social-links:
@@ -14,6 +16,9 @@ founders:
     - name: "Flavia Marzano"
       priority: 1
       role: vicepresident
+      role:
+          en: Vice President
+          it: Vicepresidente
       bio: true
       headshot: jpg
       social-links:
@@ -22,7 +27,9 @@ founders:
 
     - name: "Gaetano Bruno"
       priority: 0
-      role: secretary
+      role:
+          en: Secretary
+          it: Segretario
       bio: true
       headshot: jpg
       social-links:
@@ -31,7 +38,9 @@ founders:
 
     - name: "Antonio Barbieri"
       priority: 0
-      role: treasurer
+      role:
+          en: Treasurer
+          it: Tesoriere
       bio: true
       headshot: jpg
       social-links:
@@ -126,6 +135,8 @@ ordinary:
     - name: "Eva Bredariol"
       priority: 0
       role:
+          en: Business networks
+          it: Reti d'impresa
       bio: true
       headshot: jpg
       social-links:
@@ -135,6 +146,8 @@ ordinary:
     - name: "Massimo Canducci"
       priority: 0
       role:
+          en: Innovation
+          it: Innovazione
       bio: true
       headshot: jpg
       social-links:
@@ -144,6 +157,8 @@ ordinary:
     - name: "Marisa Ciarlo"
       priority: 0
       role:
+          en: Project management
+          it: Project management
       bio: true
       headshot: jpg
       social-links:
@@ -152,6 +167,8 @@ ordinary:
     - name: "Alfredo Cutolo"
       priority: 0
       role:
+          en: Project management
+          it: Project management
       bio: true
       headshot:
       social-links:
@@ -208,6 +225,8 @@ ordinary:
     - name: "Serena Torquati"
       priority: 0
       role:
+          en: Project management
+          it: Project management
       bio: false
       headshot:
       social-links:

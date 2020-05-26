@@ -25,7 +25,7 @@ order: 3
       {% endif %}
 
       {% if member.role != nil and member.role != "" %}
-      <p>{{ site.data.t.member-roles[page.lang][member.role] }}</p>
+      <p>{{ member.role[page.lang] }}</p>
       {% endif %}
 
       <div class="it-socials">
@@ -64,7 +64,7 @@ order: 3
       {% endif %}
 
       {% if member.role != nil and member.role != "" %}
-      <p>{{ site.data.t.member-roles[page.lang][member.role] }}</p>
+      <p>{{ member.role[page.lang] }}</p>
       {% endif %}
 
       <div class="it-socials">
