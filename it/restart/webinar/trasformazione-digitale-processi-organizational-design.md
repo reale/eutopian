@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Il mondo del lavoro che verrà"
+title: "Trasformazione digitale, processi, organizational design"
 lang: it
 ref: trasformazione-digitale-processi-organizational-design
 permalink: /it/restart/webinar/trasformazione-digitale-processi-organizational-design
