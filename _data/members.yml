@@ -135,8 +135,8 @@ ordinary:
     - name: "Massimo Canducci"
       priority: 0
       role:
-      bio: false
-      headshot:
+      bio: true
+      headshot: jpg
       social-links:
           linkedin: https://www.linkedin.com/in/canducci/
           twitter: https://twitter.com/mcanducci
