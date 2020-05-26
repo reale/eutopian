@@ -28,15 +28,19 @@ order: 3
       <p>{{ site.data.t.member-roles[page.lang][member.role] }}</p>
       {% endif %}
 
+      <div class="it-socials">
+        <ul class="px-0">
         {% for social-link in member.social-links %}
-        <!--<li class="list-inline-item">
-          <a href="{{ social-link[1] }}" title="{{ social-link[0] }}" target="_blank">
-            <svg class="icon"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-{{ social-link[0] }}"></use></svg>
-            <span class="sr-only">{{ social-link[0] }}</span>
+        <li class="list-inline-item">
+          {% if social-link[0] == "mail" %}{% assign schema = "mailto:" %}{% else %}{% assign schema = "" %}{% endif %}
+          <a href="{{ schema }}{{ social-link[1] }}" title="{{ social-link[0] }}" target="_blank">
+            <svg class="icon icon-primary"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-{{ social-link[0] }}"></use></svg>
+            <!--<span class="sr-only">{{ social-link[0] }}</span>-->
           </a>
-        </li>-->
-        <a href="{{ social-link[1] }}" title="{{ social-link[0] }}" target="_blank">{{ social-link[0] }} </a>
+        </li>
         {% endfor %}
+        </ul>
+      </div>
 
     </div>
   </div>
