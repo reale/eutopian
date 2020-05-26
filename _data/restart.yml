@@ -71,6 +71,18 @@ webinars:
       permalink:
       image:
 
+    - title: "Trasformazione digitale, processi, organizational design"
+      ref: trasformazione-digitale-processi-organizational-design
+      lang: it
+      date: 22 Giugno 2020 19:00-20:00
+      coordinator: Roberto Reale
+      speaker: Nazzareno Prinzivalli
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      permalink:
+      image:
+
     - title: "Post Pandemic Design"
       ref:
       lang: it
