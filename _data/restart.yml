@@ -59,6 +59,18 @@ webinars:
       youtube:
       image: png
 
+    - title: "Il giornalismo e la comunicazione ai tempi del Covid-19"
+      ref: giornalismo-comunicazione-covid19
+      lang: it
+      date: 9 Giugno 2020 19:00-20:00
+      coordinator: Roberto Reale
+      speaker: Mila Fiordalisi
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      permalink:
+      image:
+
     - title: "La città di domani: prospettive, opportunità e idee"
       ref: citta-di-domani
       lang: it
