@@ -60,9 +60,9 @@ member-roles:
 ## Social
 social-links:
   en:
-#    twitter:
-#      name: "twitter"
-#      url: "https://twitter.com/EutopianEU"
+    twitter:
+      name: "twitter"
+      url: "https://twitter.com/EutopianEU"
     facebook:
       name: "facebook"
       url: "https://fb.me/eutopian.eu"
@@ -79,9 +79,9 @@ social-links:
       name: "youtube"
       url: "https://www.youtube.com/channel/UC3Or5xUopeeJSofALn-NuZg"
   it:
-#    twitter:
-#      name: "twitter"
-#      url: "https://twitter.com/EutopianEU"
+    twitter:
+      name: "twitter"
+      url: "https://twitter.com/EutopianEU"
     facebook:
       name: "facebook"
       url: "https://fb.me/eutopian.eu"
