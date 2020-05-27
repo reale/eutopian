@@ -8,6 +8,4 @@ child_of_ref: press
 order: 2
 ---
 
-<main class="container my-5" markdown="1">
-    {% include news.html %}
-</main>
+Feel free to download the [press kit](/assets/Eutopian_Press_Kit_20200528.zip) (170 Kb).
