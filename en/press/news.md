@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: News
-lang: it
+lang: en
 ref: news
-permalink: /it/libreria/news
-child_of_ref: library
+permalink: /en/press/news
+child_of_ref: press
 order: 1
 ---
 
