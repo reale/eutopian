@@ -62,7 +62,7 @@ webinars:
     - title: "La città di domani: prospettive, opportunità e idee"
       ref: citta-di-domani
       lang: it
-      date: 15 Giugno 2020
+      date: 15 Giugno 2020 19:00-20:00
       coordinator: Federica Meta
       speaker: Flavia Marzano
       coordinator-bio: true
@@ -74,7 +74,7 @@ webinars:
     - title: "Post Pandemic Design"
       ref:
       lang: it
-      date: 29 Giugno 2020
+      date: 29 Giugno 2020 19:00-20:00
       coordinator: Roberto Reale
       speaker: Simone Stricelli
       description:
@@ -88,7 +88,7 @@ webinars:
     - title: Sharing Docs
       ref:
       lang: it
-      date: 24 Luglio 2020
+      date: 24 Luglio 2020 19:00-20:00
       coordinator: Gaetano Bruno
       permalink:
       image:
