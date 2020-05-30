@@ -198,6 +198,14 @@ ordinary:
       social-links:
           linkedin: https://www.linkedin.com/in/federicofratta/
 
+    - name: "Michele Leone"
+      priority: 0
+      role:
+      bio: false
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/leonemichele/
+
     - name: "Antonio Occhipinti"
       priority: 0
       role:
