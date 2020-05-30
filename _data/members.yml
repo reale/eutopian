@@ -201,6 +201,8 @@ ordinary:
     - name: "Antonio Occhipinti"
       priority: 0
       role:
+          en: Project management
+          it: Project management
       bio: true
       headshot: png
       social-links:
