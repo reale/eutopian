@@ -83,7 +83,7 @@ founders:
       priority: 0
       role:
       bio: true
-      headshot:
+      headshot: jpg
       social-links:
 
     - name: "Federica Meta"
