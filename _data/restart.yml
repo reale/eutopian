@@ -59,7 +59,7 @@ webinars:
       youtube:
       image: png
 
-    - title: "Il giornalismo e la comunicazione ai tempi del Covid-19"
+    - title: "Il giornaliso e la comunicazione ai tempi del Covid-19"
       ref: giornalismo-comunicazione-covid19
       lang: it
       date: 9 Giugno 2020 19:00-20:00
@@ -69,7 +69,7 @@ webinars:
       speaker-bio: true
       eventbrite:
       permalink:
-      image:
+      image: png
 
     - title: "La città di domani: prospettive, opportunità e idee"
       ref: citta-di-domani
@@ -81,7 +81,7 @@ webinars:
       speaker-bio: true
       eventbrite:
       permalink:
-      image:
+      image: png
 
     - title: "Trasformazione digitale, processi, organizational design"
       ref: trasformazione-digitale-processi-organizational-design

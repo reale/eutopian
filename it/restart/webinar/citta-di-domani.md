@@ -4,7 +4,7 @@ title: "La città di domani: prospettive, opportunità e idee"
 lang: it
 ref: citta-di-domani
 permalink: /it/restart/webinar/citta-di-domani
-image:
+image: /assets/images/restart/citta-di-domani.png
 child_of_ref: restart-webinar
 ---
 
