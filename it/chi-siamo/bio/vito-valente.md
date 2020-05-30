@@ -4,7 +4,7 @@ title: Vito Valente
 lang: it
 ref: vito-valente
 permalink: /it/chi-siamo/bio/vito-valente
-image:
+image: /assets/images/headshots/vito-valente.jpg
 child_of_ref: team
 ---
 
