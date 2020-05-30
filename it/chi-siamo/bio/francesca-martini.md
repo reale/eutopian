@@ -4,7 +4,7 @@ title: Francesca Martini
 lang: it
 ref: francesca-martini
 permalink: /it/chi-siamo/bio/francesca-martini
-image:
+image: /assets/images/headshots/francesca-martini.jpg
 child_of_ref: team
 ---
 
