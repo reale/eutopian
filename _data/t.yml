@@ -110,9 +110,11 @@ footer-links:
     theme-by:
       name: "Jekyll theme by Developers Italia"
       url: "https://github.com/italia"
+      external: true
     project-by:
       name: "Project and operations by Tanglegence"
       url: "https://tanglegence.com"
+      external: true
   it:
     privacy-policy:
       name: "Privacy policy"
@@ -123,9 +125,11 @@ footer-links:
     theme-by:
       name: "Jekyll theme by Developers Italia"
       url: "https://github.com/italia"
+      external: true
     project-by:
       name: "Project and operations by Tanglegence"
       url: "https://tanglegence.com"
+      external: true
 follow-us:
   en: "Follow us"
   it: "Seguici su"
