@@ -107,6 +107,9 @@ footer-links:
 #    cookie-policy:
 #      name: "Cookie Policy"
 #      url: "/en/cookie-policy"
+    theme-by:
+      name: "Jekyll theme by Developers Italia"
+      url: "https://github.com/italia"
   it:
     privacy-policy:
       name: "Privacy policy"
@@ -114,6 +117,9 @@ footer-links:
 #    cookie-policy:
 #      name: "Cookie Policy"
 #      url: "/it/cookie-policy"
+    theme-by:
+      name: "Jekyll theme by Developers Italia"
+      url: "https://github.com/italia"
 follow-us:
   en: "Follow us"
   it: "Seguici su"
