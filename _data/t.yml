@@ -28,9 +28,6 @@ header-links:
     eu-parliament:
       name: "European Parliament"
       url: "https://www.europarl.europa.eu/portal/en"
-    respublica:
-      name: "Res Publica"
-      url: "http://respublica.eutopian.eu"
   it:
     digitally-sustainable:
       name: "Digitally Sustainable 2020"
@@ -41,9 +38,6 @@ header-links:
     eu-parliament:
       name: "Parlamento europeo"
       url: "https://www.europarl.europa.eu/portal/it"
-    respublica:
-      name: "Res Publica"
-      url: "http://respublica.eutopian.eu"
 
 member-roles:
   en:
