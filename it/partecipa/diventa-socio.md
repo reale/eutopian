@@ -71,6 +71,6 @@ In alternativa, puoi scaricare e compilare il [Modulo di adesione per persone fi
 
     <p class="text-justify">La/Il Sottoscritta/o autorizza al trattamento di tutti i dati riportati nel presente modulo di adesione, compresi i futuri eventuali aggiornamenti e/o modifiche dallo/a stesso/a comunicate, per tutte le finalità statutarie dell’Associazione “EUTOPIAN – OSSERVATORIO EUROPEO SULL’INNOVAZIONE DEMOCRATICA” e nelle modalità descritte dalla <a href="/it/privacy-policy">Privacy Policy</a>.</p>
 
-    <input type="submit" value="Invia" class="btn btn-primary">
+    <input type="submit" value="Invia" class="btn btn-primary btn-lg btn-block">
   </fieldset>
 </form>
