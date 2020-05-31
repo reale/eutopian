@@ -39,18 +39,6 @@ header-links:
       name: "Parlamento europeo"
       url: "https://www.europarl.europa.eu/portal/it"
 
-member-roles:
-  en:
-    president: "President"
-    vicepresident: "Vicepresident"
-    secretary: "Secretary"
-    treasurer: "Treasurer"
-  it:
-    president: "Presidente"
-    vicepresident: "Vicepresidente"
-    secretary: "Segretario"
-    treasurer: "Tesoriere"
-
 ## Social
 social-links:
   en:
