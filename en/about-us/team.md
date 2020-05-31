@@ -5,7 +5,7 @@ lang: en
 ref: team
 permalink: /en/about-us/team
 child_of_ref: about-us
-order: 3
+order: 2
 ---
 
 ## Founders

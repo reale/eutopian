@@ -5,7 +5,7 @@ lang: it
 ref: statute
 permalink: /it/chi-siamo/statuto
 child_of_ref: about-us
-order: 2
+order: 3
 ---
 
 ### Art. 1 – Costituzione e denominazione
