@@ -4,7 +4,7 @@ title: This website
 lang: en
 ref: website
 permalink: /en/website
-order: 8
+order: 7
 ---
 
 We think highly of the open-source values and models, and this website is no exception: it is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/) and the whole source code is available through its [GitHub repository](https://github.com/eutopian-eu/eutopian.eu), so as to allow everybody to collaborate.

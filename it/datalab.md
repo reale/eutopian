@@ -4,5 +4,5 @@ title: Data Lab
 lang: it
 ref: datalab
 permalink: /it/datalab
-order: 6
+order: 5
 ---
