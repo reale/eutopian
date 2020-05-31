@@ -2,7 +2,7 @@
 
 
 <div class="container my-4">
-    <div class="card-columns">
+    {% if page.single-column %}<div class="card-columns">{% endif %}
         {% for post in posts %}
                 <div class="card">
                     <div class="card-body">
@@ -26,5 +26,5 @@
                     </div>
         </div>
         {% endfor %}
-    </div>
+    {% if page.single-column %}</div>{% endif %}
 </div>
