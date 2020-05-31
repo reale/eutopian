@@ -3,10 +3,10 @@ layout: page-featured-cover
 title: HTTPS per la PA
 lang: it
 ref: https
-permalink: /it/strumenti/https
+permalink: /it/datalab/https
 image: /assets/images/https.jpg
-child_of_ref: tools
-order: 1
+child_of_ref: datalab
+order: 2
 ---
 
 L'uso del protocollo [HTTPS](https://it.wikipedia.org/wiki/HTTPS) da parte dei siti della Pubblica Amministrazione è un elemento fondamentale per garantire riservatezza e tutela dei dati personali dell'utente, nonché per tutelare l'immagine stessa degli enti pubblici. In altri termini, è una questione di fiducia reciproca. Ma non tutte le pubbliche amministrazioni sono virtuose, da questo punto di vista.

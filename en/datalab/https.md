@@ -3,9 +3,9 @@ layout: page
 title: HTTPS for Public Administrations
 lang: en
 ref: https
-permalink: /en/tools/https
-child_of_ref: tools
-order: 6
+permalink: /en/datalab/https
+child_of_ref: datalab
+order: 2
 ---
 
 Adopting the [HTTPS protocol](https://en.wikipedia.org/wiki/HTTPS) by the Public Administration websites is pivotal in guaranteeing confidentiality and protection of the user's personal data, as well as in protecting the very reputation of public bodies. In other words, it is a matter of mutual trust. But not all Italian public administrations are compliant.
