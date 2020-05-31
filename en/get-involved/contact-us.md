@@ -23,6 +23,10 @@ Contact us by filling the following form:
     <label for="message">Message</label>
     <textarea name="message" id="message" rows="4" required=""></textarea>
   </div>
-  <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  <input type="submit" value="Invia" class="btn btn-primary"/>
+  <div class="form-group">
+    <input type="hidden" name="_language" value="{{ page.lang }}" />
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </div>
+
+  <input type="submit" value="Submit" class="btn btn-primary btn-lg btn-block"/>
 </form>
