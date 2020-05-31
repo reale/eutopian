@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Homepage
-description: Homepage
+title: Home
 lang: en
 ref: homepage
 permalink: /en/
