@@ -35,7 +35,7 @@
     <div class="container">
       <ul class="it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row">
         {% for footer-link in site.data.t.footer-links[page.lang] %}
-	<li class="list-inline-item"><a href="{% if footer-link[1].external %}{{ site.url }}{{ site.baseurl }}{% endif %}{{ footer-link[1].url }}" title="{{ footer-link[1].name }}">{{ footer-link[1].name }}</a></li>
+	<li class="list-inline-item"><a href="{% unless footer-link[1].external %}{{ site.url }}{{ site.baseurl }}{% endunless %}{{ footer-link[1].url }}" title="{{ footer-link[1].name }}">{{ footer-link[1].name }}</a></li>
         {% endfor %}
       </ul>
     </div>
