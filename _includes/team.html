@@ -9,7 +9,7 @@
     {% endif %}
     <div class="card-body">
       {% if member.bio %}
-        <a href="/it/{{ site.data.t.about-us-url[page.lang] }}/bio/{{ slug }}" class="card-link"><h5 class="card-title">{{ member.name }}</h5></a>
+        <a href="/{{ page.lang }}/{{ site.data.t.about-us-url[page.lang] }}/bio/{{ slug }}" class="card-link"><h5 class="card-title">{{ member.name }}</h5></a>
       {% else %}
         <h5 class="card-title">{{ member.name }}</h5>
       {% endif %}
@@ -48,7 +48,7 @@
     {% endif %}
     <div class="card-body">
       {% if member.bio %}
-        <a href="/it/{{ site.data.t.about-us-url[page.lang] }}/bio/{{ slug }}" class="card-link"><h5 class="card-title">{{ member.name }}</h5></a>
+        <a href="/{{ page.lang }}/{{ site.data.t.about-us-url[page.lang] }}/bio/{{ slug }}" class="card-link"><h5 class="card-title">{{ member.name }}</h5></a>
       {% else %}
         <h5 class="card-title">{{ member.name }}</h5>
       {% endif %}
