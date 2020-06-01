@@ -14,4 +14,4 @@ Eraclito sosteneva che il *divenire* sia la sostanza dell’essere, in quanto og
 
 Ecco perché, se si vuole cavalcare il cambiamento con profitto, è fondamentale far proprio un approccio olistico: analizzare e migliorare i processi, con e attraverso i “nuovi strumenti”, per sempre più efficienti modelli organizzativi.
 
-Una *forma mentis* per la valorizzazione continua delle proprie risorse: tecnologiche e, sopratutto, umane.
+Una *forma mentis* per la valorizzazione continua delle proprie risorse: tecnologiche e, soprattutto, umane.
