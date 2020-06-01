@@ -68,7 +68,6 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-il-giornalismo-e-la-comunicazione-ai-tempi-del-covid-19-107337962736
-      permalink:
       image: png
 
     - title: "La città di domani: prospettive, opportunità e idee"
@@ -80,7 +79,6 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-la-citta-di-domani-prospettive-opportunita-e-idee-107245883324
-      permalink:
       image: png
 
     - title: "Trasformazione digitale, processi, organizational design"
@@ -91,9 +89,8 @@ webinars:
       speaker: Nazzareno Prinzivalli
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
-      permalink:
-      image:
+      eventbrite: https://www.eventbrite.it/e/biglietti-trasformazione-digitale-processi-organizational-design-108528094452
+      image: png
 
     - title: "Post Pandemic Design"
       ref:
