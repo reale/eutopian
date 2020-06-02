@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Here is what Immuni will look like: interview for Open
+title: "Here is what Immuni will look like: interview for Open"
 lang: en
 ref: ecco-come-sara-immuni-intervista-open
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ecco come sarà Immuni: intervista per Open
+title: "Ecco come sarà Immuni: intervista per Open"
 lang: it
 ref: ecco-come-sara-immuni-intervista-open
 tags:
