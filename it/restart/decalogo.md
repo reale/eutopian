@@ -40,7 +40,7 @@ Dal canto nostro, noi ci impegniamo a raccogliere e discutere i vostri contribut
   <div class="card">
     <div class="card-header" id="StartupDecalogo02">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
           Globalizzazione
         </button>
       </h5>
