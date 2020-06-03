@@ -6,5 +6,5 @@ ref: app-immuni-sicura-paure-sulla-privacy-infondate-intervista-radio-cusano-cam
 tags:
 categories: news
 permalink: /en/news/app-immuni-sicura-paure-sulla-privacy-infondate-intervista-radio-cusano-campus
-image:
+image: /assets/images/immuni.jpg
 ---
