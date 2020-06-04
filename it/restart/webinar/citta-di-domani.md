@@ -8,4 +8,4 @@ image: /assets/images/restart/citta-di-domani.png
 child_of_ref: restart-webinar
 ---
 
-Come le città e la politica che le governa possono e devono cambiare dopo la tempesta CoronaVirus: dal Lavoro Agile alla Sostenibilità, dai servizi Online all’inclusione e con la semplificazione come filo conduttore.
+Come le città e la politica che le governa possono e devono cambiare dopo la tempesta Covid-19? Dal Lavoro Agile alla Sostenibilità, dai servizi Online all’inclusione e con la semplificazione come filo conduttore.
