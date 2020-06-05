@@ -56,7 +56,7 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-using-technology-for-social-good-106775167400
-      youtube:
+      youtube: https://youtu.be/N7MGb5rydrA
       image: png
 
     - title: "Il giornalismo e la comunicazione ai tempi del Covid-19"
