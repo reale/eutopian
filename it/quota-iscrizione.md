@@ -3,7 +3,7 @@ layout: page
 title: Quota di iscrizione
 description:
 lang: it
-ref: quota-iscrizione
+ref: annual-fee
 permalink: /it/quota-iscrizione
 ---
 
