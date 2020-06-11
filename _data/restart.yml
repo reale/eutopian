@@ -81,6 +81,17 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-la-citta-di-domani-prospettive-opportunita-e-idee-107245883324
       image: png
 
+    - title: "Agenda digitale regionale tra autonomia e integrazione europea"
+      ref: agenda-digitale-regionale
+      lang: it
+      date: 22 Giugno 2020 18:00-19:00
+      coordinator: Roberto Reale
+      speaker: Gaetano Armao
+      coordinator-bio: true
+      speaker-bio: false
+      eventbrite:
+      image:
+
     - title: "Trasformazione digitale, processi, organizational design"
       ref: trasformazione-digitale-processi-organizational-design
       lang: it
