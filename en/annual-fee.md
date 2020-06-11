@@ -9,7 +9,7 @@ permalink: /en/annual-fee
 
 The registration fee is set at 20 euros for 2020. It can be paid in one of the following two ways:
 
-## Wire transfer
+<h2 id="wire-transfer">Wire transfer</h2>
 
 ```
 ACCOUNT HOLDER
@@ -29,7 +29,7 @@ Brussels
 Belgium
 ```
 
-## PayPal
+<h2 id="paypal-payment">PayPal</h2>
 
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=EUR" data-sdk-integration-source="button-factory"></script>
