@@ -88,9 +88,9 @@ webinars:
       coordinator: Roberto Reale
       speaker: Gaetano Armao
       coordinator-bio: true
-      speaker-bio: false
-      eventbrite:
-      image:
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-agenda-digitale-regionale-tra-autonomia-e-integrazione-europea-109608682520
+      image: png
 
     - title: "Trasformazione digitale, processi, organizational design"
       ref: trasformazione-digitale-processi-organizational-design
