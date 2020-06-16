@@ -103,19 +103,16 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-trasformazione-digitale-processi-organizational-design-108528094452
       image: png
 
-    - title: "Post Pandemic Design"
-      ref:
+    - title: "Future. Humans. Innovation."
+      ref: future-humans-innovation
       lang: it
       date: 29 Giugno 2020 19:00-20:00
       coordinator: Roberto Reale
       speaker: Simone Stricelli
-      description:
-          it: "Future. Humans. Innovation. Cosa succederà dopo e quanto una pandemia può incidere sulle nostre abitudini e su come il digital ci potrà aiutare"
       coordinator-bio: true
       speaker-bio: true
       eventbrite:
-      permalink:
-      image:
+      image: png
 
     - title: Sharing Docs
       ref:
