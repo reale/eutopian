@@ -114,6 +114,18 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-future-humans-innovation-109828273322
       image: png
 
+    - title: "Il Lobbying diventa Digital: come gestire le attività di Public Affairs in tempi di Crisis Management"
+      ref:
+      lang: it
+      date: 6 Luglio 2020 19:00-20:00
+      coordinator:
+      speaker: Claudio Di mario
+      coordinator-bio:
+      speaker-bio:
+      eventbrite:
+      image:
+
+
     - title: Sharing Docs
       ref:
       lang: it
