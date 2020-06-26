@@ -115,16 +115,15 @@ webinars:
       image: png
 
     - title: "Il Lobbying diventa Digital: come gestire le attività di Public Affairs in tempi di Crisis Management"
-      ref:
+      ref: digital-lobbying
       lang: it
       date: 6 Luglio 2020 19:00-20:00
       coordinator: Flavia Marzano
       speaker: Claudio Di mario
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
-      image:
-
+      eventbrite: https://www.eventbrite.it/e/biglietti-il-lobbying-diventa-digital-111465967710
+      image: png
 
     - title: Sharing Docs
       ref:
