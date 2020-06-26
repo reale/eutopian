@@ -118,10 +118,10 @@ webinars:
       ref:
       lang: it
       date: 6 Luglio 2020 19:00-20:00
-      coordinator:
+      coordinator: Flavia Marzano
       speaker: Claudio Di mario
-      coordinator-bio:
-      speaker-bio:
+      coordinator-bio: true
+      speaker-bio: true
       eventbrite:
       image:
 
