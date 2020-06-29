@@ -123,7 +123,7 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-il-lobbying-diventa-digital-111465967710
-      image: png
+      image: jpg
 
     - title: Sharing Docs
       ref:

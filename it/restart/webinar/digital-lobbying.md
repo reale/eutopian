@@ -4,7 +4,7 @@ title: "Il Lobbying diventa Digital: come gestire le attività di Public Affairs
 lang: it
 ref: digital-lobbying
 permalink: /it/restart/webinar/digital-lobbying
-image: /assets/images/restart/digital-lobbying.png
+image: /assets/images/restart/digital-lobbying.jpg
 child_of_ref: restart-webinar
 ---
 
