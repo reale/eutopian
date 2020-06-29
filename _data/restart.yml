@@ -125,6 +125,17 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-il-lobbying-diventa-digital-111465967710
       image: jpg
 
+    - title: "Webinar con Valerio Gallitto"
+      ref:
+      lang: it
+      date: 13 Luglio 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Valerio Gallitto
+      coordinator-bio:
+      speaker-bio:
+      eventbrite:
+      image:
+
     - title: Sharing Docs
       ref:
       lang: it
