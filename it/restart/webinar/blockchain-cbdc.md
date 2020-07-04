@@ -4,7 +4,7 @@ title: "Blockchain e Valute digitali delle Banche centrali"
 lang: it
 ref: blockchain-cbdc
 permalink: /it/restart/webinar/blockchain-cbdc
-image:
+image: /assets/images/restart/blockchain-cbdc.jpg
 child_of_ref: restart-webinar
 ---
 

@@ -134,7 +134,7 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite:
-      image:
+      image: jpg
 
     - title: Sharing Docs
       ref:
