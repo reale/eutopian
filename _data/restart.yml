@@ -125,14 +125,14 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-il-lobbying-diventa-digital-111465967710
       image: jpg
 
-    - title: "Webinar con Valerio Gallitto"
-      ref:
+    - title: "Blockchain e Valute digitali delle Banche centrali"
+      ref: blockchain-cbdc
       lang: it
       date: 13 Luglio 2020 21:00-22:00
       coordinator: Roberto Reale
       speaker: Valerio Gallitto
-      coordinator-bio:
-      speaker-bio:
+      coordinator-bio: true
+      speaker-bio: true
       eventbrite:
       image:
 
@@ -140,6 +140,14 @@ webinars:
       ref:
       lang: it
       date: 20 Luglio 2020 19:00-20:00
+      coordinator: Gaetano Bruno
+      permalink:
+      image:
+
+    - title: "Webinar con Brando Benifei"
+      ref:
+      lang: it
+      date: 27 Luglio 2020 19:00-20:00
       coordinator: Gaetano Bruno
       permalink:
       image:
