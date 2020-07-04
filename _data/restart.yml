@@ -133,7 +133,7 @@ webinars:
       speaker: Valerio Gallitto
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      eventbrite: https://www.eventbrite.it/e/biglietti-blockchain-e-valute-digitali-delle-banche-centrali-112575624724
       image: jpg
 
     - title: Sharing Docs
