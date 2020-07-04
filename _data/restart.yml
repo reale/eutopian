@@ -154,7 +154,7 @@ webinars:
       coordinator: Luisa Scarcella
       speaker: Brando Benifei
       coordinator-bio: true
-      speaker-bio: true
+      speaker-bio:
       eventbrite:
       image:
 
