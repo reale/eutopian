@@ -8,10 +8,10 @@ image: /assets/images/restart/blockchain-cbdc.jpg
 child_of_ref: restart-webinar
 ---
 
-Un discussione sul senso delle valute digitali delle banche centrali
+Una discussione sul ruolo delle valute digitali delle banche centrali
 specialmente in relazione agli interessi delle banche commerciali.
 
-Inoltre parleremo del fatto se abbia senso o meno utilizzare la blockchain
+Inoltre chi chiederemo se abbia senso o meno utilizzare la blockchain
 technology per questo tipo di currency e se di fatto ci sia una almeno
 un’apparente contraddizione tra l’accentramento del ruolo delle banche centrali
 rispetto alla decentralizzazione che dovrebbe e potrebbe portare la blockchain
