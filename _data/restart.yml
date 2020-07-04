@@ -136,30 +136,34 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-blockchain-e-valute-digitali-delle-banche-centrali-112575624724
       image: jpg
 
-    - title: Sharing Docs
+    - title: "Lo spazio di condivisione sui servizi pubblici digitali: strumenti e modalità operative"
       ref:
       lang: it
-      date: 20 Luglio 2020 19:00-20:00
-      coordinator: Gaetano Bruno
-      permalink:
+      date: 20 Luglio 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Gaetano Bruno
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
       image:
 
-    - title: "Webinar con Brando Benifei"
+    - title: "Webinar with Brando Benifei"
       ref:
-      lang: it
-      date: 27 Luglio 2020 19:00-20:00
-      coordinator: Gaetano Bruno
-      permalink:
+      lang: en
+      date: 27 July 2020 19:00-20:00
+      coordinator: Luisa Scarcella
+      speaker: Brando Benifei
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
       image:
 
-    - title: Networking
+    - title: "Collaborazione inter-imprenditoriale e ruolo della digitalizzazione"
       ref:
       lang: it
       date: Settembre 2020
       coordinator: Eva Bredariol
       description:
-          en: "Inter-entrepreneurial collaboration and the role of digital transformation"
-          it: "Collaborazione inter-imprenditoriale e ruolo della digitalizzazione"
       permalink:
       image:
 
