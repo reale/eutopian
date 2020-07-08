@@ -145,7 +145,7 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite:
-      image:
+      image: jpg
 
     - title: "Webinar with Brando Benifei"
       ref:
