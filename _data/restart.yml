@@ -144,7 +144,7 @@ webinars:
       speaker: Gaetano Bruno
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      eventbrite: https://www.eventbrite.it/e/biglietti-lo-spazio-di-condivisione-sui-servizi-pubblici-digitali-112835441844
       image: jpg
 
     - title: "Webinar with Brando Benifei"
