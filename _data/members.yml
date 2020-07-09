@@ -104,15 +104,6 @@ founders:
           linkedin: https://www.linkedin.com/in/claudia-morelli-clamor
           twitter: https://twitter.com/clamorelli
         
-    - name: "Massimiliano Nicotra"
-      priority: 0
-      role:
-      bio: false
-      headshot:
-      social-links:
-          linkedin: https://www.linkedin.com/in/massimiliano-nicotra-38757328
-          twitter: https://twitter.com/avvmax70
-
     - name: "Agata Quattrone"
       priority: 0
       role:
