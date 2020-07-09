@@ -21,8 +21,8 @@ organisation active in the promotion of digital culture and innovation through
 territorial projects involving the Public Administration, schools, and
 businesses.
 
-Creator and promoter of the [Casa Digitale] initiative as an innovative
-response to the problem of the scarce diffusion of basic digital skills in the
+Creator and promoter of the Casa Digitale initiative as an innovative response
+to the problem of the scarce diffusion of basic digital skills in the
 population, Federico promotes digital literacy activities aimed at people
 resistant to technology and affected by frailty; he also coordinated various
 initiatives for the dissemination of electronic invoicing within the joint
