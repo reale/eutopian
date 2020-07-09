@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vito Valente
+title: Federico Fratta
 lang: en
 ref: federico-fratta
 permalink: /en/about-us/bio/federico-fratta
