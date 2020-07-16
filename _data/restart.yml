@@ -147,14 +147,14 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-lo-spazio-di-condivisione-sui-servizi-pubblici-digitali-112835441844
       image: jpg
 
-    - title: "Webinar with Brando Benifei"
+    - title: "The EU economic response to the Covid-19 pandemics"
       ref:
       lang: en
       date: 27 July 2020 19:00-20:00
       coordinator: Luisa Scarcella
       speaker: Brando Benifei
       coordinator-bio: true
-      speaker-bio:
+      speaker-bio: true
       eventbrite:
       image:
 
