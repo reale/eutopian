@@ -158,42 +158,44 @@ webinars:
       eventbrite:
       image:
 
-    - title: "Collaborazione inter-imprenditoriale e ruolo della digitalizzazione"
+    - title: "Reti d'impresa e digitalizzazione"
       ref:
       lang: it
-      date: Settembre 2020
-      coordinator: Eva Bredariol
-      description:
-      permalink:
+      date: 21 Settembre 2020 21:00-22:00
+      coordinator: Fabio Francesco Franco
+      speaker: Eva Bredariol
+      coordinator-bio: false
+      speaker-bio: true
+      eventbrite:
       image:
 
-    - title: Openness nella PA
-      ref:
-      lang: it
-      date: Ottobre 2020
-      coordinator: Flavia Marzano
-      description:
-          en: "Open data, Open Source, Open Access, Open Agenda... Open Mind in the public sector"
-          it: "Open data, Open Source, Open Access, Open Agenda... Open Mind nella PA"
-      permalink:
-      image:
-
-    - title: Smart & Sustainable Mobility 
-      ref:
-      lang: it
-      date: Novembre 2020
-      coordinator: Agata Quattrone
-      description:
-          en: "COVID-19: implications and new opportunities for sustainable and digital urban mobility"
-          it: "COVID-19 le implicazioni e le nuove opportunità per la mobilità urbana sostenibile e digitale"
-      permalink:
-      image:
-
-    - title: L'intelligenza artificiale nella lotta contro il coronavirus
-      ref:
-      lang: it
-      date: Dicembre 2020
-      coordinator: Clara Silvano
-      description:
-      permalink:
-      image:
+#    - title: Openness nella PA
+#      ref:
+#      lang: it
+#      date: Ottobre 2020
+#      coordinator: Flavia Marzano
+#      description:
+#          en: "Open data, Open Source, Open Access, Open Agenda... Open Mind in the public sector"
+#          it: "Open data, Open Source, Open Access, Open Agenda... Open Mind nella PA"
+#      permalink:
+#      image:
+#
+#    - title: Smart & Sustainable Mobility 
+#      ref:
+#      lang: it
+#      date: Novembre 2020
+#      coordinator: Agata Quattrone
+#      description:
+#          en: "COVID-19: implications and new opportunities for sustainable and digital urban mobility"
+#          it: "COVID-19 le implicazioni e le nuove opportunità per la mobilità urbana sostenibile e digitale"
+#      permalink:
+#      image:
+#
+#    - title: L'intelligenza artificiale nella lotta contro il coronavirus
+#      ref:
+#      lang: it
+#      date: Dicembre 2020
+#      coordinator: Clara Silvano
+#      description:
+#      permalink:
+#      image:
