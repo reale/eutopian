@@ -148,15 +148,15 @@ webinars:
       image: jpg
 
     - title: "The EU economic response to the Covid-19 pandemics"
-      ref:
+      ref: eu-economic-response-covid19
       lang: en
       date: 27 July 2020 19:00-20:00
       coordinator: Luisa Scarcella
       speaker: Brando Benifei
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
-      image:
+      eventbrite: https://www.eventbrite.it/e/biglietti-the-eu-economic-response-to-the-covid-19-pandemics-113961351470
+      image: jpg
 
     - title: "Reti d'impresa e digitalizzazione"
       ref:
