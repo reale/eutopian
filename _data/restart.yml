@@ -158,6 +158,17 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-the-eu-economic-response-to-the-covid-19-pandemics-113961351470
       image: jpg
 
+    - title: "Dalle fake news alla fake relevance: il problema di chi decide di cosa dobbiamo parlare"
+      ref: fake-news-fake-relevance
+      lang: it
+      date: 7 Settembre 2020 21:00-22:00
+      coordinator: Federica Meta
+      speaker: Antonio Pavolini
+      coordinator-bio: false
+      speaker-bio: true
+      eventbrite:
+      image:
+
     - title: "Reti d'impresa e digitalizzazione"
       ref:
       lang: it
