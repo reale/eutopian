@@ -1,10 +1,11 @@
 ---
 layout: page
-title: This website
+title: Website
 lang: en
 ref: website
-permalink: /en/website
-order: 8
+permalink: /en/transparency/website
+child_of_ref: transparency
+order: 3
 ---
 
 We think highly of the open-source values and models, and this website is no exception: it is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/) and the whole source code is available through its [GitHub repository](https://github.com/eutopian-eu/eutopian.eu), so as to allow everybody to collaborate.

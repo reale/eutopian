@@ -3,8 +3,9 @@ layout: page
 title: Il sito
 lang: it
 ref: website
-permalink: /it/sito
-order: 8
+permalink: /it/trasparenza/sito
+child_of_ref: transparency
+order: 3
 ---
 
 Teniamo molto ai valori e ai modelli open source, e questo sito non fa eccezione: esso, infatti, è basato su [Jekyll](https://jekyllrb.com/) e [GitHub Pages](https://pages.github.com/) e l'intero codice sorgente è disponibile su [GitHub](https://github.com/eutopian-eu/eutopian.eu), in modo da parmettere a tutti di collaborare al suo sviluppo.
