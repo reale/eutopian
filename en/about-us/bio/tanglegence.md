@@ -4,7 +4,7 @@ title: Tanglegence
 lang: en
 ref: tanglegence
 permalink: /en/about-us/bio/tanglegence
-image: /assets/images/headshots/tanglegence.jpg
+image: /assets/images/headshots/tanglegence.png
 child_of_ref: team
 ---
 
