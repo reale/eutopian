@@ -3,7 +3,7 @@ layout: page
 title: Tanglegence
 lang: it
 ref: tanglegence
-permalink: /it/chi-siamo/bio/tanglegence.com
+permalink: /it/chi-siamo/bio/tanglegence
 image: /assets/images/headshots/tanglegence.jpg
 child_of_ref: team
 ---
