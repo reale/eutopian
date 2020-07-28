@@ -243,6 +243,15 @@ ordinary:
           linkedin: https://www.linkedin.com/in/simonestricelli
           twitter: https://twitter.com/MoStricelli
 
+    - name: "Tanglegence"
+      priority: 0
+      role:
+      bio: true
+      headshot: png
+      social-links:
+          linkedin: https://www.linkedin.com/company/tanglegence
+          twitter: https://twitter.com/tanglegence
+
 #    - name: "Vito Valente"
 #      priority: 0
 #      role:
