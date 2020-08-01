@@ -3,7 +3,7 @@ layout: page
 title: Financial statements
 lang: en
 ref: financial-statements
-permalink: /en/transparency/financial-statements
-child_of_ref: transparency
+permalink: /en/governance/financial-statements
+child_of_ref: governance
 order: 2
 ---

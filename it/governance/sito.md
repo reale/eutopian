@@ -3,8 +3,8 @@ layout: page
 title: Il sito
 lang: it
 ref: website
-permalink: /it/trasparenza/sito
-child_of_ref: transparency
+permalink: /it/governance/sito
+child_of_ref: governance
 order: 3
 ---
 

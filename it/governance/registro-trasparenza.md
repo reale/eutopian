@@ -3,9 +3,9 @@ layout: page
 title: Registro per la trasparenza
 lang: it
 ref: transparency-register
-permalink: /it/trasparenza/registro-trasparenza
+permalink: /it/governance/registro-trasparenza
 image: /assets/images/transparency-register.jpg
-child_of_ref: transparency
+child_of_ref: governance
 order: 1
 ---
 

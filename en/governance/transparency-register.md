@@ -3,9 +3,9 @@ layout: page
 title: Transparency Register
 lang: en
 ref: transparency-register
-permalink: /en/transparency/transparency-register
+permalink: /en/governance/transparency-register
 image: /assets/images/transparency-register.jpg
-child_of_ref: transparency
+child_of_ref: governance
 order: 1
 ---
 

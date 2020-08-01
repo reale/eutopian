@@ -3,8 +3,8 @@ layout: page
 title: This website
 lang: en
 ref: website
-permalink: /en/transparency/website
-child_of_ref: transparency
+permalink: /en/governance/website
+child_of_ref: governance
 order: 3
 ---
 
