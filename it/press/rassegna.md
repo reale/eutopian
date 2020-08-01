@@ -8,6 +8,7 @@ child_of_ref: press
 order: 3
 ---
 
+* 27 luglio 2020, *Radio Ros Brera*, [*L'innovazione possibile non solo a parole*](http://www.radiorosbrera.com/2020/07/27/roberto-reale-eutopian-e-il-tema-dellinnovazione-possibile-e-non-solo-a-parole/)
 * 17 luglio 2020, *Policy and Procurement in Healthcare*, [*Blockchain: il documento degli esperti del MISE non convince, soprattutto sul fronte sanitario*](https://web.archive.org/web/*/https://www.pphc.it/blockchain-il-documento-degli-esperti-del-mise-non-convince-soprattutto-sul-fronte-sanitario/) ([versione archiviata](http://web.archive.org/web/20200717175155/https://www.pphc.it/blockchain-il-documento-degli-esperti-del-mise-non-convince-soprattutto-sul-fronte-sanitario/))
 * 4 giugno 2020, *Radio Cusano Campus*, [*Reale (Eutopian): “App Immuni molto sicura, paure sulla privacy infondate”*](https://www.tag24.it/257090-reale-eutopian-app-immuni-sicura-paure-sulla-privacy-infondate/) ([versione archiviata](http://web.archive.org/web/*/https://www.tag24.it/257090-reale-eutopian-app-immuni-sicura-paure-sulla-privacy-infondate/))
 * 3 giugno 2020, *Class CNBC*, [*Via libera a Immuni fra le polemiche*](https://youtu.be/pPQURzro7uM)
