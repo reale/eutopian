@@ -11,7 +11,7 @@ stakeholders:
       ref: i4b
       logo: jpg
       links:
-          document: /assets/docs/Eutopian_I4C_Protocollo_Intesa.pdf
+          document: /assets/docs/Eutopian_I4B_Protocollo_Intesa.pdf
           website: https://www.italia4blockchain.it/
 #    - name: "Legal Hackers Roma"
 #      ref: lh-rome
