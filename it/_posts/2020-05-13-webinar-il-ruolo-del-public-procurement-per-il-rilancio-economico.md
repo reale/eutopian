@@ -4,8 +4,10 @@ title: "Webinar: Il ruolo del public procurement per il rilancio economico"
 lang: it
 ref: webinar-il-ruolo-del-public-procurement-per-il-rilancio-economico
 tags:
-categories: news
-permalink: /it/news/webinar-il-ruolo-del-public-procurement-per-il-rilancio-economico
+categories: blog
+permalink: /it/blog/webinar-il-ruolo-del-public-procurement-per-il-rilancio-economico
+redirect_from:
+ - /it/news/webinar-il-ruolo-del-public-procurement-per-il-rilancio-economico
 image: /assets/images/2020-05-13-webinar-il-ruolo-del-public-procurement-per-il-rilancio-economico.jpg
 ---
 

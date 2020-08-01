@@ -4,8 +4,10 @@ title: Protocollo d'intesa con P4C – Prepare for Change
 lang: en
 ref: protocollo-intesa-p4c
 tags:
-categories: news
-permalink: /en/news/protocollo-intesa-p4c
+categories: blog
+permalink: /en/blog/protocollo-intesa-p4c
+redirect_from:
+ - /en/news/protocollo-intesa-p4c
 image: /assets/images/2020-04-22-protocollo-intesa-p4c.jpg
 ---
 

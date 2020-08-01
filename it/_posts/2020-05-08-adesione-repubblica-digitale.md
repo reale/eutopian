@@ -4,8 +4,10 @@ title: Adesione a Repubblica Digitale
 lang: it
 ref: adesione-repubblica-digitale
 tags:
-categories: news
-permalink: /it/news/adesione-repubblica-digitale
+categories: blog
+permalink: /it/blog/adesione-repubblica-digitale
+redirect_from:
+  - /it/news/adesione-repubblica-digitale
 image: /assets/images/repubblica-digitale.png
 ---
 

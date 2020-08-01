@@ -4,8 +4,10 @@ title: Joining the Repubblica Digitale initiative
 lang: en
 ref: adesione-repubblica-digitale
 tags:
-categories: news
-permalink: /en/news/joining-repubblica-digitale
+categories: blog
+permalink: /en/blog/joining-repubblica-digitale
+redirect_from:
+  - /en/news/joining-repubblica-digitale
 image: /assets/images/repubblica-digitale.png
 ---
 

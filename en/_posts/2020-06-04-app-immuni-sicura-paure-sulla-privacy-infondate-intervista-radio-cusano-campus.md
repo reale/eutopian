@@ -4,7 +4,9 @@ title: "App Immuni molto sicura, paure sulla privacy infondate: intervista per R
 lang: en
 ref: app-immuni-sicura-paure-sulla-privacy-infondate-intervista-radio-cusano-campus
 tags:
-categories: news
-permalink: /en/news/app-immuni-sicura-paure-sulla-privacy-infondate-intervista-radio-cusano-campus
+categories: blog
+permalink: /en/blog/app-immuni-sicura-paure-sulla-privacy-infondate-intervista-radio-cusano-campus
+redirect_from:
+  - /en/news/app-immuni-sicura-paure-sulla-privacy-infondate-intervista-radio-cusano-campus
 image: /assets/images/immuni.jpg
 ---

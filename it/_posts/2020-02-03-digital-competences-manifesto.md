@@ -4,11 +4,12 @@ title: Digital Competences Manifesto
 lang: it
 ref: digital-competences-manifesto
 tags:
-categories: news
-permalink: /it/news/digital-competences-manifesto
+categories: blog
+permalink: /it/blog/digital-competences-manifesto
 redirect_from:
   - /it/digital-competences-manifesto
   - /it/iniziative/digital-competences-manifesto
+  - /it/news/digital-competences-manifesto
 image: /assets/images/digital-competences-manifesto.jpg
 ---
 

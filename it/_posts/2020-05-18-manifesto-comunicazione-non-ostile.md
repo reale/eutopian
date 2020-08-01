@@ -4,8 +4,10 @@ title: Eutopian aderisce al Manifesto della comunicazione non ostile
 lang: it
 ref: manifesto-comunicazione-non-ostile
 tags:
-categories: news
-permalink: /it/news/manifesto-comunicazione-non-ostile
+categories: blog
+permalink: /it/blog/manifesto-comunicazione-non-ostile
+redirect_from:
+  - /it/news/manifesto-comunicazione-non-ostile
 image: /assets/images/2020-05-18-manifesto-comunicazione-non-ostile.png
 ---
 

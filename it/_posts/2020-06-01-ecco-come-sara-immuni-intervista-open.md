@@ -4,8 +4,10 @@ title: "Ecco come sarà Immuni: intervista per Open"
 lang: it
 ref: ecco-come-sara-immuni-intervista-open
 tags:
-categories: news
-permalink: /it/news/ecco-come-sara-immuni-intervista-open
+categories: blog
+permalink: /it/blog/ecco-come-sara-immuni-intervista-open
+redirect_from:
+  - /it/news/ecco-come-sara-immuni-intervista-open
 image: /assets/images/2020-06-01-ecco-come-sara-immuni-intervista-open.png
 ---
 
