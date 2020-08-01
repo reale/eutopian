@@ -164,10 +164,10 @@ webinars:
       date: 7 Settembre 2020 21:00-22:00
       coordinator: Federica Meta
       speaker: Antonio Pavolini
-      coordinator-bio: false
+      coordinator-bio: true
       speaker-bio: true
-      eventbrite:
-      image:
+      eventbrite: https://www.eventbrite.it/e/biglietti-dalle-fake-news-alla-fake-relevance-115635885045
+      image: jpg
 
     - title: "Reti d'impresa e digitalizzazione"
       ref:
