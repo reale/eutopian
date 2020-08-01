@@ -5,22 +5,22 @@ stakeholders:
       ref: stampa-romana
       logo: jpg
       links:
-          document:
+          document: /assets/docs/Eutopian_ASR_Protocollo_Intesa.pdf
           website: https://stamparomana.it/
     - name: "Italia4Blockchain"
       ref: i4b
       logo: jpg
       links:
-          document:
+          document: /assets/docs/Eutopian_I4C_Protocollo_Intesa.pdf
           website: https://www.italia4blockchain.it/
-    - name: "Legal Hackers Roma"
-      ref: lh-rome
-      logo: jpg
-      links:
-          website: https://www.meetup.com/it-IT/Legal-Hackers-Roma/
+#    - name: "Legal Hackers Roma"
+#      ref: lh-rome
+#      logo: jpg
+#      links:
+#          website: https://www.meetup.com/it-IT/Legal-Hackers-Roma/
     - name: "Prepare for Change"
       ref: p4c
       logo: png
       links:
-          document:
+          document: /assets/docs/Eutopian_P4C_Protocollo_Intesa.pdf
           website: http://prepareforchange.it/
