@@ -5,7 +5,7 @@ lang: en
 ref: ecco-come-sara-immuni-intervista-open
 tags:
 categories: blog
-permalink: /en/blog/here-is-what-immuni-will-look-like-interview-open
+permalink: /en/blog/here-is-what-immuni-will-look-like-interview-open/
 redirect_from:
   - /en/news/here-is-what-immuni-will-look-like-interview-open
 image: /assets/images/2020-06-01-ecco-come-sara-immuni-intervista-open.png

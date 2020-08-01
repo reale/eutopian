@@ -5,7 +5,7 @@ lang: it
 ref: protocollo-intesa-p4c
 tags:
 categories: blog
-permalink: /it/blog/protocollo-intesa-p4c
+permalink: /it/blog/protocollo-intesa-p4c/
 redirect_from:
   - /it/news/protocollo-intesa-p4c
 image: /assets/images/2020-04-22-protocollo-intesa-p4c.jpg

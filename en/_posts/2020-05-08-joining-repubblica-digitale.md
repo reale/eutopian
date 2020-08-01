@@ -5,7 +5,7 @@ lang: en
 ref: adesione-repubblica-digitale
 tags:
 categories: blog
-permalink: /en/blog/joining-repubblica-digitale
+permalink: /en/blog/joining-repubblica-digitale/
 redirect_from:
   - /en/news/joining-repubblica-digitale
 image: /assets/images/repubblica-digitale.png

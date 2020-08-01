@@ -5,7 +5,7 @@ lang: en
 ref: 2si-per-regioni-e-comuni
 tags:
 categories: blog
-permalink: /en/blog/2si-per-regioni-e-comuni
+permalink: /en/blog/2si-per-regioni-e-comuni/
 redirect_from:
   - /en/actions/2si-per-regioni-e-comuni
   - /en/news/2si-per-regioni-e-comuni

@@ -5,7 +5,7 @@ lang: it
 ref: digital-competences-manifesto
 tags:
 categories: blog
-permalink: /it/blog/digital-competences-manifesto
+permalink: /it/blog/digital-competences-manifesto/
 redirect_from:
   - /it/digital-competences-manifesto
   - /it/iniziative/digital-competences-manifesto

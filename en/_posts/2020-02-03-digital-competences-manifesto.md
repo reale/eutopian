@@ -5,7 +5,7 @@ lang: en
 ref: digital-competences-manifesto
 tags:
 categories: blog
-permalink: /en/blog/digital-competences-manifesto
+permalink: /en/blog/digital-competences-manifesto/
 redirect_from:
   - /en/digital-competences-manifesto
   - /en/actions/digital-competences-manifesto
