@@ -10,8 +10,8 @@
             {% else %}
             <h5 class="card-title">{{ stakeholder.name }}</h5>
             {% endif %}
-            {% if stakeholder.links.document %}
-            <a href="{{ stakeholder.links.document }}" class="card-link"><h5 class="card-title">{{ site.data.t.agreement[page.lang] }}</h5></a>
+            {% if stakeholder.links.agreement %}
+            <a href="{{ stakeholder.links.agreement }}" class="card-link"><h5 class="card-title">{{ site.data.t.agreement[page.lang] }}</h5></a>
             {% endif %}
         </div>
     </div>

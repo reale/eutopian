@@ -84,6 +84,9 @@ social-links:
 about-us-url:
   en: "about-us"
   it: "chi-siamo"
+agreement:
+  en: "Agreement"
+  it: "Convenzione"
 close:
   en: "Close"
   it: "Chiudi"
