@@ -1,0 +1,30 @@
+{% assign posts = site.categories.blog | where: "lang", page.lang %}
+
+
+<div class="container my-4">
+    {% if page.single-column %}<div class="card-columns">{% endif %}
+        {% for post in posts %}
+        <div class="card">
+            <div class="card-body">
+                <img class="card-img-top" src="{{ post.image }}" alt="">
+                <div class="head-tags">
+                    <div class="d-flex justify-content-between w-100">
+                        <div>{% for tag in post.tags %}<a class="card-tag mr-2" href="#">{{ tag }}</a>{% endfor %}</div>
+                        <div><span class="data">{% include date.html date=post.date %}</span></div>
+                    </div>
+                </div>
+                <h5 class="card-title big-heading">{{ post.title }}</h5>
+                <!--<h6 class="card-subtitle">in {% for category in post.categories %}{{ category }} {% endfor %}</h6>-->
+                <div>{{ post.excerpt }}</div>
+                <span class="card-signature">{{ post.author }}</span>
+                <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">
+                    <span class="text">{{ site.data.t.read-more[page.lang] }}</span>
+                    <svg class="icon">
+                        <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-arrow-right"></use>
+                    </svg>
+                </a>
+            </div>
+        </div>
+        {% endfor %}
+        {% if page.single-column %}</div>{% endif %}
+</div>

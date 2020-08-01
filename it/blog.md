@@ -7,4 +7,4 @@ permalink: /it/blog
 order: 4
 ---
 
-{% include news.html %}
+{% include blog.html %}
