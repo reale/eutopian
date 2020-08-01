@@ -4,7 +4,6 @@ title: Home
 lang: it
 ref: homepage
 permalink: /it/
-order: 1
 ---
 
 {% include hero.html %}
