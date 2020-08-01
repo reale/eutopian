@@ -1,0 +1,26 @@
+## Partners
+
+stakeholders:
+    - name: "Associazione Stampa Romana"
+      ref: stampa-romana
+      logo: jpg
+      links:
+          document:
+          website: https://stamparomana.it/
+    - name: "Italia4Blockchain"
+      ref: i4b
+      logo: jpg
+      links:
+          document:
+          website: https://www.italia4blockchain.it/
+    - name: "Legal Hackers Roma"
+      ref: lh-rome
+      logo: jpg
+      links:
+          website: https://www.meetup.com/it-IT/Legal-Hackers-Roma/
+    - name: "Prepare for Change"
+      ref: p4c
+      logo: png
+      links:
+          document:
+          website: http://prepareforchange.it/
