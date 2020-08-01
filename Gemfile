@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 #ruby RUBY_VERSION
 
-gem 'jekyll', '3.8.5'
+gem 'jekyll', '3.8.7'
+gem 'github-pages'
 
 gem 'html-proofer', '~> 3.11'
 
