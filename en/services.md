@@ -4,7 +4,7 @@ title: Services
 lang: en
 ref: services
 permalink: /en/services
-order: 3
+order: 2
 ---
 
 At Eutopian we are committed to engage policy makers throughout the EU on the new challenges, while providing governmental organisations and businesses alike guidance on the legal, financial and technological tools needed to successfully implement innovation. We team up with specialised companies and professionals to control innovation risk and ensure minimal disruption.

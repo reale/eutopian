@@ -4,7 +4,7 @@ title: Servizi
 lang: it
 ref: services
 permalink: /it/servizi
-order: 3
+order: 2
 ---
 
 In Eutopian siamo impegnati a coinvolgere i policy maker nazionali ed europei sulle nuove sfide, fornendo allo stesso tempo alle organizzazioni governative e alle imprese una guida sugli strumenti legali, finanziari e tecnologici necessari per attuare con successo l'innovazione. Collaboriamo con aziende specializzate e professionisti per controllare il rischio di innovazione e ridurre la disruption.
