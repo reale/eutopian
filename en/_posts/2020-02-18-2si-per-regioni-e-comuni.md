@@ -7,8 +7,8 @@ tags:
 categories: blog
 permalink: /en/blog/2si-per-regioni-e-comuni/
 redirect_from:
-  - /en/actions/2si-per-regioni-e-comuni
-  - /en/news/2si-per-regioni-e-comuni
+  - /en/actions/2si-per-regioni-e-comuni/
+  - /en/news/2si-per-regioni-e-comuni/
 image: /assets/images/2si-per-regioni-e-comuni.jpg
 ---
 

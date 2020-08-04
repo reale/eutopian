@@ -7,9 +7,9 @@ tags:
 categories: blog
 permalink: /en/blog/digital-competences-manifesto/
 redirect_from:
-  - /en/digital-competences-manifesto
-  - /en/actions/digital-competences-manifesto
-  - /en/news/digital-competences-manifesto
+  - /en/digital-competences-manifesto/
+  - /en/actions/digital-competences-manifesto/
+  - /en/news/digital-competences-manifesto/
 image: /assets/images/digital-competences-manifesto.jpg
 ---
 

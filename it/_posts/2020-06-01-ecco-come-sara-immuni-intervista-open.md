@@ -7,7 +7,7 @@ tags:
 categories: blog
 permalink: /it/blog/ecco-come-sara-immuni-intervista-open/
 redirect_from:
-  - /it/news/ecco-come-sara-immuni-intervista-open
+  - /it/news/ecco-come-sara-immuni-intervista-open/
 image: /assets/images/2020-06-01-ecco-come-sara-immuni-intervista-open.png
 ---
 

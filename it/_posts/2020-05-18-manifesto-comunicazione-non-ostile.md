@@ -7,7 +7,7 @@ tags:
 categories: blog
 permalink: /it/blog/manifesto-comunicazione-non-ostile/
 redirect_from:
-  - /it/news/manifesto-comunicazione-non-ostile
+  - /it/news/manifesto-comunicazione-non-ostile/
 image: /assets/images/2020-05-18-manifesto-comunicazione-non-ostile.png
 ---
 
