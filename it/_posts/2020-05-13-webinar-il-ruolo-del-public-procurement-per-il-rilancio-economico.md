@@ -9,6 +9,7 @@ permalink: /it/blog/webinar-il-ruolo-del-public-procurement-per-il-rilancio-econ
 redirect_from:
  - /it/news/webinar-il-ruolo-del-public-procurement-per-il-rilancio-economico/
 image: /assets/images/2020-05-13-webinar-il-ruolo-del-public-procurement-per-il-rilancio-economico.jpg
+child_of_ref: blog
 ---
 
 «Il sistema nazionale di public e-procurement», così è scritto nell'ultimo Piano Triennale per l'informatica nella Pubblica Amministrazione, «è finalizzato a digitalizzare progressivamente l’intero processo di approvvigionamento di beni e servizi da parte delle PA, in tutta la catena di valore, cioè dalle fasi di pianificazione e programmazione dei fabbisogni fino al pagamento.»

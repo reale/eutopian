@@ -9,6 +9,7 @@ permalink: /en/blog/manifesto-non-hostile-communication/
 redirect_from:
   - /en/news/manifesto-non-hostile-communication/
 image: /assets/images/2020-05-18-manifesto-comunicazione-non-ostile.png
+child_of_ref: blog
 ---
 
 Eutopian officially endorses the [Manifesto of Non-Hostile

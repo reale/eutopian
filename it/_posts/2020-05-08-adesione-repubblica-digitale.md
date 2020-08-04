@@ -9,6 +9,7 @@ permalink: /it/blog/adesione-repubblica-digitale/
 redirect_from:
   - /it/news/adesione-repubblica-digitale/
 image: /assets/images/repubblica-digitale.png
+child_of_ref: blog
 ---
 
 Attraverso il progetto [**#Restart**](/it/restart/progetto), Eutopian aderisce

@@ -9,6 +9,7 @@ permalink: /it/blog/protocollo-intesa-p4c/
 redirect_from:
   - /it/news/protocollo-intesa-p4c/
 image: /assets/images/2020-04-22-protocollo-intesa-p4c.jpg
+child_of_ref: blog
 ---
 
 **Eutopian** ha firmato oggi un protocollo d'intesa con [**P4C – Prepare for Change**](http://prepareforchange.it/), associazione senza fine di lucro che promuove attività di ricerca e sviluppo buone pratiche nel campo dell'innovazione a servizio dello sviluppo dei territori e delle politiche pubbliche. P4C ha come mission: anticipare i cambiamenti globali, attraverso analisi e interpretazioni della società, preparando comunità e territori al governo delle trasformazioni e dei processi di innovazione, in chiave di sostenibilità, equità e responsabilità sociale. P4C, l’acronimo del nome Prepare for change, rappresenta la volontà di determinare un futuro migliore attraverso la capacità di leggere e prevedere gli effetti del cambiamento e dell’innovazione sulle vite delle persone.
