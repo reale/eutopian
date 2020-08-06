@@ -5,7 +5,7 @@ lang: it
 ref: protocollo-intesa-italia4blockchain
 tags:
 categories: blog
-permalink: /en/blog/2020-08-06-memorandum-understanding-italia4blockchain/
+permalink: /en/blog/memorandum-understanding-italia4blockchain/
 image: /assets/images/2020-08-06-protocollo-intesa-italia4blockchain.jpg
 child_of_ref: blog
 ---
