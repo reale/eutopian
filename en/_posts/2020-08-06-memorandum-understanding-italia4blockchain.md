@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Protocol agreement with Italia4Blockchain
-lang: it
+lang: en
 ref: protocollo-intesa-italia4blockchain
 tags:
 categories: blog
