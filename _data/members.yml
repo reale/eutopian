@@ -145,15 +145,12 @@ ordinary:
           linkedin: https://www.linkedin.com/in/canducci/
           twitter: https://twitter.com/mcanducci
 
-#    - name: "Marisa Ciarlo"
-#      priority: 0
-#      role:
-#          en: Project management
-#          it: Project management
-#      bio: true
-#      headshot: jpg
-#      social-links:
-#          linkedin: https://www.linkedin.com/in/marisa-ciarlo-74319421
+    - name: "Marisa Ciarlo"
+      priority: 0
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/marisa-ciarlo-74319421
 
 #    - name: "Alfredo Cutolo"
 #      priority: 0
@@ -197,15 +194,13 @@ ordinary:
       social-links:
           linkedin: https://www.linkedin.com/in/leonemichele/
 
-#    - name: "Antonio Occhipinti"
-#      priority: 0
-#      role:
-#          en: Project management
-#          it: Project management
-#      bio: true
-#      headshot: png
-#      social-links:
-#          linkedin: https://www.linkedin.com/in/antonio-occhipinti-09b26637
+    - name: "Antonio Occhipinti"
+      priority: 0
+      role:
+      bio: true
+      headshot: png
+      social-links:
+          linkedin: https://www.linkedin.com/in/antonio-occhipinti-09b26637
 
 #    - name: "Alessandro Scardovi"
 #      priority: 0
