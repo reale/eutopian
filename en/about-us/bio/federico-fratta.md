@@ -4,7 +4,7 @@ title: Federico Fratta
 lang: en
 ref: federico-fratta
 permalink: /en/about-us/bio/federico-fratta
-image:
+image: /assets/images/headshots/federico-fratta.jpg
 child_of_ref: team
 ---
 

@@ -182,7 +182,7 @@ ordinary:
       priority: 0
       role:
       bio: true
-      headshot:
+      headshot: jpg
       social-links:
           linkedin: https://www.linkedin.com/in/federicofratta/
 
