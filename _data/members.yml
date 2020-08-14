@@ -158,7 +158,7 @@ ordinary:
           en: Project management
           it: Project management
       bio: true
-      headshot:
+      headshot: jpg
       social-links:
           linkedin: https://www.linkedin.com/in/alfredo-cutolo-7b288953
 
@@ -218,16 +218,16 @@ ordinary:
       social-links:
           linkedin: https://www.linkedin.com/in/clara-silvano-0190b0156
 
-#    - name: "Serena Torquati"
-#      priority: 0
-#      role:
-#          en: Project management
-#          it: Project management
-#      bio: false
-#      headshot:
-#      social-links:
-#          linkedin:
-#          twitter:
+    - name: "Serena Torquati"
+      priority: 0
+      role:
+          en: Project management
+          it: Project management
+      bio: false
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/serena-torquati/
+          twitter:
 
     - name: "Simone Stricelli"
       priority: 0

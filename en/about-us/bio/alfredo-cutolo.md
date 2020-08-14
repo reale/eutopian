@@ -4,7 +4,7 @@ title: Alfredo Cutolo
 lang: en
 ref: alfredo-cutolo
 permalink: /en/about-us/bio/alfredo-cutolo
-image:
+image: /assets/images/headshots/alfredo-cutolo.jpg
 child_of_ref: team
 ---
 
