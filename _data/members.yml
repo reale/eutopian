@@ -123,6 +123,14 @@ founders:
           twitter: https://twitter.com/luisa_scarcella
 
 ordinary:
+    - name: "Adl Consulting"
+      priority: 0
+      bio: false
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/company/adl-consulting-s-r-l-/
+          twitter: https://twitter.com/Adl_Consulting
+
     - name: "Eva Bredariol"
       priority: 0
       role:
