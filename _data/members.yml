@@ -62,15 +62,15 @@ founders:
 #      social-links:
 #          linkedin: https://www.linkedin.com/in/enrico-barich-875aab2b
 
-#    - name: "Davide Maniscalco"
-#      priority: 0
-#      role:
-#      bio: true
-#      headshot: jpg
-#      social-links:
-#          linkedin: https://www.linkedin.com/in/davide-maniscalco-🇮🇹🇪🇺-6512aa66
-#          twitter: https://twitter.com/manisco74
-#
+    - name: "Davide Maniscalco"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/davide-maniscalco-🇮🇹🇪🇺-6512aa66
+          twitter: https://twitter.com/manisco74
+
     - name: "Gaia Nina Marano"
       priority: 0
       role:
@@ -152,24 +152,24 @@ ordinary:
       social-links:
           linkedin: https://www.linkedin.com/in/marisa-ciarlo-74319421
 
-#    - name: "Alfredo Cutolo"
-#      priority: 0
-#      role:
-#          en: Project management
-#          it: Project management
-#      bio: true
-#      headshot:
-#      social-links:
-#          linkedin: https://www.linkedin.com/in/alfredo-cutolo-7b288953
+    - name: "Alfredo Cutolo"
+      priority: 0
+      role:
+          en: Project management
+          it: Project management
+      bio: true
+      headshot:
+      social-links:
+          linkedin: https://www.linkedin.com/in/alfredo-cutolo-7b288953
 
-#    - name: "Sara Cutrona"
-#      priority: 0
-#      role:
-#      bio: true
-#      headshot: jpg
-#      social-links:
-#          linkedin: https://www.linkedin.com/in/sara-cutrona-b47655aa
-#          twitter: https://twitter.com/SaraCutrona
+    - name: "Sara Cutrona"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/sara-cutrona-b47655aa
+          twitter: https://twitter.com/SaraCutrona
 
 #    - name: "Marco Del Fungo"
 #      priority: 0
@@ -202,13 +202,13 @@ ordinary:
       social-links:
           linkedin: https://www.linkedin.com/in/antonio-occhipinti-09b26637
 
-#    - name: "Alessandro Scardovi"
-#      priority: 0
-#      role:
-#      bio: true
-#      headshot: jpg
-#      social-links:
-#          linkedin: https://www.linkedin.com/in/alessandroscardovi
+    - name: "Alessandro Scardovi"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/alessandroscardovi
 
     - name: "Clara Silvano"
       priority: 0
@@ -247,10 +247,10 @@ ordinary:
           linkedin: https://www.linkedin.com/company/tanglegence
           twitter: https://twitter.com/tanglegence
 
-#    - name: "Vito Valente"
-#      priority: 0
-#      role:
-#      bio: true
-#      headshot: jpg
-#      social-links:
-#          linkedin: https://www.linkedin.com/in/vito-valente-9687875a
+    - name: "Vito Valente"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/vito-valente-9687875a
