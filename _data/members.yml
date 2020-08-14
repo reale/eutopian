@@ -179,12 +179,13 @@ ordinary:
           linkedin: https://www.linkedin.com/in/sara-cutrona-b47655aa
           twitter: https://twitter.com/SaraCutrona
 
-#    - name: "Marco Del Fungo"
-#      priority: 0
-#      role:
-#      bio: false
-#      headshot:
-#      social-links:
+    - name: "Marco Del Fungo"
+      priority: 0
+      role:
+      bio: false
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/marco-del-fungo-b9b853ab/
 
     - name: "Federico Fratta"
       priority: 0
