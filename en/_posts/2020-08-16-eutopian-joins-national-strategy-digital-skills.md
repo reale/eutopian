@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eutopian joins the National Strategy for Digital Skills
-lang: it
+lang: en
 ref: eutopian-partecipa-strategia-nazionale-competenze-digitali
 tags:
 categories: blog
