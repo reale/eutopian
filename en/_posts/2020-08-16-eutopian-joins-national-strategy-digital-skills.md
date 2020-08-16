@@ -23,4 +23,4 @@ There are four "axes" of intervention to the Strategy:
 
 The goal is to eliminate the gap with other European countries, in general terms of digitization and with respect to the individual axes of intervention, and to break down the digital divide between various areas of our national territory. To achieve this objective, an Operational Plan is drawn up with concrete initiatives, some already underway, others being defined.
 
-Read the [decree and the National Strategy for Digital Skills](https://in Tecnologia.gov.it/assets/docs/DTD-1277-A-ALL1.pdf) (in Italian).
+Read the [decree and the National Strategy for Digital Skills](https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf) (in Italian).
