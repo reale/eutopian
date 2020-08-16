@@ -17,4 +17,4 @@ The **#Restart** project is made up of two interconnected initiatives:
 
 Furthermore, also for the purpose of coordinating the project, Eutopian has set up a Working Group on *innovation, enterprises, and public policies*, with special attention to the dimensions of sustainability (social, economic, environmental), information security and inter-regional and cross-border interoperability.
 
-Through the #Restart project, Eutopian joins the [Digital Republic](https://innovazione.gov.it/it/repubblica-digitale/) initiative, by the Italian Ministry of Technological Innovation.
+Through the #Restart project, [Eutopian joins the **Digital Republic** initiative](https://repubblicadigitale.innovazione.gov.it/iniziativa/restart/), by the Italian Ministry of Technological Innovation.

@@ -17,4 +17,4 @@ Il progetto **#Restart** si compone di due iniziative interconnesse:
 
 Inoltre, anche ai fini di un coordinamento del progetto, Eutopian ha costituito un Gruppo di Lavoro su *innovazione, impresa e politiche pubbliche*, con particolare attenzione alle dimensioni della sostenibilità (sociale, economica, ambientale), dell’information security e dell’interoperabilità a livello interregionale e transfrontaliero.
 
-Attraverso il progetto #Restart, Eutopian aderisce all'iniziativa [Repubblica Digitale](https://innovazione.gov.it/it/repubblica-digitale/) del Ministero dell'Innovazione Tecnologica.
+Attraverso il progetto #Restart, [Eutopian aderisce all'iniziativa **Repubblica Digitale**](https://repubblicadigitale.innovazione.gov.it/iniziativa/restart/) del Ministero dell'Innovazione Tecnologica.
