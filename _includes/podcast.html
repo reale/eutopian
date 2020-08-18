@@ -1,0 +1,5 @@
+<ul>
+    {% for episode in site.data.podcast.episodes %}
+    <li><a href="{{ episode.url }}">{{ episode.title }}</a></li>
+    {% endfor %}
+</ul>
