@@ -8,9 +8,9 @@ image: /assets/images/headshots/luisa-scarcella.jpg
 child_of_ref: team
 ---
 
-Assistente di Ricerca presso il dipartimento di diritto tributario dell’Università di Graz. È research associate al Centre for Blockchain Technologies dell’Università UCL di Londra e coordinator del gruppo di lavoro Finance, Law and Economics della Young Scholars Initiative INET (Institute for New Economic Thinking).
+Attualmente Research Associate per l'International Fiscal Association (IFA) presso l'International Bureau of Fiscal Documentation (IBFD). È inoltre research associate al Centre for Blockchain Technologies dell’Università UCL di Londra e coordinator del gruppo di lavoro Finance, Law and Economics della Young Scholars Initiative INET (Institute for New Economic Thinking).
 
-È stata research associate al Cambridge Centre for Alternative Finance dell’Università di Cambridge e visiting scholar al Centre for Information Technology and Intellectual Property Law (CiTiP) dell’Università KU Leuven. Nel 2018 è risultata vincitrice di una prestigiosa borsa di studio del Ministero per la Ricerca austriaco.
+Precedentemente ha lavorato come assistente alla ricerca e all'insegnamento presso il dipartimento di diritto tributario dell'Università di Graz, come research associate al Cambridge Centre for Alternative Finance dell’Università di Cambridge ed è stata visiting scholar al Centre for Information Technology and Intellectual Property Law (CiTiP) dell’Università KU Leuven. Nel 2018 è risultata vincitrice di una prestigiosa borsa di studio del Ministero per la Ricerca austriaco.
 
 Laureata nel 2015 in giurisprudenza all’Università degli Studi di Udine, prima di iniziare il suo percorso di dottorato, ha svolto un tirocinio presso la Banca Centrale Europea.
 
