@@ -1,0 +1,5 @@
+<ul>
+    {% for item in site.data.press.press %}
+    <li>{{ item.date }}, <em>{{ item.newspaper }}</em>, <a href="{{ episode.url }}"><em>{{ item.title }}</em></a> {% if item.archived != nil and item.archived != "" %}(<a href="{{ item.archived }}">versione archiviata</a>){% endif %}</li>
+    {% endfor %}
+</ul>
