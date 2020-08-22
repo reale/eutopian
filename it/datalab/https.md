@@ -20,5 +20,5 @@ Successivamente, verranno messi a disposizione i dati per tutte le oltre 20 mila
 **ATTENZIONE**: la tabella riproduce esclusivamente lo stato *as is* al momento della verifica automatica.
 
 <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="https://eutopian-eu.github.io/tools/" title="HTTPS"></iframe>
+  <iframe class="embed-responsive-item" src="https://eutopian-eu.github.io/ipa-tools/" title="HTTPS"></iframe>
 </div>

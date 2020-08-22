@@ -19,5 +19,5 @@ In a more advanced phase, the data will be made available for all the over 20 th
 **IMPORTANT NOTE**: the table only describes the *as is* status at the date and time of automatic verification.
 
 <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="https://eutopian-eu.github.io/tools/" title="HTTPS"></iframe>
+  <iframe class="embed-responsive-item" src="https://eutopian-eu.github.io/ipa-tools/" title="HTTPS"></iframe>
 </div>
