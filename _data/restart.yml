@@ -169,13 +169,24 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-dalle-fake-news-alla-fake-relevance-115635885045
       image: jpg
 
+    - title: "Il ruolo del DPO tra GDPR ed indicazioni operative"
+      ref: ruolo-dpo
+      lang: it
+      date: 14 Settembre 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Floriana Tagliaferro
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-il-ruolo-del-dpo-tra-gdpr-ed-indicazioni-operative-118175924371
+      image: jpg
+
     - title: "Reti d'impresa e digitalizzazione"
       ref:
       lang: it
       date: 21 Settembre 2020 21:00-22:00
       coordinator: Fabio Francesco Franco
       speaker: Eva Bredariol
-      coordinator-bio: false
+      coordinator-bio: true
       speaker-bio: true
       eventbrite:
       image:
