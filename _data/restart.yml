@@ -180,17 +180,17 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-il-ruolo-del-dpo-tra-gdpr-ed-indicazioni-operative-118175924371
       image: jpg
 
-    - title: "Reti d'impresa e digitalizzazione"
-      ref:
-      lang: it
-      date: 21 Settembre 2020 21:00-22:00
-      coordinator: Fabio Francesco Franco
-      speaker: Eva Bredariol
-      coordinator-bio: true
-      speaker-bio: true
-      eventbrite:
-      image:
-
+#    - title: "Reti d'impresa e digitalizzazione"
+#      ref:
+#      lang: it
+#      date: 21 Settembre 2020 21:00-22:00
+#      coordinator: Fabio Francesco Franco
+#      speaker: Eva Bredariol
+#      coordinator-bio: true
+#      speaker-bio: true
+#      eventbrite:
+#      image:
+#
 #    - title: Openness nella PA
 #      ref:
 #      lang: it
