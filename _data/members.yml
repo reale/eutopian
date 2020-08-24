@@ -187,6 +187,14 @@ ordinary:
       social-links:
           linkedin: https://www.linkedin.com/in/marco-del-fungo-b9b853ab/
 
+    - name: "Fabio Francesco Franco"
+      priority: 0
+      role:
+      bio: true
+      headshot: png
+      social-links:
+          linkedin: https://it.linkedin.com/in/fabio-francesco-franco-32062620
+
     - name: "Federico Fratta"
       priority: 0
       role:
