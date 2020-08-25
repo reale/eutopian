@@ -7,6 +7,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_ASR_Protocollo_Intesa.pdf
           website: https://stamparomana.it/
+    - name: "CryptoRivista"
+      ref: cryptorivista
+      logo: png
+      links:
+          agreement: /assets/docs/Eutopian_CryptoRivista_Protocollo_Intesa.pdf
+          website: https://cryptorivista.com/
     - name: "Italia4Blockchain"
       ref: i4b
       logo: jpg
