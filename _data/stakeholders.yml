@@ -7,6 +7,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_ASR_Protocollo_Intesa.pdf
           website: https://stamparomana.it/
+    - name: "Civic Resilience Initiative"
+      ref: cri
+      logo: png
+      links:
+          agreement: /assets/docs/Eutopian_CRI_Protocol_of_Agreement.pdf
+          website: https://cri.lt/
     - name: "CryptoRivista"
       ref: cryptorivista
       logo: png
