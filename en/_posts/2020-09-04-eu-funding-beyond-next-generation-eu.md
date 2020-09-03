@@ -5,7 +5,7 @@ lang: en
 ref: fondi-europei-oltre-next-generation-eu
 tags:
 categories: blog
-permalink: /en/blog/eu-funding-beyond-generation-eu/
+permalink: /en/blog/eu-funding-beyond-next-generation-eu/
 video: https://youtu.be/11-kfJP-GoM
 child_of_ref: blog
 ---
