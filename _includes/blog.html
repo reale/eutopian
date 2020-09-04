@@ -6,7 +6,9 @@
         {% for post in posts %}
         <div class="card">
             <div class="card-body">
+                {% if post.image %}
                 <img class="card-img-top" src="{{ post.image }}" alt="">
+                {% endif %}
                 <div class="head-tags">
                     <div class="d-flex justify-content-between w-100">
                         <div>{% for tag in post.tags %}<a class="card-tag mr-2" href="#">{{ tag }}</a>{% endfor %}</div>
