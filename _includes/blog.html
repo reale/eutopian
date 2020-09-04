@@ -1,6 +1,5 @@
 {% assign posts = site.categories.blog | where: "lang", page.lang %}
 
-
 <div class="container my-4">
     {% if page.single-column %}<div class="card-columns">{% endif %}
         {% for post in posts %}
