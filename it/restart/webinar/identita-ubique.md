@@ -4,8 +4,7 @@ title: "Identità Ubique. Verso un'antropologia non antropocentrica"
 lang: it
 ref: identita-ubique
 permalink: /it/restart/webinar/identita-ubique
-image: /assets/images/restart/identita-ubique.jpg
-video: https://youtu.be/QzNbOSZUZj0
+video: https://www.youtube.com/embed/QzNbOSZUZj0
 child_of_ref: restart-webinar
 ---
 
