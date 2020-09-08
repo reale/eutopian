@@ -201,6 +201,17 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-reti-dimpresa-e-digitalizzazione-118214259031
       image: jpg
 
+    - title: "Innovazione e “nuove” tecnologie. Sì, ma quali? Prima modelliamo i processi"
+      ref: innovazione-nuove-tecnologie
+      lang: it
+      date: 28 Settembre 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Nazzareno Prinzivalli
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      image: jpg
+
 #    - title: Openness nella PA
 #      ref:
 #      lang: it
