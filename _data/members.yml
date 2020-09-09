@@ -134,8 +134,8 @@ ordinary:
     - name: "Eva Bredariol"
       priority: 0
       role:
-          en: Business networks
-          it: Reti d'impresa
+          en: Business networks, University and Research
+          it: Reti d'impresa, Università e Ricerca
       bio: true
       headshot: jpg
       social-links:
