@@ -209,7 +209,7 @@ webinars:
       speaker: Nazzareno Prinzivalli
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      eventbrite: https://www.eventbrite.it/e/biglietti-innovazione-e-nuove-tecnologie-si-ma-quali-prima-modelliamo-i-processi-120535836933
       image: jpg
 
 #    - title: Openness nella PA
