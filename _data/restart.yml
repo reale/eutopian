@@ -190,6 +190,17 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-il-ruolo-del-dpo-tra-gdpr-ed-indicazioni-operative-118175924371
       image: jpg
 
+    - title: "La libera circolazione dei dati al tempo del Covid"
+      ref: libera-circolazione-dati-covid
+      lang: it
+      date: 16 Settembre 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Gaetano Bruno
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-la-libera-circolazione-dei-dati-al-tempo-del-covid-120777921013
+      image: jpg
+
     - title: "Reti d'impresa e digitalizzazione"
       ref: reti-impresa-digitalizzazione
       lang: it
