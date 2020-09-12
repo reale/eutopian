@@ -249,6 +249,9 @@ ordinary:
     - name: "Simone Stricelli"
       priority: 0
       role:
+          en: Brand Management
+          it: Brand Management
+      role:
       bio: true
       headshot: jpg
       social-links:
