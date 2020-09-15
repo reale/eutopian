@@ -277,10 +277,10 @@ ordinary:
 
 scientific-committee:
     - name: "Claudia Sandei"
+      full-name: "Prof. Avv. Claudia Sandei, Ph.D."
+      affiliation: "Università di Padova"
       priority: 0
-      role:
       bio: true
       headshot: jpg
       social-links:
-          linkedin:
-          twitter:
+          linkedin: https://www.linkedin.com/in/claudia-sandei/
