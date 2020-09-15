@@ -48,9 +48,3 @@ Il Registro per la trasparenza è solo una delle iniziative intese a rendere pi�
 -   Chi riceve finanziamenti dal bilancio dell'UE
 
 -   Quali documenti vengono usati o prodotti nel processo di elaborazione e adozione delle leggi
-
-Il [sito Internet sulla trasparenza e l'etica](http://www.europarl.europa.eu/at-your-service/it/transparency) *del Parlamento europeo (creato nel 2013)* fornisce informazioni su:
-
--   Codici di condotta per i deputati e il personale del Parlamento europeo
-
--   Accesso ai documenti del Parlamento

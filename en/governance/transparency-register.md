@@ -50,9 +50,3 @@ The Transparency Register is just one of the initiatives designed to make EU dec
 -   Who gets funding from the EU budget
 
 -   What documents are held or produced in the process of drafting and adopting laws
-
-The European Parliament's [Transparency and Ethics website](http://www.europarl.europa.eu/at-your-service/en/transparency) *(set up in 2013)* provides information on:
-
--   Codes of Conduct for Members of Parliament and staff
-
--   Access to Parliament documents
