@@ -274,3 +274,13 @@ ordinary:
       headshot: jpg
       social-links:
           linkedin: https://www.linkedin.com/in/vito-valente-9687875a
+
+scientific-committee:
+    - name: "Claudia Sandei"
+      priority: 0
+      role:
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin:
+          twitter:

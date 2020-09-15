@@ -5,7 +5,7 @@ lang: en
 ref: statute
 permalink: /en/about-us/statute
 child_of_ref: about-us
-order: 3
+order: 4
 ---
 
 **WARNING: The following English translation of the Statute is for informational purposes only. The only legally binding text is the [Italian](/it/chi-siamo/statuto) one.**
