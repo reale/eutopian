@@ -116,6 +116,8 @@ founders:
     - name: "Luisa Scarcella"
       priority: 0
       role:
+          en: Chief Economist, Taxation, Innovation in Finance
+          it: Chief Economist, Taxation, Innovation in Finance
       bio: true
       headshot: jpg
       social-links:
