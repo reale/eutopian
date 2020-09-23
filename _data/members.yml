@@ -28,8 +28,8 @@ founders:
     - name: "Gaetano Bruno"
       priority: 0
       role:
-          en: Secretary
-          it: Segretario
+          en: Secretary, Internal Audit and Management Control
+          it: Segretario, Internal Audit e Controllo di gestione
       bio: true
       headshot: jpg
       social-links:
