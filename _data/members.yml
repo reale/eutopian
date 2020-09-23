@@ -253,7 +253,6 @@ ordinary:
       role:
           en: Brand Management
           it: Brand Management
-      role:
       bio: true
       headshot: jpg
       social-links:
