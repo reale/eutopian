@@ -2,7 +2,6 @@
 layout: page
 title: Gaetano Bruno
 lang: it
-ref: gaetano-bruno
 permalink: /it/restart/speaker/gaetano-bruno
 image: /assets/images/headshots/gaetano-bruno.jpg
 child_of_ref: restart-webinar
