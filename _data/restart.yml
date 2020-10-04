@@ -223,16 +223,27 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-innovazione-e-nuove-tecnologie-si-ma-quali-prima-modelliamo-i-processi-120535836933
       image: jpg
 
-#    - title: Openness nella PA
-#      ref:
-#      lang: it
-#      date: Ottobre 2020
+    - title: "Openness nella PA"
+      ref: openness-pa
+      lang: it
+      date: 05 Ottobre 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Flavia Marzano
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-openness-nella-pa-123401594491
+      image: jpg
+
+#    - title: "Digital Media Literacy: Building Resilience"
+#      ref: digital-media-literacy
+#      lang: en
+#      date: 09 November 2020 21:00-22:00 CEST
 #      coordinator: Flavia Marzano
-#      description:
-#          en: "Open data, Open Source, Open Access, Open Agenda... Open Mind in the public sector"
-#          it: "Open data, Open Source, Open Access, Open Agenda... Open Mind nella PA"
-#      permalink:
-#      image:
+#      speaker: Tomas Kazulėnas
+#      coordinator-bio: true
+#      speaker-bio: false
+#      eventbrite:
+#      image: jpg
 #
 #    - title: Smart & Sustainable Mobility 
 #      ref:
