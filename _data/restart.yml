@@ -232,7 +232,7 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-openness-nella-pa-123401594491
-      image: jpg
+      image:
 
 #    - title: "SGI per la Trasformazione Digitale e Sostenibile della Società"
 #      ref: sgi-trasformazione-digitale
