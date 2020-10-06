@@ -234,17 +234,17 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-openness-nella-pa-123401594491
       image: jpg
 
-#    - title: "SGI per la Trasformazione Digitale e Sostenibile della Società"
-#      ref: sgi-trasformazione-digitale
-#      lang: it
-#      date: 12 Ottobre 2020 21:00-22:30
-#      coordinator: Roberto Reale
-#      speaker: Fulvio Ananasso
-#      coordinator-bio: true
-#      speaker-bio: true
-#      eventbrite: https://www.eventbrite.it/e/biglietti-sgi-per-la-trasformazione-digitale-e-sostenibile-della-societa-123979918273
-#      image: jpg
-#
+    - title: "SGI per la Trasformazione Digitale e Sostenibile della Società"
+      ref: sgi-trasformazione-digitale
+      lang: it
+      date: 12 Ottobre 2020 21:00-22:30
+      coordinator: Roberto Reale
+      speaker: Fulvio Ananasso
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-sgi-per-la-trasformazione-digitale-e-sostenibile-della-societa-123979918273
+      image: jpg
+
 #    - title: "Conversazioni su diritto, dati e PA: l'esperienza di una giurista"
 #      ref: diritto-dati-pa
 #      lang: it
