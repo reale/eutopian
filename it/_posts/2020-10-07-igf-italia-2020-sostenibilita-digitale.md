@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "IGF Italia 2020 | Sostenibilità Digitale: Idee, Metodi, Relazioni"
+description: "Eutopian propone metodi per la sostenibilità digitale all'Internet Governance Forum Italia 2020"
 lang: it
 ref: igf-italia-2020-sostenibilita-digitale
 tags:
@@ -9,8 +10,6 @@ permalink: /it/blog/igf-italia-2020-sostenibilita-digitale/
 video: https://www.youtube.com/embed/RZ9v6m2HSTc
 child_of_ref: blog
 ---
-
-### Eutopian propone metodi per la sostenibilità digitale all'Internet Governance Forum Italia 2020
 
 **SOSTENIBILITÀ DIGITALE: IDEE, METODI, RELAZIONI** è il seminario organizzato dal presidente Roberto Reale e promosso da Eutopian in occasione dell'[Internet Governance Forum Italia 2020](http://www.igfitalia2020.it/), organizzato dal 7 al 9 ottobre con la partecipazione del Sistema Camerale.  Intervengono: Flavia Marzano (Eutopian), Roberta Centonze (relatrice e moderatrice) insieme a Regine Bergers (Innovation Managers di [Agrathaer GmbH](http://www.agrathaer.de/)), Marco Merola ([Adaptation](https://www.adaptation.it/)).
 
