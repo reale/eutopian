@@ -49,6 +49,8 @@ founders:
     - name: "Roberto Alma"
       priority: 0
       role:
+          en: Chief Legal Officer
+          it: Chief Legal Officer
       bio: true
       headshot: png
       social-links:
