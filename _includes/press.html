@@ -1,5 +1,5 @@
 <ul>
     {% for item in site.data.press.press %}
-    <li>{{ item.date }}, <em>{{ item.newspaper }}</em>, <a href="{{ item.url }}"><em>{{ item.title }}</em></a> {% if item.archived != nil and item.archived != "" %}(<a href="{{ item.archived }}">{{ site.data.t.archived-version[page.lang] }}</a>){% endif %}</li>
+    <li>{{ item.date }}, {% if item.author != nil and item.author != "" %}{{ item.author }}, {% endif %}{{ item.newspaper }}</em>, <a href="{{ item.url }}"><em>{{ item.title }}</em></a> {% if item.archived != nil and item.archived != "" %}(<a href="{{ item.archived }}">{{ site.data.t.archived-version[page.lang] }}</a>){% endif %}</li>
     {% endfor %}
 </ul>
