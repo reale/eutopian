@@ -5,7 +5,7 @@ lang: en
 ref: claudia-sandei
 permalink: /en/about-us/bio/claudia-sandei
 image: /assets/images/headshots/claudia-sandei.jpg
-child_of_ref: team
+child_of_ref: scientific-committee
 ---
 
 Claudia Sandei is Associate Professor of Technology Law and Corporate Law at

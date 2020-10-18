@@ -5,7 +5,7 @@ lang: it
 ref: gaetano-armao
 permalink: /it/chi-siamo/bio/gaetano-armao
 image: /assets/images/headshots/gaetano-armao.jpg
-child_of_ref: team
+child_of_ref: scientific-committee
 ---
 
 Nato a Palermo il 14 gennaio 1962.

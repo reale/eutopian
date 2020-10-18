@@ -5,7 +5,7 @@ lang: it
 ref: luca-vittorio-raiola
 permalink: /it/chi-siamo/bio/luca-vittorio-raiola
 image: /assets/images/headshots/luca-vittorio-raiola.jpg
-child_of_ref: team
+child_of_ref: scientific-committee
 ---
 
 Vive e lavora a Sorrento dove esercita la professione di avvocato.

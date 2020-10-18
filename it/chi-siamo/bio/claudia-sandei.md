@@ -5,7 +5,7 @@ lang: it
 ref: claudia-sandei
 permalink: /it/chi-siamo/bio/claudia-sandei
 image: /assets/images/headshots/claudia-sandei.jpg
-child_of_ref: team
+child_of_ref: scientific-committee
 ---
 
 -   Claudia Sandei nasce a Padova (PD) il 4 febbraio 1980.
