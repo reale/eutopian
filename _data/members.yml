@@ -100,6 +100,8 @@ founders:
     - name: "Claudia Morelli"
       priority: 0
       role:
+          en: Communication and Institutional Relations
+          it: Comunicazione e Rapporti Istituzionali
       bio: true
       headshot: png
       social-links:
