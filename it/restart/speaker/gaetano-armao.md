@@ -2,7 +2,7 @@
 layout: page
 title: Gaetano Armao
 lang: it
-ref: gaetano-armao
+ref: gaetano-armao-restart
 permalink: /it/restart/speaker/gaetano-armao
 image: /assets/images/headshots/gaetano-armao.jpg
 child_of_ref: restart-webinar
