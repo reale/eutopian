@@ -245,16 +245,16 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-sgi-per-la-trasformazione-digitale-e-sostenibile-della-societa-123979918273
       image: jpg
 
-#    - title: "Conversazioni su diritto, dati e PA: l'esperienza di una giurista"
-#      ref: diritto-dati-pa
-#      lang: it
-#      date: 19 Ottobre 2020 21:00-22:00
-#      coordinator: Roberto Reale
-#      speaker: Morena Ragone
-#      coordinator-bio: true
-#      speaker-bio: true
-#      eventbrite: https://www.eventbrite.it/e/biglietti-conversazioni-su-diritto-dati-e-pa-lesperienza-di-una-giurista-123979186083
-#      image: jpg
+    - title: "Digital Product Design per un Mondo Phygital"
+      ref: digital-product-design
+      lang: it
+      date: 25 Ottobre 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Nicola Catani
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-digital-product-design-per-un-mondo-phygital-126709659001
+      image: jpg
 
 #    - title: "Digital Media Literacy: Building Resilience"
 #      ref: digital-media-literacy
