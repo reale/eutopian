@@ -1,6 +1,6 @@
 ## Members
 
-founders:
+board:
     - name: "Roberto Reale"
       priority: 2
       role:
@@ -67,6 +67,8 @@ founders:
     - name: "Davide Maniscalco"
       priority: 0
       role:
+          en: Board Member
+          it: Consigliere
       bio: true
       headshot: jpg
       social-links:
@@ -76,6 +78,8 @@ founders:
     - name: "Gaia Nina Marano"
       priority: 0
       role:
+          en: Board Member
+          it: Consigliera
       bio: true
       headshot: jpg
       social-links:
@@ -84,6 +88,8 @@ founders:
     - name: "Francesca Martini"
       priority: 0
       role:
+          en: Board Member
+          it: Consigliera
       bio: true
       headshot: jpg
       social-links:
@@ -91,6 +97,8 @@ founders:
     - name: "Federica Meta"
       priority: 0
       role:
+          en: Board Member
+          it: Consigliera
       bio: true
       headshot: jpg
       social-links:
@@ -111,6 +119,8 @@ founders:
     - name: "Agata Quattrone"
       priority: 0
       role:
+          en: Board Member
+          it: Consigliera
       bio: true
       headshot: jpg
       social-links:
@@ -128,15 +138,6 @@ founders:
           linkedin: https://www.linkedin.com/in/luisa-scarcella-0b6601147
           twitter: https://twitter.com/luisa_scarcella
 
-ordinary:
-    - name: "Adl Consulting"
-      priority: 0
-      bio: false
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/company/adl-consulting-s-r-l-/
-          twitter: https://twitter.com/Adl_Consulting
-
     - name: "Eva Bredariol"
       priority: 0
       role:
@@ -147,110 +148,110 @@ ordinary:
       social-links:
           linkedin: https://www.linkedin.com/in/eva-bredariol
           twitter: https://twitter.com/EvaBredariol
-
-    - name: "Massimo Canducci"
-      priority: 0
-      role:
-          en: Innovation
-          it: Innovazione
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/canducci/
-          twitter: https://twitter.com/mcanducci
-
-    - name: "Marisa Ciarlo"
-      priority: 0
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/marisa-ciarlo-74319421
-
-    - name: "Alfredo Cutolo"
-      priority: 0
-      role:
-          en: Project management
-          it: Project management
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/alfredo-cutolo-7b288953
-
-    - name: "Sara Cutrona"
-      priority: 0
-      role:
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/sara-cutrona-b47655aa
-          twitter: https://twitter.com/SaraCutrona
-
-    - name: "Marco Del Fungo"
-      priority: 0
-      role:
-      bio: false
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/marco-del-fungo-b9b853ab/
-
-    - name: "Fabio Francesco Franco"
-      priority: 0
-      role:
-      bio: true
-      headshot: png
-      social-links:
-          linkedin: https://it.linkedin.com/in/fabio-francesco-franco-32062620
-
-    - name: "Federico Fratta"
-      priority: 0
-      role:
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/federicofratta/
-
-    - name: "Michele Leone"
-      priority: 0
-      role:
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/leonemichele/
-
-    - name: "Antonio Occhipinti"
-      priority: 0
-      role:
-      bio: true
-      headshot: png
-      social-links:
-          linkedin: https://www.linkedin.com/in/antonio-occhipinti-09b26637
-
-    - name: "Alessandro Scardovi"
-      priority: 0
-      role:
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/alessandroscardovi
-
-    - name: "Clara Silvano"
-      priority: 0
-      role:
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/clara-silvano-0190b0156
-
-    - name: "Serena Torquati"
-      priority: 0
-      role:
-          en: Project management
-          it: Project management
-      bio: false
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/serena-torquati/
-          twitter:
+#
+#    - name: "Massimo Canducci"
+#      priority: 0
+#      role:
+#          en: Innovation
+#          it: Innovazione
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/canducci/
+#          twitter: https://twitter.com/mcanducci
+#
+#    - name: "Marisa Ciarlo"
+#      priority: 0
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/marisa-ciarlo-74319421
+#
+#    - name: "Alfredo Cutolo"
+#      priority: 0
+#      role:
+#          en: Project management
+#          it: Project management
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/alfredo-cutolo-7b288953
+#
+#    - name: "Sara Cutrona"
+#      priority: 0
+#      role:
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/sara-cutrona-b47655aa
+#          twitter: https://twitter.com/SaraCutrona
+#
+#    - name: "Marco Del Fungo"
+#      priority: 0
+#      role:
+#      bio: false
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/marco-del-fungo-b9b853ab/
+#
+#    - name: "Fabio Francesco Franco"
+#      priority: 0
+#      role:
+#      bio: true
+#      headshot: png
+#      social-links:
+#          linkedin: https://it.linkedin.com/in/fabio-francesco-franco-32062620
+#
+#    - name: "Federico Fratta"
+#      priority: 0
+#      role:
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/federicofratta/
+#
+#    - name: "Michele Leone"
+#      priority: 0
+#      role:
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/leonemichele/
+#
+#    - name: "Antonio Occhipinti"
+#      priority: 0
+#      role:
+#      bio: true
+#      headshot: png
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/antonio-occhipinti-09b26637
+#
+#    - name: "Alessandro Scardovi"
+#      priority: 0
+#      role:
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/alessandroscardovi
+#
+#    - name: "Clara Silvano"
+#      priority: 0
+#      role:
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/clara-silvano-0190b0156
+#
+#    - name: "Serena Torquati"
+#      priority: 0
+#      role:
+#          en: Project management
+#          it: Project management
+#      bio: false
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/serena-torquati/
+#          twitter:
 
     - name: "Simone Stricelli"
       priority: 0
@@ -262,23 +263,23 @@ ordinary:
       social-links:
           linkedin: https://www.linkedin.com/in/simonestricelli
           twitter: https://twitter.com/MoStricelli
-
-    - name: "Tanglegence"
-      priority: 0
-      role:
-      bio: true
-      headshot: png
-      social-links:
-          linkedin: https://www.linkedin.com/company/tanglegence
-          twitter: https://twitter.com/tanglegence
-
-    - name: "Vito Valente"
-      priority: 0
-      role:
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/vito-valente-9687875a
+#
+#    - name: "Tanglegence"
+#      priority: 0
+#      role:
+#      bio: true
+#      headshot: png
+#      social-links:
+#          linkedin: https://www.linkedin.com/company/tanglegence
+#          twitter: https://twitter.com/tanglegence
+#
+#    - name: "Vito Valente"
+#      priority: 0
+#      role:
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/vito-valente-9687875a
 
 scientific-committee:
     - name: "Gaetano Armao"
