@@ -281,14 +281,14 @@ ordinary:
           linkedin: https://www.linkedin.com/in/vito-valente-9687875a
 
 scientific-committee:
-#    - name: "Gaetano Armao"
-#      full-name: "On. Prof. Avv. Gaetano Armao"
-#      affiliation: "Regione Siciliana"
-#      priority: 0
-#      bio: true
-#      headshot: jpg
-#      social-links:
-#          linkedin: https://www.linkedin.com/in/gaetano-armao-959b06b0/
+    - name: "Gaetano Armao"
+      full-name: "On. Prof. Avv. Gaetano Armao"
+      affiliation: "Regione Siciliana"
+      priority: 0
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/gaetano-armao-959b06b0/
 
     - name: "Luca Vittorio Raiola"
       full-name: "Avv. Luca Vittorio Raiola, Ph.D."
