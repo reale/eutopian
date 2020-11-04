@@ -5,7 +5,7 @@ lang: en
 ref: eva-bredariol
 permalink: /en/about-us/bio/eva-bredariol
 image: /assets/images/headshots/eva-bredariol.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Lawyer, Ph.D. in International Law, Private and Labour Law - address in Private Law in the European dimension - with a thesis on business networks.

@@ -5,7 +5,7 @@ lang: it
 ref: luisa-scarcella
 permalink: /it/chi-siamo/bio/luisa-scarcella
 image: /assets/images/headshots/luisa-scarcella.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Attualmente Research Associate per l'International Fiscal Association (IFA) presso l'International Bureau of Fiscal Documentation (IBFD). È inoltre research associate al Centre for Blockchain Technologies dell’Università UCL di Londra e coordinator del gruppo di lavoro Finance, Law and Economics della Young Scholars Initiative INET (Institute for New Economic Thinking).

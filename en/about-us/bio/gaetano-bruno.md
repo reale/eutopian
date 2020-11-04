@@ -5,7 +5,7 @@ lang: en
 ref: gaetano-bruno
 permalink: /en/about-us/bio/gaetano-bruno
 image: /assets/images/headshots/gaetano-bruno.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 I like to call myself a *digital humanist*, since I to have acquired a good experience in document management over the years and in particular in the management of information sharing. The use of process and workflow design through the UML programming language and the functional logic model E-R has become over time for me the fundamental work tool.

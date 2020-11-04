@@ -5,7 +5,7 @@ lang: it
 ref: massimo-canducci
 permalink: /it/chi-siamo/bio/massimo-canducci
 image: /assets/images/headshots/massimo-canducci.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Chief Innovation Officer del Gruppo Engineering Faculty Global di Singularity

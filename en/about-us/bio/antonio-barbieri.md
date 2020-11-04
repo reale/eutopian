@@ -5,7 +5,7 @@ lang: en
 ref: antonio-barbieri
 permalink: /en/about-us/bio/antonio-barbieri
 image: /assets/images/headshots/antonio-barbieri.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Project Manager at [AgID](https://www.agid.gov.it/), where he supports the

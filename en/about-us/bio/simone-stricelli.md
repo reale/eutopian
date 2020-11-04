@@ -5,7 +5,7 @@ lang: en
 ref: simone-stricelli
 permalink: /en/about-us/bio/simone-stricelli
 image: /assets/images/headshots/simone-stricelli.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 April 10, 1989: these are the only formalities. I was born as a creative among school desks. Partly out of spirit of escape, partly out my own disposition. After finishing high school I attended the MIT Open Courses where I learned the basics of strategic marketing and brand management declined on the digital sector.

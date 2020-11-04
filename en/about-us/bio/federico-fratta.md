@@ -5,7 +5,7 @@ lang: en
 ref: federico-fratta
 permalink: /en/about-us/bio/federico-fratta
 image: /assets/images/headshots/federico-fratta.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Entrepreneur in the digital sector with over 20 years of experience in the

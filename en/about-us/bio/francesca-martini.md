@@ -5,7 +5,7 @@ lang: en
 ref: francesca-martini
 permalink: /en/about-us/bio/francesca-martini
 image: /assets/images/headshots/francesca-martini.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 È stata assessore all'innovazione del comune di Livorno dal 2014 al 2019.

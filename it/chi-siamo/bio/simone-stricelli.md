@@ -5,7 +5,7 @@ lang: it
 ref: simone-stricelli
 permalink: /it/chi-siamo/bio/simone-stricelli
 image: /assets/images/headshots/simone-stricelli.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 10 aprile 1989, queste sono le uniche formalità. Nasco come creativo tra i banchi di scuola. Un po’ per spirito di evasione, un po’ per indole. Dopo aver terminato il liceo classico ho partecipato agli Open Course del MIT dove ho appreso le basi del marketing strategico e del brand management declinate sul settore digitale.

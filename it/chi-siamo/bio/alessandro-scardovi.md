@@ -5,7 +5,7 @@ lang: it
 ref: alessandro-scardovi
 permalink: /it/chi-siamo/bio/alessandro-scardovi
 image: /assets/images/headshots/alessandro-scardovi.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Ingegnere gestionale con la passione per l’innovazione e l’arte classica, nella mia giornata ideale potete trovarmi ad ammirare un’opera di Chagall dopo aver progettato soluzioni di business che abbiano l’ambizione di rompere gli schemi.

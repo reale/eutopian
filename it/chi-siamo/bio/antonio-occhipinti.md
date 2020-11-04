@@ -5,7 +5,7 @@ lang: it
 ref: antonio-occhipinti
 permalink: /it/chi-siamo/bio/antonio-occhipinti
 image: /assets/images/headshots/antonio-occhipinti.png
-child_of_ref: team
+child_of_ref: board
 ---
 
 Laurea triennale in Ingegneria Elettronica conseguita presso l'Università degli studi di Pisa e Master in Business Administration presso la Luiss Business School.

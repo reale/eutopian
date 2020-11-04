@@ -5,7 +5,7 @@ lang: it
 ref: federico-fratta
 permalink: /it/chi-siamo/bio/federico-fratta
 image: /assets/images/headshots/federico-fratta.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Imprenditore nel settore digitale con oltre 20 anni di esperienza nella

@@ -5,7 +5,7 @@ lang: en
 ref: claudia-morelli
 permalink: /en/about-us/bio/claudia-morelli
 image: /assets/images/headshots/claudia-morelli.png
-child_of_ref: team
+child_of_ref: board
 ---
 
 *"A belief among many doubts: digital connects us to the future"*

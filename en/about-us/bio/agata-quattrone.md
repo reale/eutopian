@@ -5,7 +5,7 @@ lang: en
 ref: agata-quattrone
 permalink: /en/about-us/bio/agata-quattrone
 image: /assets/images/headshots/agata-quattrone.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Engineer, PhD in Transport and Logistics Engineering. Expert in Digital Transformation, Smart City Policies and Innovation.

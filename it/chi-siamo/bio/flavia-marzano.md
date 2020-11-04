@@ -5,7 +5,7 @@ lang: it
 ref: flavia-marzano
 permalink: /it/chi-siamo/bio/flavia-marzano
 image: /assets/images/headshots/flavia-marzano.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Informatica, supporta Pubbliche Amministrazioni e Imprese per la trasformazione digitale.

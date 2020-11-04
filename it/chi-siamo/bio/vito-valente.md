@@ -5,7 +5,7 @@ lang: it
 ref: vito-valente
 permalink: /it/chi-siamo/bio/vito-valente
 image: /assets/images/headshots/vito-valente.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Laureato in matematica presso la prima università di Napoli, è insegnante di matematica e fisica in un liceo della realtà campana.

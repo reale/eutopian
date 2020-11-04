@@ -5,7 +5,7 @@ lang: it
 ref: michele-leone
 permalink: /it/chi-siamo/bio/michele-leone
 image: /assets/images/headshots/michele-leone.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Digital Media Specialist e Project Designer/Manager di progetti europei presso l'Agenzia per l'Italia Digitale (AGID), membro di "UX / UI Expert Group" presso la Commissione europea per il progetto CEF-eID (eIDAS), dove collaboro allo sviluppo di progetti innovativi e creativi per la Pubblica Amministrazione attraverso la creazione di partnership tra aziende pubbliche e private per creare innovazione e sostenibilità con progetti Digital per gli Stati membri europei per per le PAC e PAL italiane.

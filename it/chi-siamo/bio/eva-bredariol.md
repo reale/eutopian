@@ -5,7 +5,7 @@ lang: it
 ref: eva-bredariol
 permalink: /it/chi-siamo/bio/eva-bredariol
 image: /assets/images/headshots/eva-bredariol.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Avvocato, Ph.D. in Diritto Internazionale, Diritto Privato e del Lavoro—indirizzo in Diritto Privato nella dimensione europea—con tesi sulle reti di impresa.

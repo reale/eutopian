@@ -5,7 +5,7 @@ lang: en
 ref: antonio-occhipinti
 permalink: /en/about-us/bio/antonio-occhipinti
 image: /assets/images/headshots/antonio-occhipinti.png
-child_of_ref: team
+child_of_ref: board
 ---
 
 Bachelor's degree in Electronic Engineering at the University of Pisa and Master in Business Administration at Luiss Business School.

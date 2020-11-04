@@ -5,7 +5,7 @@ lang: it
 ref: federica-meta
 permalink: /it/chi-siamo/bio/federica-meta
 image: /assets/images/headshots/federica-meta.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Giornalista, specializzata in economia digitale con un focus sulla trasformazione del lavoro e sulle tecnologie 4.0. Ha iniziato la sua carriera occupandosi di cultura e spettacoli, con una particolare attenzione alla multimedialità e al ruolo che le tecnologie svolgono nel modo di offrire ed erogare servizi. Redattrice di CorCom dal 2007, in precedenza ha collaborato con vari settimanali e agenzie di stampa.

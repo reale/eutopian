@@ -5,7 +5,7 @@ lang: it
 ref: roberto-alma
 permalink: /it/chi-siamo/bio/roberto-alma
 image: /assets/images/headshots/roberto-alma.png
-child_of_ref: team
+child_of_ref: board
 ---
 
 Fondatore di KBL Law, Roberto Alma assiste imprese, fondi di investimento ed investitori privati in materia di Diritto Commerciale e Societario, M&A ed Operazioni Straordinarie, Real Estate, Diritto dell'Informatica e delle Nuove Tecnologie, Diritto della Privacy e Data Protection, Proprietà Intellettuale.

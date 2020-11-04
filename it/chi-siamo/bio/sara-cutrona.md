@@ -5,7 +5,7 @@ lang: it
 ref: sara-cutrona
 permalink: /it/chi-siamo/bio/sara-cutrona
 image: /assets/images/headshots/sara-cutrona.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Laureata in Scienze Internazionali e Diplomatiche all’Università di Bologna – Campus di Forlì, con

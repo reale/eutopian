@@ -5,7 +5,7 @@ lang: en
 ref: fabio-francesco-franco
 permalink: /en/about-us/bio/fabio-francesco-franco
 image: /assets/images/headshots/fabio-francesco-franco.png
-child_of_ref: team
+child_of_ref: board
 ---
 
 A lawyer and a dreamer, "loaned" to the startup world and never returned. He always carries a copy of *Startup Law* with him and likes to blend the time-honoured tradition of law with the modernity of startups.

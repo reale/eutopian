@@ -5,7 +5,7 @@ lang: en
 ref: roberto-reale
 permalink: /en/about-us/bio/roberto-reale
 image: /assets/images/headshots/roberto-reale.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 I am an Innovation Manager with an international experience in e-government projects and digital transformation of the public sector both at the EU and at the national level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities) as well as 20 years of experience in ICT engineering and management, business and financial planning, strategic development in diverse and multistakeholder environments.

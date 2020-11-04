@@ -5,7 +5,7 @@ lang: it
 ref: fabio-francesco-franco
 permalink: /it/chi-siamo/bio/fabio-francesco-franco
 image: /assets/images/headshots/fabio-francesco-franco.png
-child_of_ref: team
+child_of_ref: board
 ---
 
 Avvocato e sognatore, prestato al mondo delle startup (e mai più restituito). Ha sempre con sé una copia di “Diritto delle Startup” e ama conciliare il vintage dell’avvocatura con la modernità delle startup.

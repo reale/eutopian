@@ -5,7 +5,7 @@ lang: en
 ref: federica-meta
 permalink: /en/about-us/bio/federica-meta
 image: /assets/images/headshots/federica-meta.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Journalist, specialised in digital economy with a focus on job transformation and 4.0 technologies. She began her career dealing with culture and entertainment, with particular attention to multimedia and the role that technologies play in the way they offer and deliver services. CorCom editor since 2007, previously collaborated with several weekly magazines and news agencies.

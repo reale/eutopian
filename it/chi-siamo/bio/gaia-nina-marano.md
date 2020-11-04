@@ -5,7 +5,7 @@ lang: it
 ref: gaia-nina-marano
 permalink: /it/chi-siamo/bio/gaia-nina-marano
 image: /assets/images/headshots/gaia-nina-marano.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Avvocato specializzato in diritto del lavoro con focus in diritto dell’economia e  dell’impresa, collabora presso uno studio boutique di diritto del lavoro di Roma.

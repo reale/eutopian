@@ -5,7 +5,7 @@ lang: en
 ref: clara-silvano
 permalink: /en/about-us/bio/clara-silvano
 image: /assets/images/headshots/clara-silvano.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 She graduated from the School of Law of Padua in 2015, and is now completing her PhD in administrative law at the same university.

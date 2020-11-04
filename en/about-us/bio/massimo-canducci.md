@@ -5,7 +5,7 @@ lang: en
 ref: massimo-canducci
 permalink: /en/about-us/bio/massimo-canducci
 image: /assets/images/headshots/massimo-canducci.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Chief Innovation Officer of the Engineering Group Global Faculty of Singularity

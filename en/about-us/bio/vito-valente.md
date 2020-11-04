@@ -5,7 +5,7 @@ lang: en
 ref: vito-valente
 permalink: /en/about-us/bio/vito-valente
 image: /assets/images/headshots/vito-valente.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Graduated in mathematics at the first university of Naples, he is a teacher of mathematics and physics in a high school in Campania.

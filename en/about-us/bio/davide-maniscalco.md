@@ -5,7 +5,7 @@ lang: en
 ref: davide-maniscalco
 permalink: /en/about-us/bio/davide-maniscalco
 image: /assets/images/headshots/davide-maniscalco.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Davide Maniscalco, cassation lawyer, has gained significant experience in commercial and corporate law, as well as in business contracts, in corporate groups in the wholesale and retail trading, logistics, transport & management sector, also taking on important management roles.

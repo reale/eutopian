@@ -5,7 +5,7 @@ lang: it
 ref: tanglegence
 permalink: /it/chi-siamo/bio/tanglegence
 image: /assets/images/headshots/tanglegence.png
-child_of_ref: team
+child_of_ref: board
 ---
 
 Accompagniamo pubbliche amministrazioni e imprese in Europa attraverso il complesso percorso della trasformazione digitale senza investimenti significativi, disruption o complessità.

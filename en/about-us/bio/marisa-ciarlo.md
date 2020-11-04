@@ -5,7 +5,7 @@ lang: en
 ref: marisa-ciarlo
 permalink: /en/about-us/bio/marisa-ciarlo
 image: /assets/images/headshots/marisa-ciarlo.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 She graduated in Economics and Business Management from Luiss Guido Carli in 2010, then she started her professional career in the consultancy sector. From 2013 to 2015 she worked at Infratel Italia Spa (MISE in-house company), with the role of sole Head of the "Special Projects" function reporting directly to the CEO. She also carried out tutoring activities for the Corporate MBA provided by the LUISS Business School at the same company.

@@ -5,7 +5,7 @@ lang: en
 ref: flavia-marzano
 permalink: /en/about-us/bio/flavia-marzano
 image: /assets/images/headshots/flavia-marzano.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 A computer scientist, Flavia supports public administration and businesses on digital transformation.

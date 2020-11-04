@@ -5,7 +5,7 @@ lang: en
 ref: gaia-nina-marano
 permalink: /en/about-us/bio/gaia-nina-marano
 image: /assets/images/headshots/gaia-nina-marano.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Lawyer, specialised in labour law with a focus on business and business law. She collaborates with a boutique law firm in Rome.

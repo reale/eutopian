@@ -5,7 +5,7 @@ lang: en
 ref: alessandro-scardovi
 permalink: /en/about-us/bio/alessandro-scardovi
 image: /assets/images/headshots/alessandro-scardovi.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Management engineer with a passion for innovation and classic art, on my ideal day you can find me admiring a work by Chagall after designing business solutions that have the ambition to "break the mold".

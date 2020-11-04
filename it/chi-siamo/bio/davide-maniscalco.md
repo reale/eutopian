@@ -5,7 +5,7 @@ lang: it
 ref: davide-maniscalco
 permalink: /it/chi-siamo/bio/davide-maniscalco
 image: /assets/images/headshots/davide-maniscalco.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 L’avv. cassazionista Davide Maniscalco ha maturato significativa esperienza in diritto commerciale e societario, nonché nella contrattualistica d’impresa, in gruppi societari del settore wholesale and retail trading, logistic, transport & management, assumendo peraltro importanti ruoli dirigenziali.

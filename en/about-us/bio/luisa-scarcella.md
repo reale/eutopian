@@ -5,7 +5,7 @@ lang: en
 ref: luisa-scarcella
 permalink: /en/about-us/bio/luisa-scarcella
 image: /assets/images/headshots/luisa-scarcella.jpg
-child_of_ref: team
+child_of_ref: board
 ---
 
 Luisa Scarcella works as research Associate at the International Fiscal Association. Luisa is also coordinator of the Finance, Law and Economics working group of the Young Scholars Initiative INET (Institute for New Economic Thinking) and research associate at the Center for Blockchain Technologies of the UCL University of London.
