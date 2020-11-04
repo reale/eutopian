@@ -4,7 +4,7 @@ title: Roberta Centonze
 lang: en
 ref: roberta-centonze
 permalink: /en/about-us/bio/roberta-centonze
-#image: /assets/images/headshots/roberta-centonze.jpg
+image: /assets/images/headshots/roberta-centonze.jpg
 child_of_ref: restart-webinar
 ---
 
