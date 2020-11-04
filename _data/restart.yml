@@ -270,10 +270,32 @@ webinars:
     - title: "Digital Media Literacy: Building Resilience"
       ref: digital-media-literacy
       lang: en
-      date: 09 November 2020 21:00-22:00 CEST
-      coordinator: Flavia Marzano
+      date: 09 November 2020 21:00-22:00 CET
+      coordinator: Roberta Centonze
       speaker: Tomas Kazulenas
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-digital-media-literacy-building-resilience-127685156741
       image: jpg
+
+    - title: "Infodemia: come combattere il virus che ha contagiato l’informazione?"
+      ref: infodemia-come-combattere-il-virus-che-ha-contagiato-linformazione
+      lang: it
+      date: 16 Novembre 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Angelica Giambelluca
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-infodemia-come-combattere-il-virus-che-ha-contagiato-linformazione-127846316775
+      image:
+
+    - title: "Social science 4 Journalism"
+      ref: social-science-4-journalism
+      lang: en
+      date: 23 November 2020 21:00-22:00 CET
+      coordinator: Roberto Reale
+      speaker: Francesco Piccinelli
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-social-science-4-journalism-127853231457
+      image:
