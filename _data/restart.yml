@@ -287,7 +287,7 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-infodemia-come-combattere-il-virus-che-ha-contagiato-linformazione-127846316775
-      image:
+      image:  jpg
 
     - title: "Social science 4 Journalism"
       ref: social-science-4-journalism
@@ -298,4 +298,4 @@ webinars:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-social-science-4-journalism-127853231457
-      image:
+      image: jpg
