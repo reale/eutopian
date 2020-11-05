@@ -1,4 +1,5 @@
-{% for webinar in site.data.restart.webinars %}
+{% assign sorted =  site.data.restart.webinars| reverse %}
+{% for webinar in sorted %}
 <div class="card border rounded mb-3">
     {% if webinar.image != nil and webinar.image != "" %}
     <img class="card-img-top" src="/assets/images/restart/{{ webinar.ref }}.{{ webinar.image }}" alt="{{ webinar.title }}">
