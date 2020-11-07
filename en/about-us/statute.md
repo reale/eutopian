@@ -62,7 +62,7 @@ For these purposes:
 
 - the promotion of active participation in the processes of democratic innovation and digitalization, deepening technological, economic, social, ethical, managerial and cooperation logic aspects;
 
-- the policymaker engagement and the dialogue with the institutions and with the intermediate bodies of the democratic debate (parties, unions, think tanks), and in particular the diffusion of democratic innovation among administrators and in the Public Administration;
+- the policymaker engagement and the dialogue with European, national and regional institutions and with the intermediate bodies of the democratic debate (parties, unions, think tanks), and in particular the diffusion of democratic innovation among administrators and in the Public Administration;
 
 - the sharing of possible benefits, opportunities and cooperation models that can arise from innovation processes;
 
@@ -120,7 +120,7 @@ For these purposes:
 
 7.d. In order to find useful funds for the best pursuit of social activities, the Association may carry out fundraising activities, also through internet portals and / or through the adoption of innovative technologies, in compliance with the conditions set out in art. 7 of Legislative Decree 117/2017.
 
-### Art. 8 - Founding members, supporting members and ordinary members
+### Art. 8 - Founding members, supporting members, ordinary members and members by right
 
 8.a. The Association is open to diverse degrees and multiple forms of participation.
 
@@ -133,6 +133,8 @@ For these purposes:
 - Ordinary members: all those who do not fall into one of the previous categories.
 
 - Honorary members: they are people nominated by the Assembly for particular merits acquired in favor of the Association or people of clear fame in the sphere of the competences covered by the Association's activity.
+
+- Members by right: they are natural persons who hold senior positions or functions in bodies of constitutional relevance and in the central administrations of the State in the areas of interest for the Association. The list of members by right is defined by specific Regulations to be renewed each time the Board of Directors deems it necessary and in any case not less than once every five years.
 
 8.c. Natural or legal persons who, sharing the aims of the Association, undertake to collaborate in their achievement, in compliance with this Statute, the Regulations and the resolutions of the Bodies of the Association, can acquire the quality of members, assuming the commitment of contribute, in a spirit of solidarity, to the achievement of social goals.
 
@@ -172,7 +174,7 @@ For these purposes:
 
 ### Art. 10 - Corporate bodies
 
-10.a. The Association's corporate bodies are: the Assembly; the Board of Directors; President; the Vice President; the Treasurer; the Secretary; the Control Body; the Auditor; the Scientific Committee; Thematic Commissions.
+10.a. The Association's corporate bodies are: the Assembly; the Board of Directors; President; the Vice President; the Director General; the Treasurer; the Secretary; the Control Body; the Auditor; the Scientific Committee; Thematic Commissions.
 
 ### Art. 11 - Assembly
 
@@ -275,6 +277,18 @@ For these purposes:
 13.c. In case of need and urgency, it takes the measures of competence of the Board of Directors, subjecting them to ratification at the first useful meeting.
 
 13.d. In case of absence, impediment, delegation or termination, the relative functions are carried out by the Vice President. The signature of the Vice President is authentic, before third parties, of the absence or impediment of the President.
+
+### Art. 13bis - Director General
+
+13bis.a. The Director General ensures the proper functioning of the Association, exercising for this purpose the functions of direction, supervision and control over the entire social activity and reporting to the President and the Members.
+
+13bis.b. The Director General is appointed by the Board of Directors by proposal of the President. The assignment lasts for five years and can be renewed. The duties and functions of the General Manager are determined by specific Regulations.
+
+
+13bis.c. Cannot be appointed as Director General: those who have received a sentence, even if not definitive, with a prison sentence of not less than one year for a non-culpable crime, or a prison sentence of not less than six months for non-culpable crime in the capacity of public official o with abuse of powers or violation of duties inherent to a public function, except for the provisions of the second paragraph of article 166 of the Criminal Code; those who are subjected to criminal proceedings for a crime for which compulsory arrest in flagrant status is envisaged; those who have been subjected, even with a non-definitive provision, to a preventive measure, without prejudice to the effects of rehabilitation, provided for by article 15 of the law of 3 August 1988, n. 55; those who are subjected to prison security or probation; those who have a dispute with the Association; the Association's members by right, as well as the Mayor, the Councilors and Councilors of the Municipality where the Association is based.
+In the event that, following the appointment, the Director General finds themself in one of the conditions listed above, the Board of Directors resolves, on the proposal of the President, the forfeiture of the Director from office.
+
+13bis.d. The Director General can be revoked by the person who appointed them only for serious damage caused to the Association itself, for serious reasons of violations of the laws in force, the Statute and the regulation that determines its functions and duties.
 
 ### Art. 14 - Secretary
 
