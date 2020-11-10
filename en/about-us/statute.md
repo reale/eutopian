@@ -10,6 +10,8 @@ order: 4
 
 **WARNING: The following English translation of the Statute is for informational purposes only. The only legally binding text is the [Italian](/it/chi-siamo/statuto) one.**
 
+[Download Constitution and Statute (in Italian)](/assets/docs/Eutopian_Atto_Costitutivo_Statuto_Depositato.pdf)
+
 ### Art. 1 - Constitution and denomination
 
 1.a. The unrecognized association called “**EUTOPIAN - EUROPEAN OBSERVATORY ON DEMOCRATIC INNOVATION**” is established.

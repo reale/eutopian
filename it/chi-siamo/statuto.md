@@ -8,6 +8,8 @@ child_of_ref: about-us
 order: 4
 ---
 
+[Scarica Atto Costitutivo e Statuto](/assets/docs/Eutopian_Atto_Costitutivo_Statuto_Depositato.pdf)
+
 ### Art. 1 – Costituzione e denominazione
 
 1.a. È costituita l’Associazione non riconosciuta denominata “**EUTOPIAN –
