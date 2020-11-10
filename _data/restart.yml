@@ -299,3 +299,15 @@ webinars:
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-social-science-4-journalism-127853231457
       image: jpg
+
+    - title: "Etica dell'innovazione nell'economia digitale"
+      ref: etica-innovazione
+      lang: it
+      date: 30 Novembre 2020 21:00-22:30
+      coordinator: Roberto Reale
+      speaker: Fulvio Ananasso
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-etica-dellinnovazione-nelleconomia-digitale-128316561289
+      image: jpg
+
