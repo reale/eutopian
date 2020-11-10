@@ -14,4 +14,4 @@ Lithuania is one of the leading countries in Europe in countering disinformation
 
 The aim of this training session is to encourage people to think critically, become more media literate, to build media literacy and the ability to operate in an environment full of propaganda messages. The speaker will share the exceptional experience in countering disinformation and teach you how to think critically.
 
-EUtopian therefore is partnering with the [Civic Resilience Initiative (CRI)](https://cri.lt/), a Lithuanian NGO specializing in research on societal resilience, to offer a webinar during which practical methods in recognizing and countering disinformation online will be discussed.
+Eutopian therefore is partnering with the [Civic Resilience Initiative (CRI)](https://cri.lt/), a Lithuanian NGO specializing in research on societal resilience, to offer a webinar during which practical methods in recognizing and countering disinformation online will be discussed.
