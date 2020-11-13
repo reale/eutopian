@@ -1,6 +1,12 @@
 ## Partners
 
 stakeholders:
+    - name: "ASSIF Associazione Italiana Fundraiser"
+      ref: assif
+      logo: png
+      links:
+          agreement: /assets/docs/Eutopian_ASSIF_Memorandum.pdf
+          website: http://www.assif.it/
     - name: "Associazione Stampa Romana"
       ref: stampa-romana
       logo: jpg
