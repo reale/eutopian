@@ -3,7 +3,7 @@ layout: page
 title: "Il Lobbying diventa Digital: come gestire le attività di Public Affairs in tempi di Crisis Management"
 lang: it
 ref: digital-lobbying
-permalink: /it/restart/webinar/digital-lobbying
+permalink: /it/restart/2020/digital-lobbying
 image: /assets/images/restart/digital-lobbying.jpg
 child_of_ref: restart-2020
 ---

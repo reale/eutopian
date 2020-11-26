@@ -3,7 +3,7 @@ layout: page
 title: "Innovazione e “nuove” tecnologie. Sì, ma quali? Prima modelliamo i processi"
 lang: it
 ref: innovazione-nuove-tecnologie
-permalink: /it/restart/webinar/innovazione-nuove-tecnologie
+permalink: /it/restart/2020/innovazione-nuove-tecnologie
 image: /assets/images/restart/innovazione-nuove-tecnologie.jpg
 child_of_ref: restart-2020
 ---

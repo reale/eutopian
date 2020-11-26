@@ -3,7 +3,7 @@ layout: page
 title: "Blockchain: casi d'uso e sfide future"
 lang: it
 ref: blockchain-casi-duso-e-sfide-future
-permalink: /it/restart/webinar/blockchain-casi-duso-e-sfide-future
+permalink: /it/restart/2020/blockchain-casi-duso-e-sfide-future
 image: /assets/images/restart/blockchain-casi-duso-e-sfide-future.jpg
 child_of_ref: restart-2020
 ---

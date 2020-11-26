@@ -3,7 +3,7 @@ layout: page
 title: "Identità Ubique. Verso un'antropologia non antropocentrica"
 lang: it
 ref: identita-ubique
-permalink: /it/restart/webinar/identita-ubique
+permalink: /it/restart/2020/identita-ubique
 video: https://www.youtube.com/embed/QzNbOSZUZj0
 child_of_ref: restart-2020
 ---

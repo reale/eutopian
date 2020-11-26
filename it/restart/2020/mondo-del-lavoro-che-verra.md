@@ -3,7 +3,7 @@ layout: page
 title: "Il mondo del lavoro che verrà"
 lang: it
 ref: mondo-del-lavoro-che-verra
-permalink: /it/restart/webinar/mondo-del-lavoro-che-verra
+permalink: /it/restart/2020/mondo-del-lavoro-che-verra
 image: /assets/images/restart/mondo-del-lavoro-che-verra.png
 child_of_ref: restart-2020
 ---

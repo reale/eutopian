@@ -3,7 +3,7 @@ layout: page
 title: "Gestione dell'emergenza da COVID-19 e soluzioni tecnologiche di contact tracing"
 lang: it
 ref: contact-tracing
-permalink: /it/restart/webinar/contact-tracing
+permalink: /it/restart/2020/contact-tracing
 image: /assets/images/restart/contact-tracing.jpg
 child_of_ref: restart-2020
 ---

@@ -3,7 +3,7 @@ layout: page
 title: "Infodemia: come combattere il virus che ha contagiato l’informazione?"
 lang: it
 ref: infodemia-come-combattere-il-virus-che-ha-contagiato-linformazione
-permalink: /it/restart/webinar/infodemia-come-combattere-il-virus-che-ha-contagiato-linformazione
+permalink: /it/restart/2020/infodemia-come-combattere-il-virus-che-ha-contagiato-linformazione
 image: /assets/images/restart/infodemia-come-combattere-il-virus-che-ha-contagiato-linformazione.jpg
 child_of_ref: restart-2020
 ---

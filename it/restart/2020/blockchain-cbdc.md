@@ -3,7 +3,7 @@ layout: page
 title: "Blockchain e Valute digitali delle Banche centrali"
 lang: it
 ref: blockchain-cbdc
-permalink: /it/restart/webinar/blockchain-cbdc
+permalink: /it/restart/2020/blockchain-cbdc
 image: /assets/images/restart/blockchain-cbdc.jpg
 child_of_ref: restart-2020
 ---

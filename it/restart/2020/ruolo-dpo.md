@@ -3,7 +3,7 @@ layout: page
 title: "Il ruolo del DPO tra GDPR ed indicazioni operative"
 lang: it
 ref: ruolo-dpo
-permalink: /it/restart/webinar/ruolo-dpo
+permalink: /it/restart/2020/ruolo-dpo
 image: /assets/images/restart/ruolo-dpo.jpg
 child_of_ref: restart-2020
 ---

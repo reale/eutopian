@@ -3,7 +3,7 @@ layout: page
 title: "Lo spazio di condivisione sui servizi pubblici digitali: strumenti e modalità operative"
 lang: it
 ref: servizi-pubblici-digitali
-permalink: /it/restart/webinar/servizi-pubblici-digitali
+permalink: /it/restart/2020/servizi-pubblici-digitali
 image: /assets/images/restart/servizi-pubblici-digitali.jpg
 child_of_ref: restart-2020
 ---
