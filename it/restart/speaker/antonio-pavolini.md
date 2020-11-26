@@ -5,7 +5,7 @@ lang: it
 ref: antonio-pavolini
 permalink: /it/restart/speaker/antonio-pavolini
 image:
-child_of_ref: restart-webinar
+child_of_ref: restart-2020
 ---
 
 Antonio Pavolini è impegnato da diversi anni nell’esplorazione dei nuovi trend e modelli di business dell'industria dei

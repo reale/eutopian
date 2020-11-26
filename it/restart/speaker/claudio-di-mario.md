@@ -5,7 +5,7 @@ lang: it
 ref: claudio-di-mario
 permalink: /it/restart/speaker/claudio-di-mario
 image: /assets/images/headshots/claudio-di-mario.jpg
-child_of_ref: restart-webinar
+child_of_ref: restart-2020
 ---
 
 Laureato in ingegneria elettrica presso l’Università di Roma “La Sapienza”, si è successivamente specializzato con un Master in ingegneria dell’impresa e ha conseguito un Dottorato di ricerca (Ph.D) in Ingegneria Economico-Gestionale presso l’Università di Roma “Tor Vergata”. Dal 1998 al 2001 ha lavorato presso Siemens SpA a Roma e a Berlino. Dal 2001 al 2005 è stato project manager presso il Gestore della Rete di Trasmissione Nazionale (GRTN) dove ha lavorato presso la Direzione Ingegneria dei Sistemi e successivamente presso la Direzione Rete.

@@ -5,7 +5,7 @@ lang: it
 ref: massimo-chiriatti
 permalink: /it/restart/speaker/massimo-chiriatti
 image: /assets/images/headshots/massimo-chiriatti.jpg
-child_of_ref: restart-webinar
+child_of_ref: restart-2020
 ---
 
 Tecnologo, collabora con Università e consorzi per eventi di formazione sull’economia

@@ -4,7 +4,7 @@ title: Gaetano Bruno
 lang: it
 permalink: /it/restart/speaker/gaetano-bruno
 image: /assets/images/headshots/gaetano-bruno.jpg
-child_of_ref: restart-webinar
+child_of_ref: restart-2020
 ---
 
 Mi piace definirmi un *umanista digitale* per avere negli anni acquisito una discreta esperienza nel document management e in particolare nella gestione della condivisione delle informazioni. Il ricorso al disegno dei processi e di workflow attraverso il linguaggio di programmazione UML ed al modello logico funzionale E-R è diventato nel tempo per me lo strumento fondamentale di lavoro.

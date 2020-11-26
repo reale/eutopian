@@ -5,7 +5,7 @@ lang: en
 ref: brando-benifei
 permalink: /en/restart/speaker/brando-benifei
 image: /assets/images/headshots/brando-benifei.jpg
-child_of_ref: restart-webinar
+child_of_ref: restart-2020
 ---
 
 Brando Benifei, European Federalist, is from La Spezia, Italy, and is the Head of Delegation of the Italian S&D MEPs.

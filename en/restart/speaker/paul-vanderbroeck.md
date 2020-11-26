@@ -5,7 +5,7 @@ lang: en
 ref: paul-vanderbroeck
 permalink: /en/restart/speaker/paul-vanderbroeck
 image: /assets/images/headshots/paul-vanderbroeck.jpg
-child_of_ref: restart-webinar
+child_of_ref: restart-2020
 ---
 
 Dr Paul Vanderbroeck (CH/NL) studied history and sociology in the NL, France and the USA.

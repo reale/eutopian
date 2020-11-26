@@ -5,7 +5,7 @@ lang: it
 ref: nicola-catani
 permalink: /it/restart/speaker/nicola-catani
 image: /assets/images/headshots/nicola-catani.jpg
-child_of_ref: restart-webinar
+child_of_ref: restart-2020
 ---
 
 Sono della generazione dei Millennials – quelli nati tra il 1981 e il 1996, sul finire dello scorso millennio – nati in un mondo ancora prevalentemente analogico, in un’Europa ancora divisa. Tra i primi a partecipare all’Erasmus, a diventare SMART, flessibili e soprattutto digitali.

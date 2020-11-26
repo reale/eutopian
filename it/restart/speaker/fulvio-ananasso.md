@@ -5,7 +5,7 @@ lang: it
 ref: fulvio-ananasso
 permalink: /it/restart/speaker/fulvio-ananasso
 image: /assets/images/headshots/fulvio-ananasso.jpg
-child_of_ref: restart-webinar
+child_of_ref: restart-2020
 ---
 
 Oltre 40 anni di esperienza internazionale nelle telecomunicazioni/ICT, con
