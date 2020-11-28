@@ -332,3 +332,14 @@ webinars:
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-il-ruolo-del-security-manager-nel-business-continuity-management-130840205577
       image: png
+
+    - title: "Di quale Design vogliamo parlare davvero?"
+      ref: di-quale-design-vogliamo-parlare-davvero
+      lang: it
+      date: 17 Dicembre 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Rosanna Brambilla
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-di-quale-design-vogliamo-parlare-davvero-130840398153
+      image: jpg
