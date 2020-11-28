@@ -321,3 +321,14 @@ webinars:
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-un-new-deal-digitale-130839627849
       image: jpg
+
+    - title: "Il ruolo del security manager nel business continuity management"
+      ref: ruolo-security-manager
+      lang: it
+      date: 14 Dicembre 2020 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Diego Demetrio
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-il-ruolo-del-security-manager-nel-business-continuity-management-130840205577
+      image: png
