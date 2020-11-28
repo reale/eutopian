@@ -311,3 +311,13 @@ webinars:
       eventbrite: https://www.eventbrite.it/e/biglietti-etica-dellinnovazione-nelleconomia-digitale-128316561289
       image: jpg
 
+    - title: "Un New Deal Digitale: come impiegare al meglio la digitalizzazione al servizio delle nostre città"
+      ref: new-deal-digitale
+      lang: it
+      date: 7 Dicembre 2020 21:00-22:00
+      coordinator: Agata Quattrone
+      speaker: Raffaele Gareri
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite: https://www.eventbrite.it/e/biglietti-un-new-deal-digitale-130839627849
+      image: jpg
