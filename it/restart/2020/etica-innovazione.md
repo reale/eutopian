@@ -8,7 +8,7 @@ image: /assets/images/restart/etica-innovazione.jpg
 child_of_ref: restart-2020
 ---
 
-L'Economia Digitale è dominata dalla Scienza dei Dati, una sorta di 5^a^ rivoluzione IT dopo il *mainframe computing* (anni 1960), il *personal computer* (anni 1980), internet / web 1.0 (anni 1990) e web 2.0 / *social networking* (anni 2000). Quella che Luciano Floridi definisce la 4a rivoluzione industriale dominata dall'*onlife* e della *hyperstoria*.
+L'Economia Digitale è dominata dalla Scienza dei Dati, una sorta di 5^a rivoluzione IT dopo il *mainframe computing* (anni 1960), il *personal computer* (anni 1980), internet / web 1.0 (anni 1990) e web 2.0 / *social networking* (anni 2000). Quella che Luciano Floridi definisce la 4a rivoluzione industriale dominata dall'*onlife* e della *hyperstoria*.
 
 Le soluzioni *internet of things* (IoT), *big data, cognitive computing, artificial intelligence* (AI), *blockchain*, ... pongono nuove sfide etiche relativamente alla profilatura d'utente e gestione dei dati -- personali e non. Citando John Naisbitt «*Per la prima volta abbiamo un'economia basata su una risorsa chiave - le informazioni - che non solo è rinnovabile, ma che cresce con il suo utilizzo. Non si corre il rischio che si esaurisca, ma di **esserne sopraffatti***»
 
