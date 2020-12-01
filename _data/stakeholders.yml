@@ -42,3 +42,9 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_P4C_Protocollo_Intesa.pdf
           website: http://prepareforchange.it/
+    - name: "Trustless Computing Association"
+      ref: tca
+      logo: jpg
+      links:
+          agreement: /assets/docs/Eutopian_TCA_Memorandum_of_Understanding.pdf
+          website: https://www.trustlesscomputing.org/
