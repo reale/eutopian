@@ -1,4 +1,4 @@
-{% assign sorted =  site.data.restart.2020 | reverse %}
+{% assign sorted =  site.data.restart.2021 | reverse %}
 {% for webinar in sorted %}
 <div class="card border rounded mb-3">
     {% if webinar.image != nil and webinar.image != "" %}
@@ -6,7 +6,7 @@
     {% endif %}
     <div class="card-body">
         {% if webinar.ref %}
-        <a href="/{{ webinar.lang }}/restart/2020/{{ webinar.ref }}" class="card-link"><h5 class="card-title">{{ webinar.title }}</h5></a>
+        <a href="/{{ webinar.lang }}/restart/2021/{{ webinar.ref }}" class="card-link"><h5 class="card-title">{{ webinar.title }}</h5></a>
         {% else %}
         <h5 class="card-title">{{ webinar.title }}</h5>
         {% endif %}
