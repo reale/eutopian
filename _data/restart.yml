@@ -355,7 +355,7 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       eventbrite: https://www.eventbrite.it/e/biglietti-di-quale-design-vogliamo-parlare-davvero-130840398153
-      image: jpg
+      image: png
 
     - title: "Smart Working e PMI, scenari a confronto"
       ref: smart-working-pmi
