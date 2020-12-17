@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Di quale Design vogliamo parlare davvero?"
+title: "Di quale design vogliamo parlare davvero?"
 lang: it
 ref: di-quale-design-vogliamo-parlare-davvero
 permalink: /it/restart/2020/di-quale-design-vogliamo-parlare-davvero
