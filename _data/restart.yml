@@ -1,4 +1,16 @@
 restart-2021:
+    - title: "5G: caratteristiche, regolamentazione e opportunità"
+      ref: 5g-caratteristiche-regolamentazione-opportunita
+      lang: it
+      date: 11 Gennaio 2021 21:00-22:30
+      coordinator: Roberto Reale
+      speaker: Fulvio Ananasso
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      youtube:
+      image: png
+
     - title: "Il ruolo di Milano nello scenario delle capitali europee"
       ref: modello-milano
       lang: it
