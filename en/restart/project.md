@@ -11,7 +11,7 @@ order: 1
 
 The **#Restart** project is made up of two interconnected initiatives:
 
-* a series of [webinars](/en/restart/2020), at least on a monthly basis (with the exception of August), on the basic themes of the Association and involving, to the greatest extent possible, Italian and international experts
+* a series of webinars and live interviews ([2020](/en/restart/2020), [2021](/en/restart/2021)), on a weekly basis, on the basic themes of the Association and involving, to the greatest extent possible, Italian and international experts
 
 * a [Decalogue](/en/restart/decalogue), intended as a collaborative document published on the Association's web portal at least in Italian and English and open to contributions from all social parties; at the end of a consultation period, the Decalogue will be consolidated and shared with national and European stakeholders
 
