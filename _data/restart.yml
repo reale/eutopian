@@ -1,4 +1,4 @@
-2021:
+restart-2021:
     - title: "Il ruolo di Milano nello scenario delle capitali europee"
       ref: modello-milano
       lang: it
@@ -11,7 +11,7 @@
       youtube:
       image: png
 
-2020:
+restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
       lang: it
