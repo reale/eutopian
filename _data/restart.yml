@@ -23,6 +23,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Sostenibilità digitale"
+      ref: sostenibilita-digitale
+      lang: it
+      date: 25 Gennaio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Stefano Epifani
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      youtube:
+      image: png
+
     - title: "Unframing"
       ref: unframing
       lang: it
