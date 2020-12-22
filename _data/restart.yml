@@ -23,6 +23,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Unframing"
+      ref: unframing
+      lang: it
+      date: 28 Gennaio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Antonio Pavolini
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      youtube:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
