@@ -5,7 +5,7 @@ lang: it
 ref: francesco-paolo-micozzi
 permalink: /it/restart/speaker/francesco-paolo-micozzi
 image: /assets/images/headshots/francesco-paolo-micozzi.jpg
-child_of_ref: restart-2020
+child_of_ref: restart
 ---
 
 Francesco Paolo Micozzi, Avvocato cassazionista e professore di Informatica

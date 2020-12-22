@@ -5,7 +5,7 @@ lang: it
 ref: raffaele-gareri
 permalink: /it/restart/speaker/raffaele-gareri
 image: /assets/images/headshots/raffaele-gareri.jpg
-child_of_ref: restart-2020
+child_of_ref: restart
 ---
 
 Raffaele Gareri, ingegnere elettronico, Executive Master in Management degli Enti Locali. Ha maturato esperienza di sviluppo software nel settore privato per circa 7 anni, e per oltre 20 anni nella pubblica amministrazione locale sui temi dell'innovazione, dell'e-government e del controllo di gestione, ricoprendo vari incarichi dirigenziali. Ha svolto il ruolo di presidente della Associazione ENTO (*European Network for Training Organisations*) del Consiglio d'Europa e recentemente quello di Fondatore e Presidente di *The Smart City Association Italy*.   

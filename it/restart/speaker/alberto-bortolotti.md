@@ -5,7 +5,7 @@ lang: it
 ref: alberto-bortolotti
 permalink: /it/restart/speaker/alberto-bortolotti
 image: /assets/images/headshots/alberto-bortolotti.jpg
-child_of_ref: restart-2021
+child_of_ref: restart
 ---
 
 Alberto Bortolotti (1994) laureato in Architettura e Disegno Urbano al Politecnico di Milano, è consigliere dell’Ordine

@@ -5,7 +5,7 @@ lang: it
 ref: valerio-gallitto
 permalink: /it/restart/speaker/valerio-gallitto
 image: /assets/images/headshots/valerio-gallitto.jpg
-child_of_ref: restart-2020
+child_of_ref: restart
 ---
 
 - Awarded at the Malta Ai and Blockchain Summit as “IOT of the year” with Greenspider in 2018

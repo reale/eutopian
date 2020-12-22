@@ -5,7 +5,7 @@ lang: it
 ref: angelica-giambelluca
 permalink: /it/restart/speaker/angelica-giambelluca
 image: /assets/images/headshots/angelica-giambelluca.jpg
-child_of_ref: restart-2020
+child_of_ref: restart
 ---
 
 Da sempre appassionata di scrittura e giornalismo, sono giornalista professionista 2009. Ho mosso i miei primi passi come cronista per il Secolo XIX, Ansa e il Sole 24 Ore e negli ultimi anni, complice anche la mia esperienza come responsabile comunicazione per diverse cliniche milanesi, ho scoperto un grande interesse per il giornalismo medico scientifico.  Ho una passione innata per la buona scrittura, la scrittura etica  e rispettosa di chi scrive e di chi legge.

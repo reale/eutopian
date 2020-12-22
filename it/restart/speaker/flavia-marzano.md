@@ -5,7 +5,7 @@ lang: it
 ref: flavia-marzano
 permalink: /it/restart/speaker/flavia-marzano
 image: /assets/images/headshots/flavia-marzano.jpg
-child_of_ref: restart-2020
+child_of_ref: restart
 ---
 
 Informatica, supporta Pubbliche Amministrazioni e Imprese per la trasformazione digitale.

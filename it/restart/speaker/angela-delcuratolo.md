@@ -5,7 +5,7 @@ lang: it
 ref: angela-delcuratolo
 permalink: /it/restart/speaker/angela-delcuratolo
 image: /assets/images/headshots/angela-delcuratolo.jpg
-child_of_ref: restart-2020
+child_of_ref: restart
 ---
 
 Laurea in Psicologia Clinica nel 2011 presso l’Università degli studi di Bari ed Executive Master in Direzione del Personale nel 2018. Ha cominciato a muovere i primi passi in piccole organizzazioni presidiando singoli processi HR.

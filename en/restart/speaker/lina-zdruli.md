@@ -5,7 +5,7 @@ lang: en
 ref: lina-zdruli
 permalink: /en/restart/speaker/lina-zdruli
 image: /assets/images/headshots/lina-zdruli.jpg
-child_of_ref: restart-2020
+child_of_ref: restart
 ---
 
 Lina is passionate about using entrepreneurship, business and technology as a tool for social good.
