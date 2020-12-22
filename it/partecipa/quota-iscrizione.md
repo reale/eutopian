@@ -4,7 +4,9 @@ title: Quota di iscrizione
 description:
 lang: it
 ref: annual-fee
-permalink: /it/quota-iscrizione
+permalink: /it/partecipa/quota-iscrizione
+child_of_ref: get-involved
+order: 3
 ---
 
 La quota di iscrizione è fissata in 20 euro per il 2020. È possibile corrisponderla attraverso una delle due modalità seguenti:

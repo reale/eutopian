@@ -5,7 +5,7 @@ lang: it
 ref: membership
 permalink: /it/partecipa/diventa-socio
 child_of_ref: get-involved
-order: 1
+order: 2
 ---
 
 Per chiedere di diventare socio, compila il modulo seguente.

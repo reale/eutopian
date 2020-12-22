@@ -5,7 +5,7 @@ lang: en
 ref: membership
 permalink: /en/get-involved/become-member
 child_of_ref: get-involved
-order: 1
+order: 2
 ---
 
 In order to become a member, please fill this form.

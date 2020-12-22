@@ -5,7 +5,7 @@ lang: en
 ref: contact-us
 permalink: /en/get-involved/contact-us
 child_of_ref: get-involved
-order: 2
+order: 1
 ---
 
 Contact us by filling the following form:

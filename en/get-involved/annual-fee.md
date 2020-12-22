@@ -4,7 +4,9 @@ title: Annual Fee
 description:
 lang: en
 ref: annual-fee
-permalink: /en/annual-fee
+permalink: /en/get-involved/annual-fee
+child_of_ref: get-involved
+order: 3
 ---
 
 <div class="container">

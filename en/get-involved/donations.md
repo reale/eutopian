@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Donazioni
-lang: it
+title: Donations
+lang: en
 ref: donations
-permalink: /it/partecipa/donazioni
+permalink: /en/get-involved/donations
 child_of_ref: get-involved
 order: 4
 ---
 
-Se vuoi sostenere finanziariamente la nostra Associazione, puoi farlo con PayPal attraverso il form seguente:
+If you want to financially support our Association, you can do it with PayPal through the following form:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
