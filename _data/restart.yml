@@ -11,6 +11,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Dentro la gamification: quale società per il futuro?"
+      ref: dentro-la-gamification
+      lang: it
+      date: 18 Gennaio 2021 21:00-22:00
+      coordinator: Simone Stricelli
+      speaker: Marco Mazzaglia
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      youtube:
+      image: png
+
     - title: "Il ruolo di Milano nello scenario delle capitali europee"
       ref: modello-milano
       lang: it
