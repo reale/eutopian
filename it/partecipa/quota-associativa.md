@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Quota di iscrizione
+title: Quota associativa
 description:
 lang: it
-ref: annual-fee
-permalink: /it/partecipa/quota-iscrizione
+ref: membership-fee
+permalink: /it/partecipa/quota-associativa
 child_of_ref: get-involved
 order: 3
 ---

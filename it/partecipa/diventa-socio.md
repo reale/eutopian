@@ -75,7 +75,7 @@ In alternativa, puoi scaricare e compilare il [Modulo di adesione per persone fi
     <ul>
       <li>di condividere ed essere interessato alla realizzazione delle finalità della Associazione, di cui condivido lo spirito e gli ideali;</li>
       <li>di impegnarmi ad osservare lo Statuto, i Regolamenti interni e le deliberazioni legittimamente adottati dagli Organi associativi che dichiaro di aver letto attentamente e di accettare integralmente;</li>
-      <li>di impegnarmi a corrispondere la <a href="/it/quota-iscrizione">quota di iscrizione</a>, fissata nella misura di 20 EUR per il 2020.</li>
+      <li>di impegnarmi a corrispondere la <a href="/it/partecipa/quota-associativa">quota associativa</a>.</li>
     </ul>
 
     <p>Autorizzo inoltre al trattamento di tutti i dati riportati nel presente modulo di adesione, compresi i futuri eventuali aggiornamenti e/o modifiche, per tutte le finalità statutarie dell’Associazione “EUTOPIAN – OSSERVATORIO EUROPEO SULL’INNOVAZIONE DEMOCRATICA” e nelle modalità descritte dalla <a href="/it/privacy-policy">Privacy Policy</a>.</p>

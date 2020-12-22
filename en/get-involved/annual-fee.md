@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Annual Fee
+title: Membership Fee
 description:
 lang: en
-ref: annual-fee
-permalink: /en/get-involved/annual-fee
+ref: membership-fee
+permalink: /en/get-involved/membership-fee
 child_of_ref: get-involved
 order: 3
 ---

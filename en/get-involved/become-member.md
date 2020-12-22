@@ -75,7 +75,7 @@ Alternatively, you may fill in either the [Application form for natural persons]
     <ul>
       <li>to commit myself to the realisation of the aims of the Association, whose spirit and ideals I fully endorse;</li>
       <li>to commit myself to observing the Statute, the internal Regulations and deliberations adopted by the Association Bodies which I declare that I have read carefully and accept verbatim;</li>
-      <li>to commit myself to pay the <a href="/en/annual-fee">annual fee</a>, established in the measure of 20 EUR for the year 2020.</li>
+      <li>to commit myself to pay the <a href="/en/get-involved/membership-fee">membership fee</a>.</li>
     </ul>
 
     <p>Furthermore, I authorise the processing of all the data contained herein, including any future updates and/or changes, for all statutory purposes of the Association “EUTOPIAN - EUROPEAN OBSERVATORY ON DEMOCRATIC INNOVATION”, as described in the <a href="/en/privacy-policy"> Privacy Policy </a>.</p>
