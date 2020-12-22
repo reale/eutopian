@@ -4,7 +4,7 @@ title: Antonio Pavolini
 lang: it
 ref: antonio-pavolini
 permalink: /it/restart/speaker/antonio-pavolini
-image:
+image: /assets/images/headshots/antonio-pavolini.jpg
 child_of_ref: restart
 ---
 
