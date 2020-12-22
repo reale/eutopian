@@ -9,7 +9,38 @@ child_of_ref: get-involved
 order: 3
 ---
 
-La quota di iscrizione è fissata in 20 euro per il 2020. È possibile corrisponderla attraverso una delle due modalità seguenti:
+La quota associativa è fissata come segue:
+
+<table class="table">
+  <tbody>
+    <tr>
+      <td>Persone fisiche</td>
+      <td>€50</td>
+    </tr>
+    <tr>
+      <td>Studenti</td>
+      <td>€20</td>
+    </tr>
+    <tr>
+      <td>Startup, PMI e reti d’impresa</td>
+      <td>€150</td>
+    </tr>
+    <tr>
+      <td>Associazioni</td>
+      <td>€50</td>
+    </tr>
+    <tr>
+      <td>Enti pubblici</td>
+      <td>€50</td>
+    </tr>
+    <tr>
+      <td>Grandi imprese</td>
+      <td>€500</td>
+    </tr>
+  </tbody>
+</table>
+
+È possibile corrisponderla attraverso una delle due modalità seguenti:
 
 <div class="container">
   <div class="row">

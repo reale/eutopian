@@ -9,6 +9,39 @@ child_of_ref: get-involved
 order: 3
 ---
 
+The membership fee is as follows:
+
+<table class="table">
+  <tbody>
+    <tr>
+      <td>Individuals</td>
+      <td>€50</td>
+    </tr>
+    <tr>
+      <td>Students</td>
+      <td>€20</td>
+    </tr>
+    <tr>
+      <td>Startups, SMEs and business networks</td>
+      <td>€150</td>
+    </tr>
+    <tr>
+      <td>Non-profits</td>
+      <td>€50</td>
+    </tr>
+    <tr>
+      <td>Public bodies</td>
+      <td>€50</td>
+    </tr>
+    <tr>
+      <td>Large enterprises</td>
+      <td>€500</td>
+    </tr>
+  </tbody>
+</table>
+
+You can pay it through one of the two following ways:
+
 <div class="container">
   <div class="row">
     <div class="col-sm">
