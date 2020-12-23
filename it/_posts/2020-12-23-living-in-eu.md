@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "Eutopian firma la Dichiarazione Living in EU"
-description: "Eutopian firma la Dichiarazione Living in EU"
+description: "La via europea alla trasformazione digitale nelle città e nelle comunità"
 lang: it
 ref: living-in-eu
 tags:
 categories: blog
 permalink: /it/blog/living-in-eu/
+image: /assets/images/living-in-eu.png
 child_of_ref: blog
 ---
 

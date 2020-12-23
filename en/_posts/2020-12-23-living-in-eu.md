@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "Eutopian endorses the Living in EU Declaration"
-description: "Eutopian endorses the Living in EU Declaration"
+description: "The European way of digital transformation in cities and communities"
 lang: en
 ref: living-in-eu
 tags:
 categories: blog
 permalink: /en/blog/living-in-eu/
+image: /assets/images/living-in-eu.png
 child_of_ref: blog
 ---
 
