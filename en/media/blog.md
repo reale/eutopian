@@ -4,7 +4,8 @@ title: Blog
 lang: en
 ref: blog
 permalink: /en/blog
-order: 4
+child_of_ref: media
+order: 1
 ---
 
 {% include blog.html %}

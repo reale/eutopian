@@ -3,8 +3,9 @@ layout: page
 title: Press
 lang: it
 ref: press
-permalink: /it/press
-order: 5
+permalink: /it/media/press
+child_of_ref: media
+order: 3
 ---
 
 Scarica il [press kit](/assets/Eutopian_Press_Kit_20200528.zip) (170 Kb).

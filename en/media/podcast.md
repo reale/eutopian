@@ -3,8 +3,9 @@ layout: page
 title: Podcast
 lang: en
 ref: podcast
-permalink: /en/podcast
-order: 6
+permalink: /en/media/podcast
+child_of_ref: media
+order: 2
 ---
 
 Listen to our [podcast](https://podcast.eutopian.eu/).

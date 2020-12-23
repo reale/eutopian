@@ -4,5 +4,5 @@ title: Governance
 lang: en
 ref: governance
 permalink: /en/governance
-order: 9
+order: 7
 ---
