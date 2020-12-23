@@ -3,7 +3,8 @@ layout: page
 title: Servizi
 lang: it
 ref: services
-permalink: /it/servizi
+permalink: /it/cosa-facciamo/servizi
+child_of_ref: what-we-do
 order: 2
 ---
 
