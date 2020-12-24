@@ -28,10 +28,13 @@ url: "https://eutopian.eu"
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# Name and description
+name: Eutopian
+description: Osservatorio europeo sull'innovazione democratica
+
 # Address and contacts
 email: info@eutopian.eu
 pec: eutopian@pec.it
-description: Osservatorio europeo sull'innovazione democratica
 phone: "+39 333 741 4032"
 fiscal_code: 96438490581
 
