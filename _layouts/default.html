@@ -1,7 +1,7 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ page.lang }}">
 <head>
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.data.t.description[page.lang] }}</title>
   {%- include styles.html -%}
   {%- include meta.html -%}
   {%- if jekyll.environment == 'production' -%}
