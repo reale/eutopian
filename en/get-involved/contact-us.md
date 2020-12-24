@@ -10,7 +10,7 @@ order: 1
 
 Contact us by filling the following form:
 
-<form name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/{{ site.email }}" method="post">
+<form name="contact-form" accept-charset="utf-8" action="https://formspree.io/f/mpzojrnr" method="post">
   <div class="field">
     <label for="full-name">Name</label>
     <input type="text" name="name" id="full-name" />
