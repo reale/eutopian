@@ -12,7 +12,7 @@ Per chiedere di diventare socio, compila il modulo seguente.
 
 In alternativa, puoi scaricare e compilare il [Modulo di adesione per persone fisiche](/assets/docs/eutopian-adesione-persone-fisiche.docx) oppure il [Modulo di adesione per persone giuridiche](/assets/docs/eutopian-adesione-persone-giuridiche.docx) ed inviarlo a <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
-<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/{{ site.email }}" method="post">
+<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/xeqppkwv" method="post">
   <fieldset id="fs-frm-inputs">
     <div class="field">
       <label for="full-name">Nome e cognome</label>

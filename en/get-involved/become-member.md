@@ -12,7 +12,7 @@ In order to become a member, please fill this form.
 
 Alternatively, you may fill in either the [Application form for natural persons](/assets/docs/eutopian-adesione-persone-fisiche.docx) (in Italian only) or the [Application form for legal entities](/assets/docs/eutopian-adesione-persone-giuridiche.docx) (in Italian only), sign it (digitally or by attaching an ID document), and send it to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
-<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/{{ site.email }}" method="post">
+<form id="fs-frm" name="registration-form" accept-charset="utf-8" action="https://formspree.io/f/xeqppkwv" method="post">
   <fieldset id="fs-frm-inputs">
     <div class="field">
       <label for="full-name">Full Name</label>
