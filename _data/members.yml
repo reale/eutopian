@@ -36,15 +36,15 @@ board:
           linkedin: https://www.linkedin.com/in/gaetanobruno
           twitter: https://twitter.com/GB7113
 
-    - name: "Antonio Barbieri"
-      priority: 0
-      role:
-          en: Treasurer
-          it: Tesoriere
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/antonio-barbieri-38a9372
+#    - name: "Antonio Barbieri"
+#      priority: 0
+#      role:
+#          en: Treasurer
+#          it: Tesoriere
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/antonio-barbieri-38a9372
 
     - name: "Roberto Alma"
       priority: 0
