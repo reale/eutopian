@@ -60,7 +60,7 @@ restart-2021:
       image: png
 
     - title: "Cittadinanza digitale e tecnocivismo"
-      ref: cittadinanza-digitale-e-tecnocivismo.md
+      ref: cittadinanza-digitale-e-tecnocivismo
       lang: it
       date: 4 Febbraio 2021 21:00-22:00
       coordinator: Roberto Reale
