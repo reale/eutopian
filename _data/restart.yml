@@ -59,6 +59,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Cittadinanza digitale e tecnocivismo"
+      ref: cittadinanza-digitale-e-tecnocivismo.md
+      lang: it
+      date: 4 Febbraio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Andrea Trentini
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      youtube:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
