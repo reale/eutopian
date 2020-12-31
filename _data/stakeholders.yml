@@ -31,6 +31,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_I4B_Protocollo_Intesa.pdf
           website: https://www.italia4blockchain.it/
+    - name: "PA Social"
+      ref: pa-social
+      logo: png
+      links:
+          agreement:
+          website: https://www.pasocial.info/
     - name: "Prepare for Change"
       ref: p4c
       logo: png
