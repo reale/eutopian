@@ -71,6 +71,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Adaptation"
+      ref: adaptation
+      lang: en
+      date: 11 February 2021 21:00-22:00 CET
+      coordinator: Roberto Reale
+      speaker: Marco Merola
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      youtube:
+      image: png
+
     - title: "A New Digital Deal"
       ref: a-new-digital-deal
       lang: en
