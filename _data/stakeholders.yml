@@ -1,6 +1,12 @@
 ## Partners
 
 stakeholders:
+    - name: "Alleanza Italiana per lo Sviluppo Sostenibile ASviS"
+      ref: asvis
+      logo: jpg
+      links:
+          agreement:
+          website: https://asvis.it/
     - name: "ASSIF Associazione Italiana Fundraiser"
       ref: assif
       logo: png
