@@ -71,6 +71,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "A New Digital Deal"
+      ref: a-new-digital-deal
+      lang: en
+      date: 18 February 2021 21:00-22:00 CET
+      coordinator: Roberto Reale
+      speaker: Bas Boorsma
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      youtube:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
