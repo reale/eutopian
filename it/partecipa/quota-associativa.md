@@ -87,7 +87,7 @@ La quota associativa è fissata come segue:
           return actions.order.create({
               purchase_units: [{
                   amount: {
-                      value: '20'
+                      value: '0.00'
                   }
               }]
           });
