@@ -618,18 +618,22 @@
       Belgium
       </pre>
     </div>
+
     <div class="col-sm">
       <div id="smart-button-container">
       <h2 id="paypal-payment">PayPal</h2>
-            <div style="text-align: center;">
-        <div style="margin-bottom: 1.25rem;">
-          <p>Quota annuale</p>
-          <select id="item-options"><option value="Persone fisiche	" price="50">Persone fisiche	 - 50 EUR</option><option value="Studenti" price="20">Studenti - 20 EUR</option><option value="Startup, PMI e reti d’impresa" price="150">Startup, PMI e reti d’impresa - 150 EUR</option><option value="Associazioni" price="50">Associazioni - 50 EUR</option><option value="Enti pubblici" price="50">Enti pubblici - 50 EUR</option><option value="Grandi imprese" price="500">Grandi imprese - 500 EUR</option></select>
-                    <select style="visibility: hidden" id="quantitySelect"></select>
-        </div>
-      
+      <form>
+        <select class="custom-select" id="item-options">
+          <option value="Persone fisiche" price="50">Persone fisiche- 50 EUR</option>
+          <option value="Studenti" price="20">Studenti - 20 EUR</option>
+          <option value="Startup, PMI e reti d’impresa" price="150">Startup, PMI e reti d’impresa - 150 EUR</option>
+          <option value="Associazioni" price="50">Associazioni - 50 EUR</option>
+          <option value="Enti pubblici" price="50">Enti pubblici - 50 EUR</option>
+          <option value="Grandi imprese" price="500">Grandi imprese - 500 EUR</option>
+          </select>
+        <select class="custom-select" style="visibility: hidden" id="quantitySelect"></select>
+      </form>
       <div id="paypal-button-container"></div>
-      </div>
     </div>
   </div>
 </div>
