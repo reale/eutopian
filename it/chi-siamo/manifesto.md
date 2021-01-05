@@ -10,7 +10,7 @@ order: 1
 
 Eutopian è un osservatorio indipendente, inclusivo ed aperto sull'innovazione democratica, intesa sia come innovazione all’interno di un contesto democratico sia come innovazione della democrazia, riconoscendo che i due aspetti sono tra loro inscindibili, e sono fondativi per un modello di società digitale in cui la persona conservi la sua centralità; e sulla rivoluzione digitale nei suoi vari aspetti: tecnologico, scientifico, economico, giuridico, sociale, culturale, politico.
 
-Eutopian ha a cuore lo sviluppo alto del dibattito politico intorno ai temi fondativi, ma è rigorosamente apartitico. Tra gli scopi rientra la proposta policy concrete e attuabili per migliorare le prospettive nazionali ed europee, pur nella consapevolezza della complessità di un mondo in rapida trasformazione.
+Eutopian ha a cuore lo sviluppo alto del dibattito politico intorno ai temi fondativi, ma è rigorosamente apartitico. Tra gli scopi rientra la proposta di policy concrete e attuabili per migliorare le prospettive nazionali ed europee, pur nella consapevolezza della complessità di un mondo in rapida trasformazione.
 
 I temi fondamentali dell’attività di Eutopian sono:
 - il monitoraggio e la promozione dell’innovazione tecnologica e delle sue ricadute sociali, economiche, politiche;
