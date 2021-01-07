@@ -37,6 +37,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_I4B_Protocollo_Intesa.pdf
           website: https://www.italia4blockchain.it/
+    - name: "Open Contracting Partnership"
+      ref: ocp
+      logo: png
+      links:
+          agreement: /assets/docs/Eutopian_OCP_Synapta_Protocol_of_Agreement.pdf
+          website: https://www.open-contracting.org/
     - name: "PA Social"
       ref: pa-social
       logo: png
@@ -49,6 +55,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_P4C_Protocollo_Intesa.pdf
           website: http://prepareforchange.it/
+    - name: "Synapta"
+      ref: synapta
+      logo: png
+      links:
+          agreement: /assets/docs/Eutopian_OCP_Synapta_Protocol_of_Agreement.pdf
+          website: https://synapta.it/
     - name: "Trustless Computing Association"
       ref: tca
       logo: jpg
