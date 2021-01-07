@@ -8,7 +8,7 @@ categories: blog
 permalink: /en/blog/joining-repubblica-digitale/
 redirect_from:
   - /en/news/joining-repubblica-digitale/
-image: /assets/images/repubblica-digitale.png
+image: /assets/images/logos/repubblica-digitale.png
 child_of_ref: blog
 ---
 

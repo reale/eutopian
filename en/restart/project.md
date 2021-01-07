@@ -4,7 +4,7 @@ title: The project
 lang: en
 ref: restart-progetto
 permalink: /en/restart/project
-image: /assets/images/repubblica-digitale.png
+image: /assets/images/logos/repubblica-digitale.png
 child_of_ref: restart
 order: 1
 ---

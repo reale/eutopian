@@ -61,6 +61,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_P4C_Protocollo_Intesa.pdf
           website: http://prepareforchange.it/
+    - name: "Repubblica Digitale"
+      ref: repubblica-digitale
+      logo: png
+      links:
+          agreement:
+          website: https://innovazione.gov.it/it/repubblica-digitale/
     - name: "Synapta"
       ref: synapta
       logo: png
