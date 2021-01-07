@@ -18,11 +18,11 @@ globale sui dati aperti per il procurement, e
 [**Synapta**](https://synapta.it/), tra le principali realtà italiane in ambito
 linked open data e public procurement.
 
-I firmatari concordano sulla centralità di trasparenza ed efficienza nel
-settore degli appalti pubblici come fattore chiave per la crescita economica,
-la fiducia e la competitività a livello globale, e mettono in campo una serie
-di azioni concrete di monitoraggio, capacity building e condivisione di
-metriche e buone prassi.
+Come promotori e firmatari intendiamo riconoscere la centralità di trasparenza
+ed efficienza nel settore degli appalti pubblici come fattore chiave per la
+crescita economica, la fiducia e la competitività a livello globale. A tal
+fine, metteremo in campo una serie di azioni concrete di monitoraggio, capacity
+building e condivisione di metriche e buone prassi.
 
 Leggi il [Protocollo
 d'Intesa](/assets/docs/Eutopian_OCP_Synapta_Protocol_of_Agreement.pdf) (in
