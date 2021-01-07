@@ -11,7 +11,7 @@ image: /assets/images/ocp-synapta-protocol-agreement.jpg
 child_of_ref: blog
 ---
 
-Within our ecosystem **Transparecy, Open Government and Public Procurement**,
+Within our ecosystem **Transparency, Open Government and Public Procurement**,
 Eutopian has signed a Protocol of Agreement with [**Open Contracting
 Partnership**](https://www.open-contracting.org/), the leading global
 initiative on procurement open data, and [**Synapta**](https://synapta.it/), an
