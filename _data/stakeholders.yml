@@ -47,7 +47,7 @@ stakeholders:
       ref: parole-ostili
       logo: png
       links:
-          agreement:
+          agreement: /assets/docs/Eutopian_Adesione_Manifesto_comunicazione_non_ostile.pdf
           website: https://paroleostili.it/
     - name: "PA Social"
       ref: pa-social
