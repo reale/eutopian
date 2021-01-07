@@ -43,6 +43,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_OCP_Synapta_Protocol_of_Agreement.pdf
           website: https://www.open-contracting.org/
+    - name: "Parole O_Stili"
+      ref: parole-ostili
+      logo: png
+      links:
+          agreement:
+          website: https://paroleostili.it/
     - name: "PA Social"
       ref: pa-social
       logo: png
