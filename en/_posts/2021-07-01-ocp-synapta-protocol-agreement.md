@@ -15,8 +15,8 @@ Within our ecosystem **Transparecy, Open Government and Public Procurement**,
 Eutopian has signed a Protocol of Agreement with [**Open Contracting
 Partnership**](https://www.open-contracting.org/), the leading global
 initiative on procurement open data, and [**Synapta**](https://synapta.it/), an
-Italian innovative start-up and one of the most relevant in the linked open
-data e public procurement landscapes.
+Italian innovative start-up and one of the most relevant marker players in the
+linked open data e public procurement landscapes.
 
 All parties agree that transparency, openness, and efficiency in the public
 procurement sector is a key factor for economic growth, trust, and
