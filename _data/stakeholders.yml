@@ -13,6 +13,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_ASSIF_Memorandum.pdf
           website: http://www.assif.it/
+    - name: "Associazione Culturale Radio Ros Brera"
+      ref: radio-ros-brera
+      logo: jpg
+      links:
+          agreement: /assets/docs/Eutopian_RadioRosBrera_Protocollo_Intesa.pdf
+          website: http://www.radiorosbrera.com/
     - name: "Associazione Stampa Romana"
       ref: stampa-romana
       logo: jpg
