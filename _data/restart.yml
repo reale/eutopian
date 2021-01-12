@@ -11,6 +11,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Transizione energetica e smart city"
+      ref: transizione-energetica-smart-city
+      lang: it
+      date: 14 Gennaio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Diego Demetrio
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      youtube:
+      image: png
+
     - title: "Dentro la gamification: quale società per il futuro?"
       ref: dentro-la-gamification
       lang: it
