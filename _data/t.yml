@@ -48,21 +48,21 @@ social-links:
     facebook:
       name: "facebook"
       url: "https://fb.me/eutopian.eu"
-    github:
-      name: "github"
-      url: "https://github.com/eutopian-eu"
 #    instagram:
 #      name: "instagram"
 #      url: "https://www.instagram.com/ass.eutopian"
     linkedin:
       name: "linkedin"
       url: "https://www.linkedin.com/company/eutopian"
-    telegram:
-      name: "telegram"
-      url: "https://www.telegram.com"
     youtube:
       name: "youtube"
       url: "https://www.youtube.com/c/eutopian"
+    github:
+      name: "github"
+      url: "https://github.com/eutopian-eu"
+    telegram:
+      name: "telegram"
+      url: "https://www.telegram.com"
   it:
     twitter:
       name: "twitter"
@@ -70,21 +70,21 @@ social-links:
     facebook:
       name: "facebook"
       url: "https://fb.me/eutopian.eu"
-    github:
-      name: "github"
-      url: "https://github.com/eutopian-eu"
 #    instagram:
 #      name: "instagram"
 #      url: "https://www.instagram.com/ass.eutopian"
     linkedin:
       name: "linkedin"
       url: "https://www.linkedin.com/company/eutopian"
-    telegram:
-      name: "telegram"
-      url: "https://www.telegram.com"
     youtube:
       name: "youtube"
       url: "https://www.youtube.com/c/eutopian"
+    github:
+      name: "github"
+      url: "https://github.com/eutopian-eu"
+    telegram:
+      name: "telegram"
+      url: "https://www.telegram.com"
 
 ## Labels
 about-us-url:
