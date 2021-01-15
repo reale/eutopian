@@ -57,6 +57,9 @@ social-links:
     linkedin:
       name: "linkedin"
       url: "https://www.linkedin.com/company/eutopian"
+    telegram:
+      name: "telegram"
+      url: "https://www.telegram.com"
     youtube:
       name: "youtube"
       url: "https://www.youtube.com/c/eutopian"
@@ -76,6 +79,9 @@ social-links:
     linkedin:
       name: "linkedin"
       url: "https://www.linkedin.com/company/eutopian"
+    telegram:
+      name: "telegram"
+      url: "https://www.telegram.com"
     youtube:
       name: "youtube"
       url: "https://www.youtube.com/c/eutopian"
