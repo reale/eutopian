@@ -63,6 +63,9 @@ social-links:
     telegram:
       name: "telegram"
       url: "https://t.me/eutopian_eu"
+    rss:
+      name: "rss"
+      url: "/feed.xml"
   it:
     twitter:
       name: "twitter"
@@ -85,6 +88,9 @@ social-links:
     telegram:
       name: "telegram"
       url: "https://t.me/eutopian_eu"
+    rss:
+      name: "rss"
+      url: "/feed.xml"
 
 ## Labels
 about-us-url:
