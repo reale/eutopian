@@ -107,6 +107,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Cina: l’eterna promessa del Made in Italy"
+      ref: cina-eterna-promessa-del-made-in-italy
+      lang: it
+      date: 22 Febbraio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Giuliano Noci
+      coordinator-bio: true
+      speaker-bio: true
+      eventbrite:
+      youtube:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
