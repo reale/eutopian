@@ -37,8 +37,8 @@
         <p>{{ webinar.date }}</p>
         {% endif %}
 
-        {% if webinar.eventbrite != nil and webinar.eventbrite != "" %}
-        <p><a href="{{ webinar.eventbrite }}">{{ site.data.t.join[page.lang] }}</a></p>
+        {% if webinar.url != nil and webinar.url != "" %}
+        <p><a href="{{ webinar.url }}">{{ site.data.t.join[page.lang] }}</a></p>
         {% endif %}
 
         {% for social-link in member.social-links %}

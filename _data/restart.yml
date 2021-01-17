@@ -7,7 +7,7 @@ restart-2021:
       speaker: Fulvio Ananasso
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-5g-caratteristiche-regolamentazione-e-opportunita-133828006169
+      url: https://www.eventbrite.it/e/biglietti-5g-caratteristiche-regolamentazione-e-opportunita-133828006169
       youtube:
       image: png
 
@@ -19,7 +19,7 @@ restart-2021:
       speaker: Diego Demetrio
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      url:
       youtube:
       image: png
 
@@ -31,7 +31,7 @@ restart-2021:
       speaker: Marco Mazzaglia
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      url:
       youtube:
       image: png
 
@@ -43,7 +43,7 @@ restart-2021:
       speaker: Alberto Bortolotti
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      url:
       youtube:
       image: png
 
@@ -55,7 +55,7 @@ restart-2021:
       speaker: Stefano Epifani
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      url:
       youtube:
       image: png
 
@@ -67,7 +67,7 @@ restart-2021:
       speaker: Antonio Pavolini
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      url:
       youtube:
       image: png
 
@@ -79,7 +79,7 @@ restart-2021:
       speaker: Andrea Trentini
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      url:
       youtube:
       image: png
 
@@ -91,7 +91,7 @@ restart-2021:
       speaker: Marco Merola
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      url:
       youtube:
       image: png
 
@@ -103,7 +103,7 @@ restart-2021:
       speaker: Bas Boorsma
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      url:
       youtube:
       image: png
 
@@ -115,7 +115,7 @@ restart-2021:
       speaker: Giuliano Noci
       coordinator-bio: true
       speaker-bio: true
-      eventbrite:
+      url:
       youtube:
       image: png
 
@@ -128,7 +128,7 @@ restart-2020:
       speaker: Massimo Canevacci
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-identita-ubique-verso-unantropologia-non-antropocentrica-104325339900
+      url: https://www.eventbrite.it/e/biglietti-identita-ubique-verso-unantropologia-non-antropocentrica-104325339900
       youtube: QzNbOSZUZj0
       image: jpg
 
@@ -140,7 +140,7 @@ restart-2020:
       speaker: Francesco Paolo Micozzi
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-gestione-dellemergenza-covid-e-soluzioni-tecnologiche-di-contact-tracing-104545498400
+      url: https://www.eventbrite.it/e/biglietti-gestione-dellemergenza-covid-e-soluzioni-tecnologiche-di-contact-tracing-104545498400
       youtube: uCva5mtztSE
       image: jpg
 
@@ -152,7 +152,7 @@ restart-2020:
       speaker: Tiziano Treu
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-il-mondo-del-lavoro-che-verra-conversazione-con-tiziano-treu-105287457620
+      url: https://www.eventbrite.it/e/biglietti-il-mondo-del-lavoro-che-verra-conversazione-con-tiziano-treu-105287457620
       youtube: eya-P7WOurQ
       image: png
 
@@ -164,7 +164,7 @@ restart-2020:
       speaker: Paul Vanderbroeck
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-does-technology-increase-or-decrease-empowerment-105933648394
+      url: https://www.eventbrite.it/e/biglietti-does-technology-increase-or-decrease-empowerment-105933648394
       youtube: r60gqiqqlqM
       image: png
 
@@ -176,7 +176,7 @@ restart-2020:
       speaker: Lina Zdruli
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-using-technology-for-social-good-106775167400
+      url: https://www.eventbrite.it/e/biglietti-using-technology-for-social-good-106775167400
       youtube: N7MGb5rydrA
       image: png
 
@@ -188,7 +188,7 @@ restart-2020:
       speaker: Mila Fiordalisi
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-il-giornalismo-e-la-comunicazione-ai-tempi-del-covid-19-107337962736
+      url: https://www.eventbrite.it/e/biglietti-il-giornalismo-e-la-comunicazione-ai-tempi-del-covid-19-107337962736
       youtube: DXt28yg4Rc8
       image: png
 
@@ -200,7 +200,7 @@ restart-2020:
       speaker: Flavia Marzano
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-la-citta-di-domani-prospettive-opportunita-e-idee-107245883324
+      url: https://www.eventbrite.it/e/biglietti-la-citta-di-domani-prospettive-opportunita-e-idee-107245883324
       youtube: 97a1AymGaDw
       image: png
 
@@ -212,7 +212,7 @@ restart-2020:
       speaker: Gaetano Armao
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-agenda-digitale-regionale-tra-autonomia-e-integrazione-europea-109608682520
+      url: https://www.eventbrite.it/e/biglietti-agenda-digitale-regionale-tra-autonomia-e-integrazione-europea-109608682520
       youtube: tzLYgn5CROc
       image: png
 
@@ -224,7 +224,7 @@ restart-2020:
       speaker: Nazzareno Prinzivalli
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-trasformazione-digitale-processi-organizational-design-108528094452
+      url: https://www.eventbrite.it/e/biglietti-trasformazione-digitale-processi-organizational-design-108528094452
       youtube: -mm91fZQq2g
       image: png
 
@@ -236,7 +236,7 @@ restart-2020:
       speaker: Simone Stricelli
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-future-humans-innovation-109828273322
+      url: https://www.eventbrite.it/e/biglietti-future-humans-innovation-109828273322
       youtube: xOhP_3M3CIc
       image: png
 
@@ -248,7 +248,7 @@ restart-2020:
       speaker: Claudio Di Mario
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-il-lobbying-diventa-digital-111465967710
+      url: https://www.eventbrite.it/e/biglietti-il-lobbying-diventa-digital-111465967710
       youtube: G-NBBpsLRVM
       image: jpg
 
@@ -260,7 +260,7 @@ restart-2020:
       speaker: Valerio Gallitto
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-blockchain-e-valute-digitali-delle-banche-centrali-112575624724
+      url: https://www.eventbrite.it/e/biglietti-blockchain-e-valute-digitali-delle-banche-centrali-112575624724
       youtube: TvUEjM_KgVg
       image: jpg
 
@@ -272,7 +272,7 @@ restart-2020:
       speaker: Gaetano Bruno
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-lo-spazio-di-condivisione-sui-servizi-pubblici-digitali-112835441844
+      url: https://www.eventbrite.it/e/biglietti-lo-spazio-di-condivisione-sui-servizi-pubblici-digitali-112835441844
       youtube: CIAh9CXf4Ds
       image: jpg
 
@@ -284,7 +284,7 @@ restart-2020:
       speaker: Brando Benifei
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-the-eu-economic-response-to-the-covid-19-pandemics-113961351470
+      url: https://www.eventbrite.it/e/biglietti-the-eu-economic-response-to-the-covid-19-pandemics-113961351470
       youtube: 352Ol0h94HQ
       image: jpg
 
@@ -296,7 +296,7 @@ restart-2020:
       speaker: Antonio Pavolini
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-dalle-fake-news-alla-fake-relevance-115635885045
+      url: https://www.eventbrite.it/e/biglietti-dalle-fake-news-alla-fake-relevance-115635885045
       youtube: vsGdgPJb8mQ
       image: jpg
 
@@ -308,7 +308,7 @@ restart-2020:
       speaker: Floriana Tagliaferro
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-il-ruolo-del-dpo-tra-gdpr-ed-indicazioni-operative-118175924371
+      url: https://www.eventbrite.it/e/biglietti-il-ruolo-del-dpo-tra-gdpr-ed-indicazioni-operative-118175924371
       image: jpg
 
     - title: "La libera circolazione dei dati al tempo del Covid"
@@ -319,7 +319,7 @@ restart-2020:
       speaker: Gaetano Bruno
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-la-libera-circolazione-dei-dati-al-tempo-del-covid-120777921013
+      url: https://www.eventbrite.it/e/biglietti-la-libera-circolazione-dei-dati-al-tempo-del-covid-120777921013
       image: jpg
 
     - title: "Reti d'impresa e digitalizzazione"
@@ -330,7 +330,7 @@ restart-2020:
       speaker: Eva Bredariol
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-reti-dimpresa-e-digitalizzazione-118214259031
+      url: https://www.eventbrite.it/e/biglietti-reti-dimpresa-e-digitalizzazione-118214259031
       image: jpg
 
     - title: "Innovazione e “nuove” tecnologie. Sì, ma quali? Prima modelliamo i processi"
@@ -341,7 +341,7 @@ restart-2020:
       speaker: Nazzareno Prinzivalli
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-innovazione-e-nuove-tecnologie-si-ma-quali-prima-modelliamo-i-processi-120535836933
+      url: https://www.eventbrite.it/e/biglietti-innovazione-e-nuove-tecnologie-si-ma-quali-prima-modelliamo-i-processi-120535836933
       image: jpg
 
     - title: "Openness nella PA"
@@ -352,7 +352,7 @@ restart-2020:
       speaker: Flavia Marzano
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-openness-nella-pa-123401594491
+      url: https://www.eventbrite.it/e/biglietti-openness-nella-pa-123401594491
       image: jpg
 
     - title: "SGI per la Trasformazione Digitale e Sostenibile della Società"
@@ -363,7 +363,7 @@ restart-2020:
       speaker: Fulvio Ananasso
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-sgi-per-la-trasformazione-digitale-e-sostenibile-della-societa-123979918273
+      url: https://www.eventbrite.it/e/biglietti-sgi-per-la-trasformazione-digitale-e-sostenibile-della-societa-123979918273
       image: jpg
 
     - title: "Digital Product Design per un Mondo Phygital"
@@ -374,7 +374,7 @@ restart-2020:
       speaker: Nicola Catani
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-digital-product-design-per-un-mondo-phygital-126709659001
+      url: https://www.eventbrite.it/e/biglietti-digital-product-design-per-un-mondo-phygital-126709659001
       image: jpg
 
     - title: "Blockchain: casi d'uso e sfide future"
@@ -385,7 +385,7 @@ restart-2020:
       speaker: Massimo Chiriatti
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-blockchain-casi-duso-e-sfide-future-127635989681
+      url: https://www.eventbrite.it/e/biglietti-blockchain-casi-duso-e-sfide-future-127635989681
       image: jpg
 
     - title: "Digital Media Literacy: Building Resilience"
@@ -396,7 +396,7 @@ restart-2020:
       speaker: Tomas Kazulenas
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-digital-media-literacy-building-resilience-127685156741
+      url: https://www.eventbrite.it/e/biglietti-digital-media-literacy-building-resilience-127685156741
       image: jpg
 
     - title: "Infodemia: come combattere il virus che ha contagiato l’informazione?"
@@ -407,7 +407,7 @@ restart-2020:
       speaker: Angelica Giambelluca
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-infodemia-come-combattere-il-virus-che-ha-contagiato-linformazione-127846316775
+      url: https://www.eventbrite.it/e/biglietti-infodemia-come-combattere-il-virus-che-ha-contagiato-linformazione-127846316775
       image:  jpg
 
     - title: "Social science 4 Journalism"
@@ -418,7 +418,7 @@ restart-2020:
       speaker: Francesco Piccinelli Casagrande
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-social-science-4-journalism-127853231457
+      url: https://www.eventbrite.it/e/biglietti-social-science-4-journalism-127853231457
       image: jpg
 
     - title: "Etica dell'innovazione nell'economia digitale"
@@ -429,7 +429,7 @@ restart-2020:
       speaker: Fulvio Ananasso
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-etica-dellinnovazione-nelleconomia-digitale-128316561289
+      url: https://www.eventbrite.it/e/biglietti-etica-dellinnovazione-nelleconomia-digitale-128316561289
       image: jpg
 
     - title: "Un New Deal Digitale: come impiegare al meglio la digitalizzazione al servizio delle nostre città"
@@ -440,7 +440,7 @@ restart-2020:
       speaker: Raffaele Gareri
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-un-new-deal-digitale-130839627849
+      url: https://www.eventbrite.it/e/biglietti-un-new-deal-digitale-130839627849
       image: jpg
 
     - title: "Il ruolo del security manager nel business continuity management"
@@ -451,7 +451,7 @@ restart-2020:
       speaker: Diego Demetrio
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-il-ruolo-del-security-manager-nel-business-continuity-management-130840205577
+      url: https://www.eventbrite.it/e/biglietti-il-ruolo-del-security-manager-nel-business-continuity-management-130840205577
       image: png
 
     - title: "Di quale design vogliamo parlare davvero?"
@@ -462,7 +462,7 @@ restart-2020:
       speaker: Rosanna Brambilla
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-di-quale-design-vogliamo-parlare-davvero-130840398153
+      url: https://www.eventbrite.it/e/biglietti-di-quale-design-vogliamo-parlare-davvero-130840398153
       image: png
 
     - title: "Smart Working e PMI, scenari a confronto"
@@ -473,5 +473,5 @@ restart-2020:
       speaker: Angela Delcuratolo
       coordinator-bio: true
       speaker-bio: true
-      eventbrite: https://www.eventbrite.it/e/biglietti-smart-working-e-pmi-scenari-a-confronto-130840538573
+      url: https://www.eventbrite.it/e/biglietti-smart-working-e-pmi-scenari-a-confronto-130840538573
       image: jpg
