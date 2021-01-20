@@ -35,6 +35,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Incontro con Leoluca Orlando"
+      ref: incontro-leoluca-orlando
+      lang: it
+      date: 20 Gennaio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Leoluca Orlando
+      coordinator-bio: true
+      speaker-bio: true
+      url: mailto:info@eutopian.eu
+      youtube:
+      image: png
+
     - title: "Il ruolo di Milano nello scenario delle capitali europee"
       ref: modello-milano
       lang: it
