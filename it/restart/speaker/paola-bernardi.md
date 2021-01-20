@@ -4,7 +4,7 @@ title: Paola Bernardi
 lang: it
 ref: paola-bernardi
 permalink: /it/restart/speaker/paola-bernardi
-#image: /assets/images/headshots/paola-bernardi.jpg
+image: /assets/images/headshots/paola-bernardi.jpg
 child_of_ref: restart
 ---
 
