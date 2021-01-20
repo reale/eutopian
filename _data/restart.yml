@@ -71,6 +71,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Prospettive cinesi sul mercato globale"
+      ref: prospettive-cinesi-mercato-globale
+      lang: it
+      date: 1 Febbraio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Paola Bernardi
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      youtube:
+      image: png
+
     - title: "Cittadinanza digitale e tecnocivismo"
       ref: cittadinanza-digitale-e-tecnocivismo
       lang: it
