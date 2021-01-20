@@ -95,6 +95,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "A robot revolution for the 1%?"
+      ref: a-robot-revolution-for-the-1-per-cent
+      lang: en
+      date: 8 February 2021 21:00-22:00 CET
+      coordinator: Roberto Reale
+      speaker: Rufus Pollock
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      youtube:
+      image: png
+
     - title: "Adaptation"
       ref: adaptation
       lang: en
