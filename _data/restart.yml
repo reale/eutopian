@@ -107,6 +107,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Educazione finanziaria per uscire dalla crisi"
+      ref: educazione-finanziaria
+      lang: it
+      date: 5 Febbraio 2021 21:00-22:00
+      coordinator: Flavia Gamberale
+      speaker: Annamaria Lusardi
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      youtube:
+      image: png
+
     - title: "A robot revolution for the 1%?"
       ref: a-robot-revolution-for-the-1-per-cent
       lang: en
