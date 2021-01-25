@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Registro per la trasparenza
+title: Registro per la trasparenza EU
 lang: it
-ref: transparency-register
-permalink: /it/governance/registro-trasparenza
-image: /assets/images/transparency-register.jpg
+ref: eu-transparency-register
+permalink: /it/governance/registro-trasparenza-eu
+redirect_from:
+  - /it/governance/registro-trasparenza
+image: /assets/images/eu-transparency-register.jpg
 child_of_ref: governance
 order: 1
 ---
