@@ -71,6 +71,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Il caso TikTok"
+      ref: caso-tiktok
+      lang: it
+      date: 26 Gennaio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Guido Scorza
+      coordinator-bio: true
+      speaker-bio: true
+      url: https://fb.me/e/13QHspmTw
+      youtube:
+      image: png
+
     - title: "Unframing"
       ref: unframing
       lang: it
