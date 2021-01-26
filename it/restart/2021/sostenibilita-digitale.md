@@ -8,4 +8,4 @@ image: /assets/images/restart/sostenibilita-digitale.png
 child_of_ref: restart-2021
 ---
 
-La trasformazione digitale è un vero e proprio cambiamento di senso. Un cambiamento di senso che impatta sulla società, sull’economia, sulle persone. Studiare le dinamiche di questo cambiamento e contribuire ad influenzarne lo sviluppo nella direzione della sostenibilità è il filo rosso che accomuna le attività di Stefano Epifani, docente universitario, advisor e giornalista.
+La tecnologia digitale fa bene o fa male? L’intelligenza artificiale crea o distrugge posti di lavoro? I social network migliorano o peggiorano le relazioni? Sono alcune delle domande che si sentono fare sul digitale oggi, ma sono quasi sempre domande sbagliate. La domanda più importante che dovremmo porci è quanto - e come - la tecnologia possa contribuire a migliorare le nostre vite, diventando strumento di sostenibilità.
