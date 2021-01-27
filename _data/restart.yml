@@ -155,6 +155,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Contro la cultura della sorveglianza"
+      ref: contro-la-cultura-della-sorveglianza
+      lang: en
+      date: 15 Febbraio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Christian Raimo
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      youtube:
+      image: png
+
     - title: "A New Digital Deal"
       ref: a-new-digital-deal
       lang: en
