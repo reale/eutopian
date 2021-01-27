@@ -8,7 +8,7 @@ image: /assets/images/restart/unframing.png
 child_of_ref: restart-2021
 ---
 
-Come difendersi da chi può stabilire cosa è rilevante per noi? E' una domanda che risuona dal sottotitolo di "Unframing", l'ultimo libro di Antonio Pavolini che sembra quasi prodursi in una specie di "ultima chiamata" per l'ecologia dell'intero sistema dei media.
+Come difendersi da chi può stabilire cosa è rilevante per noi? È una domanda che risuona dal sottotitolo di "Unframing", l'ultimo libro di Antonio Pavolini che sembra quasi prodursi in una specie di "ultima chiamata" per l'ecologia dell'intero sistema dei media.
 
 L'industria dell’informazione, e più in generale quella dei contenuti, svolge infatti un ruolo essenziale per la qualità della nostra vita sociale, ma il principale vincolo di business cui deve obbedire (la necessità di attrarre i nostri occhi verso luoghi chiusi e redditizi) sta producendo danni irreparabili per la qualità del discorso pubblico e - in definitiva - dell'intera società democratica.
 
