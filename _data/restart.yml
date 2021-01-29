@@ -107,6 +107,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Incontro con Luca Bergamo"
+      ref: incontro-luca-bergamo
+      lang: it
+      date: 2 Febbraio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Luca Bergamo
+      coordinator-bio: true
+      speaker-bio: true
+      url: https://fb.me/e/22FumX8Hv
+      youtube:
+      image: png
+
     - title: "Cittadinanza digitale e tecnocivismo"
       ref: cittadinanza-digitale-e-tecnocivismo
       lang: it
