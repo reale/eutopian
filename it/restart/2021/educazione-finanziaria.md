@@ -14,6 +14,6 @@ La pandemia ha contribuito a riaprire il dibattito sulle conoscenze finanziarie 
 
 Diverse sono le ricerche scientifiche che dimostrano la stretta correlazione tra scarsa alfabetizzazione finanziaria e fragilità economica, evidenziando come la mancanza di adeguate conoscenze di base rappresenti un costo sociale molto alto per il Paese.
 
-Il Comitato interministeriale per la programmazione e il coordinamento delle attività di educazione finanziaria è al lavoro dal 2017 proprio per colmare questo gap, rafforzando le competenze finanziarie dei cittadini, attraverso iniziative di formazione e di divulgazione rivolte a tutti, la più famosa delle quali è il Mese dell’educazione finanziaria, che si svolge ogni anno a ottobre con eventi in tutta Italia.
+Il Comitato per la programmazione e il coordinamento delle attività di educazione finanziaria è al lavoro dal 2017 proprio per colmare questo gap, rafforzando le competenze finanziarie dei cittadini, attraverso iniziative di formazione e di divulgazione rivolte a tutti, la più famosa delle quali è il Mese dell’educazione finanziaria, che si svolge ogni anno a ottobre con eventi in tutta Italia.
 
 Perché gli Italiani occupano gli ultimi posti nelle classifiche OCSE sull’educazione finanziaria? Qual è la strategia dell’Italia per migliorare le conoscenze dei cittadini? Che rapporto hanno gli Italiani con i soldi e con la gestione del risparmio? Perché l’educazione finanziaria è una leva strategica per uscire più forti dalla crisi?
