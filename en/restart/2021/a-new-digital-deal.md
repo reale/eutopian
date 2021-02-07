@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A New Digital Deal"
+title: "A New Digital Deal - Beyond Smart Cities"
 lang: en
 ref: a-new-digital-deal
 permalink: /en/restart/2021/a-new-digital-deal
