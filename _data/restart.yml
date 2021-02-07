@@ -9,7 +9,7 @@ restart-2021:
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-5g-caratteristiche-regolamentazione-e-opportunita-133828006169
       youtube: r2K0rGmku1o
-      image: png
+      image:
 
     - title: "Transizione energetica e smart city"
       ref: transizione-energetica-smart-city
@@ -21,7 +21,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/4LjSLJFMc
       youtube: 9FcSbjgU7T0
-      image: png
+      image:
 
     - title: "Dentro la gamification: quale società per il futuro?"
       ref: dentro-la-gamification
@@ -33,7 +33,7 @@ restart-2021:
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-dentro-la-gamification-quale-societa-per-il-futuro-137236470979
       youtube: tDBV_igDDuA
-      image: png
+      image:
 
     - title: "Incontro con Leoluca Orlando"
       ref: incontro-leoluca-orlando
@@ -57,7 +57,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/1QLEtIEyG
       youtube: fmqR44qU-VI
-      image: png
+      image:
 
     - title: "Sostenibilità digitale"
       ref: sostenibilita-digitale
@@ -69,7 +69,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/HPmVQzQt
       youtube: GbR_lA8X0Oo
-      image: png
+      image:
 
     - title: "Il caso TikTok"
       ref: caso-tiktok
@@ -81,7 +81,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/13QHspmTw
       youtube: 5wjcMoSyxwQ
-      image: png
+      image:
 
     - title: "Unframing"
       ref: unframing
@@ -93,7 +93,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/19FJmzzhy
       youtube: Eps9aFZ7FzY
-      image: png
+      image:
 
     - title: "Prospettive cinesi sul mercato globale"
       ref: prospettive-cinesi-mercato-globale
@@ -105,7 +105,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/140XaMXaw
       youtube: TSgOQlSYPnY
-      image: png
+      image:
 
     - title: "Incontro con Luca Bergamo"
       ref: incontro-luca-bergamo
@@ -117,7 +117,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/22FumX8Hv
       youtube: H-VCRlsdTQQ
-      image: png
+      image:
 
     - title: "Cittadinanza digitale e tecnocivismo"
       ref: cittadinanza-digitale-e-tecnocivismo
@@ -129,7 +129,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/1Rujr6Okq
       youtube: wEy5941aRCQ
-      image: png
+      image:
 
     - title: "Educazione finanziaria per uscire dalla crisi"
       ref: educazione-finanziaria
@@ -141,7 +141,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/3h3SZhKSr
       youtube: hFvoczkLuOY
-      image: png
+      image:
 
     - title: "A robot revolution for the 1%?"
       ref: a-robot-revolution-for-the-1-per-cent
@@ -153,7 +153,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/1tZt1pYpi
       youtube: XoUH4uelQtU
-      image: png
+      image:
 
     - title: "Safer Internet Day 2021"
       ref: safer-internet-day-2021
@@ -165,7 +165,7 @@ restart-2021:
       speaker-bio: true
       url: https://fb.me/e/d4i50PTdk
       youtube: 8GlRMPaaF1U
-      image: png
+      image:
 
 #    - title: "Adaptation"
 #      ref: adaptation
