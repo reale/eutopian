@@ -4,7 +4,7 @@ title: "A robot revolution for the 1%?"
 lang: en
 ref: a-robot-revolution-for-the-1-per-cent
 permalink: /en/restart/2021/a-robot-revolution-for-the-1-per-cent
-image: /assets/images/restart/a-robot-revolution-for-the-1-per-cent.png
+video: https://www.youtube.com/embed/XoUH4uelQtU
 child_of_ref: restart-2021
 ---
 
