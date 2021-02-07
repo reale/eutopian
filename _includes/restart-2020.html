@@ -44,16 +44,6 @@
         <p><a href="{{ webinar.url }}">{{ site.data.t.join[page.lang] }}</a></p>
         {% endif %}
 
-        {% for social-link in member.social-links %}
-        <!--<li class="list-inline-item">
-            <a href="{{ social-link[1] }}" title="{{ social-link[0] }}" target="_blank">
-            <svg class="icon"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/dist/svg/sprite.svg#it-{{ social-link[0] }}"></use></svg>
-            <span class="sr-only">{{ social-link[0] }}</span>
-            </a>
-            </li>-->
-            <a href="{{ social-link[1] }}" title="{{ social-link[0] }}" target="_blank">{{ social-link[0] }} </a>
-            {% endfor %}
-
     </div>
 </div>
 {% endfor %}
