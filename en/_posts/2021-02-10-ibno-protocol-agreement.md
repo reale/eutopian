@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Firmato protocollo d'intesa con l'Italian Blockchain National Observatory"
+title: "Protocol of Agreement with the Italian Blockchain National Observatory"
 lang: en
 ref: ibno-protocol-agreement
 tags: partnership, blockchain, fintech
