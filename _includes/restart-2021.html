@@ -4,8 +4,8 @@
     {% if webinar.image %}
     <img class="card-img-top" src="/assets/images/restart/{{ webinar.ref }}.{{ webinar.image }}" alt="{{ webinar.title }}">
     {% endif %}
-    {% if webinar.video %}
-    <iframe class="embed-responsive-item" src="{{ webinar.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% if webinar.youtube %}
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ webinar.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     {% endif %}
     <div class="card-body">
         {% if webinar.ref %}
