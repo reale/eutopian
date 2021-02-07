@@ -155,6 +155,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "Safer Internet Day 2021"
+      ref: safer-internet-day-2021
+      lang: it
+      date: 9 Febbraio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Flavia Marzano
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      youtube:
+      image: png
+
 #    - title: "Adaptation"
 #      ref: adaptation
 #      lang: en
