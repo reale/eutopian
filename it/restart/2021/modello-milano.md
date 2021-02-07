@@ -4,7 +4,7 @@ title: "Il ruolo di Milano nello scenario delle capitali europee"
 lang: it
 ref: modello-milano
 permalink: /it/restart/2021/modello-milano
-image: /assets/images/restart/modello-milano.png
+video: https://www.youtube.com/embed/fmqR44qU-VI
 child_of_ref: restart-2021
 ---
 

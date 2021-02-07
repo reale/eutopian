@@ -4,7 +4,7 @@ title: "Il caso TikTok"
 lang: it
 ref: caso-tiktok
 permalink: /it/restart/2021/caso-tiktok
-image: /assets/images/restart/caso-tiktok.png
+video: https://www.youtube.com/embed/5wjcMoSyxwQ
 child_of_ref: restart-2021
 ---
 

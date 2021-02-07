@@ -5,6 +5,7 @@ lang: it
 ref: educazione-finanziaria
 permalink: /it/restart/2021/educazione-finanziaria
 image: /assets/images/restart/educazione-finanziaria.png
+video: hFvoczkLuOY
 child_of_ref: restart-2021
 ---
 

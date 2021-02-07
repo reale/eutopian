@@ -5,6 +5,7 @@ lang: it
 ref: cittadinanza-digitale-e-tecnocivismo
 permalink: /it/restart/2021/cittadinanza-digitale-e-tecnocivismo
 image: /assets/images/restart/cittadinanza-digitale-e-tecnocivismo.png
+video: https://www.youtube.com/embed/wEy5941aRCQ
 child_of_ref: restart-2021
 ---
 

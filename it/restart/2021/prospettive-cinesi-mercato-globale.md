@@ -4,7 +4,7 @@ title: "Prospettive cinesi sul mercato globale"
 lang: it
 ref: prospettive-cinesi-mercato-globale
 permalink: /it/restart/2021/prospettive-cinesi-mercato-globale
-image: /assets/images/restart/prospettive-cinesi-mercato-globale.png
+video: https://www.youtube.com/embed/TSgOQlSYPnY
 child_of_ref: restart-2021
 ---
 

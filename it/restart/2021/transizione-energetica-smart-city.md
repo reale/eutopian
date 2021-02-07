@@ -4,7 +4,7 @@ title: "Transizione energetica e smart city"
 lang: it
 ref: transizione-energetica-smart-city
 permalink: /it/restart/2021/transizione-energetica-smart-city
-image: /assets/images/restart/transizione-energetica-smart-city.png
+video: https://www.youtube.com/embed/9FcSbjgU7T0
 child_of_ref: restart-2021
 ---
 
