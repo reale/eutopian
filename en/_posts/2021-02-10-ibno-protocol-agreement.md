@@ -22,9 +22,9 @@ s.r.l.**](https://www.cryptodiamond.it/).
 IBNO aims at promoting **knowledge transfer** for managers and entrepreneurs,
 with reports, scientific paper and courses, creating a shared platform capable
 of connecting knowledge and experience at different levels (researchers,
-companies, institutions , ...). Of special interest is the identification of
-best practices and innovative business models enabled by the introduction of
-the blockchain.
+companies, institutions). Of special interest is the identification of best
+practices and innovative business models enabled by the introduction of the
+blockchain.
 
 The dialogue between the university system and the **business world** is aimed
 at encouraging the exchange and sharing of knowledge, stimulating innovation

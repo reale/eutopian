@@ -22,7 +22,7 @@ s.r.l.**](https://www.cryptodiamond.it/).
 L'IBNO ha lo scopo di promuovere il **trasferimento di conoscenze** in ambito
 manageriale e imprenditoriale, con report, articoli scientifici e corsi,
 realizzando una piattaforma condivisa in grado di connettere saperi ed
-esperienze a diversi livelli (ricercatori, imprese, istituzioni, ...). Di
+esperienze a diversi livelli (ricercatori, imprese, istituzioni). Di
 particolare interesse è l’individuazione di best practices e di modelli di
 business innovativi abilitati dall’introduzione della blockchain.
 
