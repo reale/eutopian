@@ -37,6 +37,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_CryptoRivista_Protocollo_Intesa.pdf
           website: https://cryptorivista.com/
+    - name: "Italian Blockchain National Observatory"
+      ref: ibno
+      logo: png
+      links:
+          agreement:
+          website: https://www.ibno.eu/
     - name: "Italia4Blockchain"
       ref: i4b
       logo: jpg
