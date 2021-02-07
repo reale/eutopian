@@ -1,8 +1,11 @@
 {% assign sorted =  site.data.restart.restart-2020 | reverse %}
 {% for webinar in sorted %}
 <div class="card border rounded mb-3">
-    {% if webinar.image != nil and webinar.image != "" %}
+    {% if webinar.image %}
     <img class="card-img-top" src="/assets/images/restart/{{ webinar.ref }}.{{ webinar.image }}" alt="{{ webinar.title }}">
+    {% endif %}
+    {% if webinar.video %}
+    <iframe class="embed-responsive-item" src="{{ webinar.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     {% endif %}
     <div class="card-body">
         {% if webinar.ref %}
