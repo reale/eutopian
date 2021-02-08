@@ -31,6 +31,12 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_CRI_Protocol_of_Agreement.pdf
           website: https://cri.lt/
+    - name: "Confassociazioni"
+      ref: confassociazioni
+      logo: png
+      links:
+          agreement:
+          website: https://www.confassociazioni.eu/
     - name: "CryptoRivista"
       ref: cryptorivista
       logo: png
