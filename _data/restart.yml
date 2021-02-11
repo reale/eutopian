@@ -215,6 +215,18 @@ restart-2021:
       youtube:
       image: png
 
+    - title: "La trasformazione digitale a supporto della competitività del nostro Paese"
+      ref: trasformazione-digitale-a-supporto-competitiva
+      lang: it
+      date: 4 Marzo 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Liliana Fratini Passi
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      youtube:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
