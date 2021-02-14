@@ -83,7 +83,7 @@ stakeholders:
       ref: privacy-network
       logo: jpg
       links:
-          agreement:
+          agreement: /assets/docs/Eutopian_PrivacyNetwork_Protocollo_Intesa.pdf
           website: https://privacy-network.it/
     - name: "Repubblica Digitale"
       ref: repubblica-digitale
