@@ -8,7 +8,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-5g-caratteristiche-regolamentazione-e-opportunita-133828006169
-      youtube: r2K0rGmku1o
       image: png
 
     - title: "Transizione energetica e smart city"
@@ -20,7 +19,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/4LjSLJFMc
-      youtube: 9FcSbjgU7T0
       image: png
 
     - title: "Dentro la gamification: quale società per il futuro?"
@@ -32,7 +30,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-dentro-la-gamification-quale-societa-per-il-futuro-137236470979
-      youtube: tDBV_igDDuA
       image: png
 
     - title: "Incontro con Leoluca Orlando"
@@ -44,7 +41,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: mailto:info@eutopian.eu
-      youtube:
       image: png
 
     - title: "Il ruolo di Milano nello scenario delle capitali europee"
@@ -56,7 +52,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/1QLEtIEyG
-      youtube: fmqR44qU-VI
       image: png
 
     - title: "Sostenibilità digitale"
@@ -68,7 +63,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/HPmVQzQt
-      youtube: GbR_lA8X0Oo
       image: png
 
     - title: "Il caso TikTok"
@@ -80,7 +74,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/13QHspmTw
-      youtube: 5wjcMoSyxwQ
       image: png
 
     - title: "Unframing"
@@ -92,7 +85,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/19FJmzzhy
-      youtube: Eps9aFZ7FzY
       image: png
 
     - title: "Prospettive cinesi sul mercato globale"
@@ -104,7 +96,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/140XaMXaw
-      youtube: TSgOQlSYPnY
       image: png
 
     - title: "Incontro con Luca Bergamo"
@@ -116,7 +107,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/22FumX8Hv
-      youtube: H-VCRlsdTQQ
       image: png
 
     - title: "Cittadinanza digitale e tecnocivismo"
@@ -128,7 +118,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/1Rujr6Okq
-      youtube: wEy5941aRCQ
       image: png
 
     - title: "Educazione finanziaria per uscire dalla crisi"
@@ -140,7 +129,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/3h3SZhKSr
-      youtube: hFvoczkLuOY
       image: png
 
     - title: "A robot revolution for the 1%?"
@@ -152,7 +140,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/1tZt1pYpi
-      youtube: XoUH4uelQtU
       image: png
 
     - title: "Safer Internet Day 2021"
@@ -164,7 +151,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/d4i50PTdk
-      youtube: 8GlRMPaaF1U
       image: png
 
 #    - title: "Adaptation"
@@ -176,7 +162,6 @@ restart-2021:
 #      coordinator-bio: true
 #      speaker-bio: true
 #      url:
-#      youtube:
 #      image: png
 #
     - title: "Contro la cultura della sorveglianza"
@@ -188,7 +173,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/5DAH7h9kw
-      youtube:
       image: png
 
     - title: "A New Digital Deal - Beyond Smart Cities"
@@ -200,7 +184,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/MVvHKeDF
-      youtube:
       image: png
 
     - title: "Cina: l’eterna promessa del Made in Italy"
@@ -212,7 +195,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/O6WMXymF
-      youtube:
       image: png
 
     - title: "La trasformazione digitale a supporto della competitività del nostro Paese"
@@ -224,7 +206,6 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url: https://fb.me/e/3ZFszuJff
-      youtube:
       image: png
 
 restart-2020:
@@ -237,7 +218,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-identita-ubique-verso-unantropologia-non-antropocentrica-104325339900
-      youtube: QzNbOSZUZj0
       image: jpg
 
     - title: "Gestione dell'emergenza da COVID-19 e soluzioni tecnologiche di contact tracing"
@@ -249,7 +229,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-gestione-dellemergenza-covid-e-soluzioni-tecnologiche-di-contact-tracing-104545498400
-      youtube: uCva5mtztSE
       image: jpg
 
     - title: "Il mondo del lavoro che verrà"
@@ -261,7 +240,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-il-mondo-del-lavoro-che-verra-conversazione-con-tiziano-treu-105287457620
-      youtube: eya-P7WOurQ
       image: png
 
     - title: "Does technology increase or decrease empowerment?"
@@ -273,7 +251,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-does-technology-increase-or-decrease-empowerment-105933648394
-      youtube: r60gqiqqlqM
       image: png
 
     - title: "Using technology for social good"
@@ -285,7 +262,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-using-technology-for-social-good-106775167400
-      youtube: N7MGb5rydrA
       image: png
 
     - title: "Il giornalismo e la comunicazione ai tempi del Covid-19"
@@ -297,7 +273,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-il-giornalismo-e-la-comunicazione-ai-tempi-del-covid-19-107337962736
-      youtube: DXt28yg4Rc8
       image: png
 
     - title: "La città di domani: prospettive, opportunità e idee"
@@ -309,7 +284,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-la-citta-di-domani-prospettive-opportunita-e-idee-107245883324
-      youtube: 97a1AymGaDw
       image: png
 
     - title: "Agenda digitale regionale tra autonomia e integrazione europea"
@@ -321,7 +295,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-agenda-digitale-regionale-tra-autonomia-e-integrazione-europea-109608682520
-      youtube: tzLYgn5CROc
       image: png
 
     - title: "Trasformazione digitale, processi, organizational design"
@@ -333,7 +306,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-trasformazione-digitale-processi-organizational-design-108528094452
-      youtube: -mm91fZQq2g
       image: png
 
     - title: "Future. Humans. Innovation."
@@ -345,7 +317,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-future-humans-innovation-109828273322
-      youtube: xOhP_3M3CIc
       image: png
 
     - title: "Il Lobbying diventa Digital: come gestire le attività di Public Affairs in tempi di Crisis Management"
@@ -357,7 +328,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-il-lobbying-diventa-digital-111465967710
-      youtube: G-NBBpsLRVM
       image: jpg
 
     - title: "Blockchain e Valute digitali delle Banche centrali"
@@ -369,7 +339,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-blockchain-e-valute-digitali-delle-banche-centrali-112575624724
-      youtube: TvUEjM_KgVg
       image: jpg
 
     - title: "Lo spazio di condivisione sui servizi pubblici digitali: strumenti e modalità operative"
@@ -381,7 +350,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-lo-spazio-di-condivisione-sui-servizi-pubblici-digitali-112835441844
-      youtube: CIAh9CXf4Ds
       image: jpg
 
     - title: "The EU economic response to the Covid-19 pandemics"
@@ -393,7 +361,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-the-eu-economic-response-to-the-covid-19-pandemics-113961351470
-      youtube: 352Ol0h94HQ
       image: jpg
 
     - title: "Dalle fake news alla fake relevance: il problema di chi decide di cosa dobbiamo parlare"
@@ -405,7 +372,6 @@ restart-2020:
       coordinator-bio: true
       speaker-bio: true
       url: https://www.eventbrite.it/e/biglietti-dalle-fake-news-alla-fake-relevance-115635885045
-      youtube: vsGdgPJb8mQ
       image: jpg
 
     - title: "Il ruolo del DPO tra GDPR ed indicazioni operative"
