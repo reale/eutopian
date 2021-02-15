@@ -133,6 +133,10 @@ footer-links:
       name: "Project and operations by Tanglegence"
       url: "https://tanglegence.com"
       external: true
+    crunchbase:
+      name: "Crunchbase"
+      url: "https://www.crunchbase.com/organization/eutopian"
+      external: true
   it:
     privacy-policy:
       name: "Privacy policy"
@@ -147,6 +151,10 @@ footer-links:
     project-by:
       name: "Project and operations by Tanglegence"
       url: "https://tanglegence.com"
+      external: true
+    crunchbase:
+      name: "Crunchbase"
+      url: "https://www.crunchbase.com/organization/eutopian"
       external: true
 follow-us:
   en: "Follow us"
