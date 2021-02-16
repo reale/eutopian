@@ -164,6 +164,17 @@ restart-2021:
       url: https://fb.me/e/3ZFszuJff
       image: png
 
+    - title: "Cultura digitale e lo sguardo di Francesco sulla persona"
+      ref: cultura-digitale-sguardo-francesco-sulla-persona
+      lang: it
+      date: 22 Febbraio 2021 19:30-20:30
+      coordinator: Roberto Reale
+      speaker: Fabio Pasqualetti
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image:
+
     - title: "A New Digital Deal - Beyond Smart Cities"
       ref: a-new-digital-deal
       lang: en
