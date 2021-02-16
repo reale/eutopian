@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fabio Pasqsualetti
+title: Fabio Pasqualetti
 lang: it
 ref: fabio-pasqualetti
 permalink: /it/restart/speaker/fabio-pasqualetti
