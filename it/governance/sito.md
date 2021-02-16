@@ -17,3 +17,5 @@ Il sito è alimentato da un processo di integrazione continua basato su [CircleC
 I commenti, sempre benvenuti, sono implementati attraverso un'integrazione con [Disqus](https://disqus.com/).
 
 Salvo ove diversamente indicato, i contenuti pubblicati sul sito (testi, immagini, fotografie, video, ecc.) sono messi a disposizione con licenza [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/it/legalcode): essi, pertanto, sono liberamente distribuibili e riutilizzabili, a patto che sia sempre citata la fonte e—ove possibile—riportato l'indirizzo web della pagina originale.
+
+<img class="img-fluid" src="https://api.thegreenwebfoundation.org/greencheckimage/eutopian.eu" alt="This website is hosted Green - checked by thegreenwebfoundation.org">

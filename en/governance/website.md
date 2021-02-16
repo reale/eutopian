@@ -17,3 +17,5 @@ The site is powered by a [CircleCi](https://circleci.com/)-based continuous inte
 Comments are implemented via [Disqus](https://disqus.com/), and are of course always welcome.
 
 Unless otherwise indicated, the contents published on this site (texts, images, photographs, videos, etc.) are made available under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/en/legalcode) license, which implies that, unless otherwise specified, they are freely distributable and reusable, as long as the source is always mentioned and—where possible—the web address of the original page is reported.
+
+<img class="img-fluid" src="https://api.thegreenwebfoundation.org/greencheckimage/eutopian.eu" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
