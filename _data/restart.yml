@@ -219,6 +219,17 @@ restart-2021:
       url: https://fb.me/e/1FMFTLu8r
       image: png
 
+    - title: "La transizione energetica: rischi e opportunità"
+      ref: transizione-energetica-rischi-opportunita
+      lang: it
+      date: 5 Marzo 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Giuseppe Ricci
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
