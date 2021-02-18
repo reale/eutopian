@@ -4,7 +4,7 @@ title: "Lo spazio di condivisione sui servizi pubblici digitali: strumenti e mod
 lang: it
 ref: servizi-pubblici-digitali
 permalink: /it/restart/2020/servizi-pubblici-digitali
-image: /assets/images/restart/servizi-pubblici-digitali.jpg
+video: https://www.youtube.com/embed/CIAh9CXf4Ds
 child_of_ref: restart-2020
 ---
 

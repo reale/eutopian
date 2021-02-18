@@ -4,7 +4,7 @@ title: "Dalle fake news alla fake relevance: il problema di chi decide di cosa d
 lang: it
 ref: fake-news-fake-relevance.md
 permalink: /it/restart/2020/fake-news-fake-relevance
-image: /assets/images/restart/fake-news-fake-relevance.jpg
+video: https://www.youtube.com/embed/vsGdgPJb8mQ
 child_of_ref: restart-2020
 ---
 

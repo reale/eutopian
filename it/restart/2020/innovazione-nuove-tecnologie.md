@@ -4,7 +4,7 @@ title: "Innovazione e “nuove” tecnologie. Sì, ma quali? Prima modelliamo i 
 lang: it
 ref: innovazione-nuove-tecnologie
 permalink: /it/restart/2020/innovazione-nuove-tecnologie
-image: /assets/images/restart/innovazione-nuove-tecnologie.jpg
+video: https://www.youtube.com/embed/YRbKyCtjMEQ
 child_of_ref: restart-2020
 ---
 

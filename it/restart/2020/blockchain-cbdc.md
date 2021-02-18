@@ -4,7 +4,7 @@ title: "Blockchain e Valute digitali delle Banche centrali"
 lang: it
 ref: blockchain-cbdc
 permalink: /it/restart/2020/blockchain-cbdc
-image: /assets/images/restart/blockchain-cbdc.jpg
+video: https://www.youtube.com/embed/TvUEjM_KgVg
 child_of_ref: restart-2020
 ---
 

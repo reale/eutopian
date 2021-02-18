@@ -4,7 +4,7 @@ title: "The EU economic response to the Covid-19 pandemics"
 lang: en
 ref: eu-economic-response-covid19
 permalink: /en/restart/2020/eu-economic-response-covid19
-image: /assets/images/restart/eu-economic-response-covid19.jpg
+video: https://www.youtube.com/embed/352Ol0h94HQ
 child_of_ref: restart-2020
 ---
 
