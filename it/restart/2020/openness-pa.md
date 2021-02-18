@@ -4,7 +4,7 @@ title: "Openness nella PA"
 lang: it
 ref: openness-pa
 permalink: /it/restart/2020/openness-pa
-image: /assets/images/restart/openness-pa.jpg
+video: https://www.youtube.com/embed/O7NccR5ELWY
 child_of_ref: restart-2020
 ---
 

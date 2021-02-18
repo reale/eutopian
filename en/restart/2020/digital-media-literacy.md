@@ -4,7 +4,7 @@ title: "Digital Media Literacy: Building Resilience"
 lang: en
 ref: digital-media-literacy
 permalink: /en/restart/2020/digital-media-literacy
-image: /assets/images/restart/digital-media-literacy.jpg
+video: https://www.youtube.com/embed/tzP_JLbJ20o
 child_of_ref: restart-2020
 ---
 

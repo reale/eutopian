@@ -4,7 +4,7 @@ title: "Digital Product Design per un Mondo Phygital"
 lang: it
 ref: digital-product-design
 permalink: /it/restart/2020/digital-product-design
-image: /assets/images/restart/digital-product-design.jpg
+video: https://www.youtube.com/embed/UV7pox2DdEc
 child_of_ref: restart-2020
 ---
 

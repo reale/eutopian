@@ -4,7 +4,7 @@ title: "Un New Deal Digitale: come impiegare al meglio la digitalizzazione al se
 lang: it
 ref: new-deal-digitale
 permalink: /it/restart/2020/new-deal-digitale
-image: /assets/images/restart/new-deal-digitale.jpg
+video: https://www.youtube.com/embed/btSbue8GHN8
 child_of_ref: restart-2020
 ---
 

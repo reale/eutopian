@@ -4,7 +4,7 @@ title: "Di quale design vogliamo parlare davvero?"
 lang: it
 ref: di-quale-design-vogliamo-parlare-davvero
 permalink: /it/restart/2020/di-quale-design-vogliamo-parlare-davvero
-image: /assets/images/restart/di-quale-design-vogliamo-parlare-davvero.png
+video: https://www.youtube.com/embed/Af8RyveM4kg
 child_of_ref: restart-2020
 ---
 

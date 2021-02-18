@@ -4,7 +4,7 @@ title: "Smart Working e PMI, scenari a confronto"
 lang: it
 ref: smart-working-pmi
 permalink: /it/restart/2020/smart-working-pmi
-image: /assets/images/restart/smart-working-pmi.jpg
+video: https://www.youtube.com/embed/BHT390r1lSE
 child_of_ref: restart-2020
 ---
 

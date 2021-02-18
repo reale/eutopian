@@ -4,7 +4,7 @@ title: "Social Science 4 Journalism"
 lang: en
 ref: social-science-4-journalism
 permalink: /en/restart/2020/social-science-4-journalism
-image: /assets/images/restart/social-science-4-journalism.jpg
+video: https://www.youtube.com/embed/bh5OnraDU9c
 child_of_ref: restart-2020
 ---
 
