@@ -4,7 +4,7 @@ title: "Cina: l'eterna promessa del Made in Italy"
 lang: it
 ref: cina-eterna-promessa-del-made-in-italy
 permalink: /it/restart/2021/cina-eterna-promessa-del-made-in-italy
-image: /assets/images/restart/cina-eterna-promessa-del-made-in-italy.png
+video: https://www.youtube.com/embed/6WmrTk3XYtQ
 child_of_ref: restart-2021
 ---
 
