@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Roberto Reale
+description: President
 lang: en
 ref: roberto-reale
 permalink: /en/about-us/bio/roberto-reale
