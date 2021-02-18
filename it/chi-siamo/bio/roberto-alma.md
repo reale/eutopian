@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Roberto Alma
+description: Chief Legal Officer
 lang: it
 ref: roberto-alma
 permalink: /it/chi-siamo/bio/roberto-alma

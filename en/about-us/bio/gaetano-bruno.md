@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gaetano Bruno
+description: Secretary, Internal Audit and Management Control
 lang: en
 ref: gaetano-bruno
 permalink: /en/about-us/bio/gaetano-bruno

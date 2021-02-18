@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Eva Bredariol
+description: Reti d'impresa, Università e Ricerca
 lang: it
 ref: eva-bredariol
 permalink: /it/chi-siamo/bio/eva-bredariol

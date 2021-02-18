@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gaia Nina Marano
+description: Consigliera
 lang: it
 ref: gaia-nina-marano
 permalink: /it/chi-siamo/bio/gaia-nina-marano

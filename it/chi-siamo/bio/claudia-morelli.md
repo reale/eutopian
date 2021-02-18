@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Claudia Morelli
+description: Comunicazione e Rapporti Istituzionali
 lang: it
 ref: claudia-morelli
 permalink: /it/chi-siamo/bio/claudia-morelli

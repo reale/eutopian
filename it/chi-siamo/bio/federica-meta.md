@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Federica Meta
+description: Consigliera
 lang: it
 ref: federica-meta
 permalink: /it/chi-siamo/bio/federica-meta

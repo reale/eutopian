@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gaia Nina Marano
+description: Board Member
 lang: en
 ref: gaia-nina-marano
 permalink: /en/about-us/bio/gaia-nina-marano

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gaetano Bruno
+description: Segretario, Internal Audit e Controllo di gestione
 lang: it
 ref: gaetano-bruno
 permalink: /it/chi-siamo/bio/gaetano-bruno

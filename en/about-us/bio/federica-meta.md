@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Federica Meta
+description: Board Member
 lang: en
 ref: federica-meta
 permalink: /en/about-us/bio/federica-meta

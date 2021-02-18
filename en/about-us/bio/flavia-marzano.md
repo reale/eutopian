@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Flavia Marzano
+description: Vice President
 lang: en
 ref: flavia-marzano
 permalink: /en/about-us/bio/flavia-marzano

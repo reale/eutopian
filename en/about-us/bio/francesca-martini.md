@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Francesca Martini
+description: Board Member
 lang: en
 ref: francesca-martini
 permalink: /en/about-us/bio/francesca-martini

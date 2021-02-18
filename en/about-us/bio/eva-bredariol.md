@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Eva Bredariol
+description: Business networks, University and Research
 lang: en
 ref: eva-bredariol
 permalink: /en/about-us/bio/eva-bredariol

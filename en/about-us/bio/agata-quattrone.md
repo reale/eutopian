@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Agata Quattrone
+description: Board Member
 lang: en
 ref: agata-quattrone
 permalink: /en/about-us/bio/agata-quattrone

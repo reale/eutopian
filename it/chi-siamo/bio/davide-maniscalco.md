@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Davide Maniscalco
+description: Consigliere
 lang: it
 ref: davide-maniscalco
 permalink: /it/chi-siamo/bio/davide-maniscalco

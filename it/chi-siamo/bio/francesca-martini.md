@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Francesca Martini
+description: Consigliera
 lang: it
 ref: francesca-martini
 permalink: /it/chi-siamo/bio/francesca-martini

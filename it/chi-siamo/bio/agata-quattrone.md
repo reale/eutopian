@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Agata Quattrone
+description: Consigliera
 lang: it
 ref: agata-quattrone
 permalink: /it/chi-siamo/bio/agata-quattrone

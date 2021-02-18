@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Claudia Morelli
+description: Communication and Institutional Relations
 lang: en
 ref: claudia-morelli
 permalink: /en/about-us/bio/claudia-morelli

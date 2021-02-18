@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Davide Maniscalco
+description: Board Member
 lang: en
 ref: davide-maniscalco
 permalink: /en/about-us/bio/davide-maniscalco

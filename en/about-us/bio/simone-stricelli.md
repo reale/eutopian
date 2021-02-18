@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Simone Stricelli
+description: Brand Management
 lang: en
 ref: simone-stricelli
 permalink: /en/about-us/bio/simone-stricelli

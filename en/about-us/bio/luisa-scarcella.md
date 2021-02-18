@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Luisa Scarcella
+description: Chief Economist, Taxation, Innovation in Finance
 lang: en
 ref: luisa-scarcella
 permalink: /en/about-us/bio/luisa-scarcella
