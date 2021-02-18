@@ -4,7 +4,7 @@ title: "A New Digital Deal - Beyond Smart Cities"
 lang: en
 ref: a-new-digital-deal
 permalink: /en/restart/2021/a-new-digital-deal
-image: /assets/images/restart/a-new-digital-deal.png
+video: https://www.youtube.com/embed/RboPtSCrHlM
 child_of_ref: restart-2021
 ---
 
