@@ -4,7 +4,7 @@ title: "Trasformazione digitale, processi, organizational design"
 lang: it
 ref: trasformazione-digitale-processi-organizational-design
 permalink: /it/restart/2020/trasformazione-digitale-processi-organizational-design
-image: /assets/images/restart/trasformazione-digitale-processi-organizational-design.png
+video: https://www.youtube.com/embed/-mm91fZQq2g
 child_of_ref: restart-2020
 ---
 
