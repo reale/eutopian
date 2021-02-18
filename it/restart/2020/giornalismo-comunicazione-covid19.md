@@ -4,7 +4,7 @@ title: "Il giornalismo e la comunicazione ai tempi del Covid-19"
 lang: it
 ref: giornalismo-comunicazione-covid19
 permalink: /it/restart/2020/giornalismo-comunicazione-covid19
-image: /assets/images/restart/giornalismo-comunicazione-covid19.png
+video: https://www.youtube.com/embed/DXt28yg4Rc8
 child_of_ref: restart-2020
 ---
 

@@ -4,7 +4,7 @@ title: "La città di domani: prospettive, opportunità e idee"
 lang: it
 ref: citta-di-domani
 permalink: /it/restart/2020/citta-di-domani
-image: /assets/images/restart/citta-di-domani.png
+video: https://www.youtube.com/embed/97a1AymGaDw
 child_of_ref: restart-2020
 ---
 

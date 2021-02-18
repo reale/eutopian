@@ -4,7 +4,7 @@ title: "Does technology increase or decrease empowerment?"
 lang: en
 ref: technology-and-empowerment
 permalink: /en/restart/2020/technology-and-empowerment
-image: /assets/images/restart/technology-and-empowerment.png
+video: https://www.youtube.com/embed/r60gqiqqlqM
 child_of_ref: restart-2020
 ---
 

@@ -4,7 +4,7 @@ title: "Gestione dell'emergenza da COVID-19 e soluzioni tecnologiche di contact 
 lang: it
 ref: contact-tracing
 permalink: /it/restart/2020/contact-tracing
-image: /assets/images/restart/contact-tracing.jpg
+video: https://www.youtube.com/embed/uCva5mtztSE
 child_of_ref: restart-2020
 ---
 
