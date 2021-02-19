@@ -8,7 +8,7 @@ image: /assets/images/headshots/giuseppe-ricci.jpg
 child_of_ref: restart
 ---
 
-58 anni, si è laureato in ingegneria chimica al Politecnico di Torino.
+61 anni, si è laureato in ingegneria chimica al Politecnico di Torino.
 
 È in Eni dal 1985, principalmente nel settore downstream avendo operato per
 anni in varie e importanti raffinerie: Sannazzaro, Milazzo nella Joint Venture
