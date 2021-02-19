@@ -241,6 +241,17 @@ restart-2021:
       url: https://fb.me/e/cVVg2W4Kj
       image: png
 
+    - title: "Europa, innovazione e dintorni"
+      ref: europa-innovazione-dintorni
+      lang: it
+      date: 11 Marzo 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Giulia Pastorella
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
