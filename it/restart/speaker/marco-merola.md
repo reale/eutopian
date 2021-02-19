@@ -30,7 +30,8 @@ Technologie University of Delft – The Netherlands, 2018, Festival For The
 Earth, Montecarlo, 2019) e TEDx speaker.
 
 Creatore del webdoc e della piattaforma digitale di comunicazione dei temi
-dell’adattamento al cambiamento climatico, [ADAPTATION](www.adaptation.it).
+dell’adattamento al cambiamento climatico,
+[ADAPTATION](https://www.adaptation.it/).
 
 Nel 2020 ha tenuto un modulo di lezione nel Master di II livello su Climate
 Change Adaptation presso il Politecnico di Torino.
