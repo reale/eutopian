@@ -241,6 +241,17 @@ restart-2021:
       url: https://fb.me/e/cVVg2W4Kj
       image: png
 
+    - title: "Dominio cibernetico e sicurezza nazionale"
+      ref: dominio-cibernetico-sicurezza-nazionale
+      lang: it
+      date: 9 Marzo 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Elisabetta Trenta
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
     - title: "Europa, innovazione e dintorni"
       ref: europa-innovazione-dintorni
       lang: it
