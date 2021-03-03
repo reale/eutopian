@@ -4,6 +4,7 @@ title: This website
 lang: en
 ref: website
 permalink: /en/governance/website
+cover: /assets/images/green-eu.jpg
 child_of_ref: governance
 order: 3
 ---

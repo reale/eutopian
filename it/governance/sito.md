@@ -4,6 +4,7 @@ title: Il sito
 lang: it
 ref: website
 permalink: /it/governance/sito
+cover: /assets/images/green-eu.jpg
 child_of_ref: governance
 order: 3
 ---
