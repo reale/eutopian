@@ -263,6 +263,17 @@ restart-2021:
       url: https://fb.me/e/1ebqhM9Lc
       image: png
 
+    - title: "Passaporto vaccinale tra innovazione e diritti"
+      ref: passaporto-vaccinale-innovazione-diritti
+      lang: it
+      date: 16 Marzo 2021 20:00-22:00
+      coordinator: Roberto Reale
+      speaker:
+      coordinator-bio: true
+      speaker-bio:
+      url:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
