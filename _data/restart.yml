@@ -274,6 +274,17 @@ restart-2021:
       url: https://fb.me/e/iJWM2n5s6
       image: png
 
+    - title: "Verso una Società 5.0"
+      ref: verso-una-societa-5-0
+      lang: it
+      date: 22 Marzo 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Emilia Garito
+      coordinator-bio: true
+      speaker-bio: true
+      url: https://fb.me/e/1XW84os2Z
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
