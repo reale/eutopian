@@ -4,7 +4,7 @@ title: Emilia Garito
 lang: it
 ref: emilia-garito
 permalink: /it/restart/speaker/emilia-garito
-image: /assets/images/headshots/emilia-garito.jpg
+image: /assets/images/headshots/emilia-garito.png
 child_of_ref: restart
 ---
 
