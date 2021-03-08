@@ -4,7 +4,7 @@ title: "Safer Internet Day 2021"
 lang: it
 ref: safer-internet-day-2021
 permalink: /it/restart/2021/safer-internet-day-2021
-video: https://www.youtube.com/embed/Nw1ZWu3-H2k
+video: https://www.youtube.com/embed/GoRacAxF5rc
 child_of_ref: restart-2021
 ---
 
