@@ -241,6 +241,17 @@ restart-2021:
       url: https://fb.me/e/cVVg2W4Kj
       image: png
 
+    - title: "Incontro con Marco Bentivogli"
+      ref: incontro-marco-bentivogli
+      lang: it
+      date: 8 Marzo 2021 21:00-21:30
+      coordinator: Roberto Reale
+      speaker: Marco Bentivogli
+      coordinator-bio: true
+      speaker-bio: true
+      url: https://fb.me/e/6dotg5CA9
+      image: png
+
     - title: "Dominio cibernetico e sicurezza nazionale"
       ref: dominio-cibernetico-sicurezza-nazionale
       lang: it
