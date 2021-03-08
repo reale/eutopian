@@ -4,7 +4,7 @@ title: "La transizione energetica: rischi e opportunità"
 lang: it
 ref: transizione-energetica-rischi-opportunita
 permalink: /it/restart/2021/transizione-energetica-rischi-opportunita
-image: /assets/images/restart/transizione-energetica-rischi-opportunita.png
+video: https://www.youtube.com/embed/jcYhZWYvJEA
 child_of_ref: restart-2021
 ---
 
