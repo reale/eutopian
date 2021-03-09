@@ -4,7 +4,6 @@ title: "La trasformazione digitale a supporto della competitività del nostro Pa
 lang: it
 ref: trasformazione-digitale-a-supporto-competitiva
 permalink: /it/restart/2021/trasformazione-digitale-a-supporto-competitiva
-image: /assets/images/restart/trasformazione-digitale-a-supporto-competitiva.png
 video: https://www.youtube.com/embed/ucqO5AIUgA4
 child_of_ref: restart-2021
 ---
