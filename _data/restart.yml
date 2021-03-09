@@ -307,6 +307,17 @@ restart-2021:
       url: https://fb.me/e/1XW84os2Z
       image: png
 
+    - title: "Con la cultura non si mangia? Classicisti in registro imprese"
+      ref: con-la-cultura-non-si-mangia
+      lang: it
+      date: 12 Aprile 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Giampiero Marchi
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
