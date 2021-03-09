@@ -274,6 +274,17 @@ restart-2021:
       url: https://fb.me/e/1ebqhM9Lc
       image: png
 
+    - title: "Best practices digitali tra Australia e Italia solo andata"
+      ref: best-practices-digitali-tra-australia-e-italia-solo-andata
+      lang: it
+      date: 15 Marzo 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Michele Leone
+      coordinator-bio: true
+      speaker-bio: true
+      url: https://fb.me/e/3CsFAGfkI
+      image: png
+
     - title: "Passaporto vaccinale tra sicurezza e diritti"
       ref: passaporto-vaccinale-sicurezza-diritti
       lang: it
