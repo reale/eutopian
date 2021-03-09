@@ -103,3 +103,9 @@ stakeholders:
       links:
           agreement: /assets/docs/Eutopian_TCA_Memorandum_of_Understanding.pdf
           website: https://www.trustlesscomputing.org/
+    - name: "United Nations Global Compact"
+      ref: unglobalcompact
+      logo: png
+      links:
+          agreement: https://ungc-production.s3.us-west-2.amazonaws.com/commitment_letters/143164/original/eutopian_unglobalcompact_application-signed.pdf
+          website: https://unglobalcompact.org/what-is-gc/participants/143164
