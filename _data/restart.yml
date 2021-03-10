@@ -296,6 +296,17 @@ restart-2021:
       url: https://fb.me/e/iJWM2n5s6
       image: png
 
+    - title: "Disinformazione tra scienza e politica. Quali risposte?"
+      ref: disinformazione-tra-scienza-e-politica
+      lang: it
+      date: 18 Marzo 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Antonio Nicita
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
     - title: "Verso una Società 5.0"
       ref: verso-una-societa-5-0
       lang: it
