@@ -7,12 +7,11 @@ permalink: /it/cosa-facciamo
 order: 2
 ---
 
-In Eutopian siamo impegnati a coinvolgere i policy maker nazionali ed europei
-sulle nuove sfide, fornendo allo stesso tempo alle organizzazioni governative e
-alle imprese una guida sugli strumenti legali, finanziari e tecnologici
-necessari per attuare con successo l’innovazione. Collaboriamo con aziende
-specializzate e professionisti per controllare il rischio di innovazione e
-ridurre la disruption.
+In Eutopian siamo impegnati a coinvolgere i policy maker italiani ed europei
+sulle nuove sfide, fornendo allo stesso tempo alle pubbliche amministrazioni e
+alle imprese un supporto sugli strumenti legali, finanziari e tecnologici
+necessari per attuare con successo l’innovazione. Collaboriamo con partner e
+con professionisti per ridurre il rischio di innovazione e la disruption.
 
 Eutopian, in quanto realtà associativa, offre i suoi servizi esclusivamente ai
 propri Soci, secondo le finalità statutarie e favorendo la costruzione di
@@ -25,46 +24,22 @@ Il principale asset di Eutopian resta comunque la capacità di fare rete tra
 imprese, pubbliche amministrazioni ed esperti in innovazione, trasformazione
 digitale sostenibile e policy making.
 
-## Servizi di base e Rassegna stampa
+## Ecosistemi
 
-Eutopian mette a disposizione dei soci una rassegna stampa quotidiana su
-economia, innovazione, sostenibilità, futuro del lavoro, fondi europei ed
-europrogettazione.
+L'azione di Eutopian si articola in cinque ecosistemi chiave:
 
-## Scouting e segnalazione di bandi nazionali ed europei di interesse, sviluppo ed esecuzione di idee progettuali
+* trasparenza, open government, contratti pubblici
+* sostenibilità digitale (trasporti, energia, città)
+* futuro del lavoro e formazione continua
+* innovazione finanziaria, fintech e mercati digitali
+* dominio cibernetico
 
-Presentare un progetto innovativo su un bando europeo o nazionale è un’attività
-che richiede tempo e conoscenze specialistiche. Un’attenta valutazione
-preliminare dell’idea e un’adeguata strutturazione iniziale permettono di
-risparmiare tempo e di ottenere risultati migliori.
-
-Il servizio si articola nelle seguenti attività:
-
--   Consulenza sulla redazione di proposte per la partecipazione a bandi europei
-    e nazionali
-
--   Redazione proposta progettuale, budgeting, proposta tecnica e piano
-    operativo
-
--   Assistenza alla formazione del partenariato con partner nazionali e
-    transfrontalieri
-
--   Assistenza amministrativa alla presentazione del progetto sulle piattaforme
-    informatiche nazionali ed EU
-
--   Consulenza e assistenza su contrattualistica per partenariato ai fini di
-    progettazione e partecipazione ai bandi
-
--   Execution
-
--   Dissemination
-
-## Corsi di formazione
+## Formazione prima di tutto
 
 Innovare e sviluppare progetti innovativi richiede lo sviluppo di competenze e
 capabilities elevate. Attingendo alla propria rete di esperti sui temi di
-interesse, Eutopian propone corsi di formazione su innovazione e progettazione
-europea.
+interesse, Eutopian organizza cicli di formazione su innovazione e
+progettazione europea.
 
 La disponibilità di risorse per l’innovazione e lo sviluppo sarà negli anni a
 venire sempre più condizionata dalla capacità di acquisire e mettere a sistema,
@@ -98,19 +73,35 @@ caratterizzanti:
 
 -   Sostenibilità ed etica
 
-## Presenza presso le istituzioni europee
+## Scouting e segnalazione di bandi nazionali ed europei di interesse, sviluppo ed esecuzione di idee progettuali
 
-Attingendo a una rete di esperti in public policies residenti a Bruxelles,
-Eutopian offre un servizio di rappresentanza per la partecipazione ad eventi e
-per il policy maker involvement.
+Presentare un progetto innovativo su un bando europeo o nazionale è un’attività
+che richiede tempo e conoscenze specialistiche. Un’attenta valutazione
+preliminare dell’idea e un’adeguata strutturazione iniziale permettono di
+risparmiare tempo e di ottenere risultati migliori.
 
-## Consulenza su gestione e sviluppo di reti d’impresa
+Il servizio si articola nelle seguenti attività:
 
-Assistenza e consulenza sulla contrattualistica e l’applicazione di soluzioni
-organizzative funzionali alla creazione, allo sviluppo e all’operatività della
-rete.
+-   Consulenza sulla redazione di proposte per la partecipazione a bandi europei
+    e nazionali
 
-## Consulenza su piano aziendale e di comunicazione
+-   Redazione proposta progettuale, budgeting, proposta tecnica e piano
+    operativo
+
+-   Assistenza alla formazione del partenariato con partner nazionali e
+    transfrontalieri
+
+-   Assistenza amministrativa alla presentazione del progetto sulle piattaforme
+    informatiche nazionali ed EU
+
+-   Consulenza e assistenza su contrattualistica per partenariato ai fini di
+    progettazione e partecipazione ai bandi
+
+-   Execution
+
+-   Dissemination
+
+## Supporto su piano aziendale e di comunicazione
 
 Individuazione di modelli aziendali agili per il raggiungimento degli obiettivi
 prefissati in linea con le necessità del brand e del mercato:
@@ -137,14 +128,3 @@ prefissati in linea con le necessità del brand e del mercato:
 
 -   Valutare costantemente l'efficacia e il ROI dell'implementazione delle
     iniziative tattiche
-
-## Ecosistemi
-
-L'azione di Eutopian si articola in cinque ecosistemi chiave:
-
-* trasparenza, open government, contratti pubblici
-* sostenibilità digitale (trasporti, energia, città)
-* futuro del lavoro e formazione continua
-* innovazione finanziaria, fintech e mercati digitali
-* dominio cibernetico
-
