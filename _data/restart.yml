@@ -318,6 +318,17 @@ restart-2021:
       url: https://fb.me/e/1XW84os2Z
       image: png
 
+    - title: "Innovation procurement: oltre lo Stato innovatore"
+      ref: innovation-procurement-oltre-lo-stato-innovatore
+      lang: it
+      date: 29 Marzo 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Ivo Locatelli
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image:
+
     - title: "Con la cultura non si mangia? Classicisti in registro imprese"
       ref: con-la-cultura-non-si-mangia
       lang: it
