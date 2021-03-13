@@ -327,7 +327,7 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url:
-      image:
+      image: png
 
     - title: "Con la cultura non si mangia? Classicisti in registro imprese"
       ref: con-la-cultura-non-si-mangia
