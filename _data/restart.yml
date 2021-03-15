@@ -307,6 +307,17 @@ restart-2021:
       url: https://fb.me/e/3Anc24Z1B
       image: png
 
+    - title: "Sostenibilità Digitale @ Milano Digital Week 2021"
+      ref: sostenibilita-digitale-mdw21
+      lang: it
+      date: 21 Marzo 2021 10:00-11:00
+      coordinator: Claudia Morelli
+      speaker:
+      coordinator-bio: true
+      speaker-bio:
+      url: https://fb.me/e/14OguYs20
+      image: png
+
     - title: "Verso una Società 5.0"
       ref: verso-una-societa-5-0
       lang: it
