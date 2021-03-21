@@ -351,6 +351,17 @@ restart-2021:
       url: https://fb.me/e/4qDiSvGMC
       image: png
 
+    - title: "Donne e STEM: non solo una questione di numeri"
+      ref: donne-stem-non-solo-questione-di-numeri
+      lang: it
+      date: 15 Aprile 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Alice Pellegrino
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
