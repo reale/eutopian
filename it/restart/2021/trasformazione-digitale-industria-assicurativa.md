@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "La trasformazione digitale dell'industria assicurativa tra sfide ed opportunità"
+title: "La trasformazione digitale dell'industria assicurativa tra sfide e opportunità"
 lang: it
 ref: trasformazione-digitale-industria-assicurativa
 permalink: /it/restart/2021/trasformazione-digitale-industria-assicurativa
