@@ -4,7 +4,7 @@ title: "E-leadership - Come guidare la trasformazione (digitale) della PA"
 lang: it
 ref: e-leadership
 permalink: /it/restart/2021/e-leadership
-#image: /assets/images/restart/e-leadership.png
+image: /assets/images/restart/e-leadership.png
 child_of_ref: restart-2021
 ---
 
