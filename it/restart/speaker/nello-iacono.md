@@ -4,7 +4,7 @@ title: Nello Iacono
 lang: it
 ref: nello-iacono
 permalink: /it/restart/speaker/nello-iacono
-#image: /assets/images/headshots/nello-iacono.jpg
+image: /assets/images/headshots/nello-iacono.jpg
 child_of_ref: restart
 ---
 
