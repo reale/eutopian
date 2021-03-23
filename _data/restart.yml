@@ -373,6 +373,17 @@ restart-2021:
       url: https://fb.me/e/3yJNXUYGm
       image: png
 
+    - title: "Il futuro che ci aspetta"
+      ref: il-futuro-che-ci-aspetta
+      lang: it
+      date: 19 Aprile 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Massimo Canducci
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image:
+
     - title: "La trasformazione digitale dell'industria assicurativa tra sfide ed opportunità"
       ref: trasformazione-digitale-industria-assicurativa
       lang: it
