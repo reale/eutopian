@@ -340,6 +340,17 @@ restart-2021:
       url: https://fb.me/e/RlopXalN
       image: png
 
+    - title: "E-leadership - Come guidare la trasformazione (digitale) della PA"
+      ref: e-leadership
+      lang: it
+      date: 7 Aprile 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Nello Iacono
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image:
+
     - title: "Con la cultura non si mangia? Classicisti in registro imprese"
       ref: con-la-cultura-non-si-mangia
       lang: it
