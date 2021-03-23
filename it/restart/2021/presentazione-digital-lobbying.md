@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentazione del libro "Digital Lobbying"
+title: "Presentazione del libro 'Digital Lobbying'"
 lang: it
 ref: presentazione-digital-lobbying
 permalink: /it/restart/2021/presentazione-digital-lobbying
