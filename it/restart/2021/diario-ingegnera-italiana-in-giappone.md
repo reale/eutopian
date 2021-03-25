@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Donne e STEM: non solo una questione di numeri"
+title: "Gaijin desu. Diario di una ingegnera italiana in Giappone"
 lang: it
 ref: diario-ingegnera-italiana-in-giappone
 permalink: /it/restart/2021/diario-ingegnera-italiana-in-giappone
@@ -8,21 +8,11 @@ image: /assets/images/restart/diario-ingegnera-italiana-in-giappone.png
 child_of_ref: restart-2021
 ---
 
-In termini di parità di genere, in Italia vi sono ancora ampi margini di
-miglioramento, soprattutto negli ambiti STEM (Scientifico, Tecnologico,
-Ingegneristico e Matematico). Nonostante si registrino progressi
-nell’uguaglianza di genere nelle fasce di reddito più alte, una delle sfide più
-grandi rimane quella di facilitare l'ingresso e la permanenza delle donne nel
-mondo del lavoro. Sebbene le ragazze iscritte a corsi STEM ottengano risultati
-accademici migliori, i tassi di occupazione e retribuzione rimangono
-generalmente più bassi rispetto a quelli degli uomini. L'introduzione delle
-quote di genere per le compagnie quotate ha sicuramente contribuito ad un
-significativo incremento della partecipazione delle donne nei consigli di
-amministrazione delle imprese. Ciò nonostante, le donne restano una netta
-minoranza, soprattutto nelle posizioni di leadership, e l'Italia presenta
-ancora uno dei divari retributivi di genere più bassi a livello Europeo.
-Attualmente, donne e ragazze rappresentano circa la metà della popolazione
-mondiale, eppure la nostra società è ancora largamente interessata da
-disuguaglianza di genere, un dato che si ripercuote negativamente su tutto il
-sistema economico delle singole nazioni, ed ovviamente a livello
-internazionale. Ma si tratta veramente solo di una questione di numeri?
+Due anni, un primo lavoro, una pandemia, ed un'esperienza in una realtà
+culturale complessa, affascinante e profondamente diversa da quella italiana.
+L'incoscienza e la voglia di avventura, alla scoperta di un paese così lontano
+dalla dimensione quotidiana, e la curiosità di affrontare situazioni del tutto
+nuove, dove inevitabilmente devi mettere in discussione tutto ciò che hai
+sempre conosciuto e considerato familiare. La possibilità di lavorare
+nell’ambito aerospaziale in un paese considerato tra i più innovativi a livello
+internazionale.
