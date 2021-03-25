@@ -2,9 +2,9 @@
 layout: page
 title: "Donne e STEM: non solo una questione di numeri"
 lang: it
-ref: donne-stem-non-solo-questione-di-numeri
-permalink: /it/restart/2021/donne-stem-non-solo-questione-di-numeri
-image: /assets/images/restart/donne-stem-non-solo-questione-di-numeri.png
+ref: diario-ingegnera-italiana-in-giappone
+permalink: /it/restart/2021/diario-ingegnera-italiana-in-giappone
+image: /assets/images/restart/diario-ingegnera-italiana-in-giappone.png
 child_of_ref: restart-2021
 ---
 
