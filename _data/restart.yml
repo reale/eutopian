@@ -362,6 +362,17 @@ restart-2021:
       url: https://fb.me/e/19dIRs7qW
       image: png
 
+    - title: "Quantum Computers: sfida e opportunità"
+      ref: quantum-computers-sfida-opportunita
+      lang: it
+      date: 8 Aprile 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Simone Severini
+      coordinator-bio: true
+      speaker-bio: true
+      url: https://fb.me/e/6s2SFbXsD
+      image: png
+
     - title: "Con la cultura non si mangia? Classicisti in registro imprese"
       ref: con-la-cultura-non-si-mangia
       lang: it
