@@ -60,9 +60,6 @@ social-links:
     github:
       name: "github"
       url: "https://github.com/eutopian-eu"
-    telegram:
-      name: "telegram"
-      url: "https://t.me/eutopian_eu"
     rss:
       name: "rss"
       url: "/feed.xml"
@@ -85,9 +82,6 @@ social-links:
     github:
       name: "github"
       url: "https://github.com/eutopian-eu"
-    telegram:
-      name: "telegram"
-      url: "https://t.me/eutopian_eu"
     rss:
       name: "rss"
       url: "/feed.xml"
