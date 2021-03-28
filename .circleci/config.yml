@@ -85,7 +85,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "4a:80:48:12:8a:b6:9b:c4:54:6b:57:05:c7:44:fd:20"
+            - "80:b4:2d:39:35:8a:2f:2e:f3:43:48:77:db:18:bd:0d"
       - checkout:
           path: /tmp/gh-pages
       - attach_workspace:
@@ -93,8 +93,8 @@ jobs:
       - run:
           name: Update GitHub Pages
           command: |
-            git config --global user.email "info@eutopian.eu"
-            git config --global user.name "Eutopian CI"
+            git config --global user.email "roberto@reale.me"
+            git config --global user.name "reale"
             
             cd /tmp/gh-pages
             git checkout gh-pages || git checkout --orphan gh-pages
