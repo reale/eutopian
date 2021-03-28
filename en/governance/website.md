@@ -9,7 +9,7 @@ child_of_ref: governance
 order: 3
 ---
 
-We think highly of the open-source values and models, and this website is no exception: it is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/) and the whole source code is available through its [GitHub repository](https://github.com/eutopian-eu/eutopian.eu), so as to allow everybody to collaborate.
+We think highly of the open-source values and models, and this website is no exception: it is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/) and the whole source code is available through its [GitHub repository](https://github.com/reale/eutopian.eu), so as to allow everybody to collaborate.
 
 The Jekyll theme is based on the [UI Kit](https://github.com/italia/design-ui-kit) and built with [Bootstrap Italia](https://github.com/italia/bootstrap-italia/), both of which are being continuously improved by the [Developer Italia](https://developers.italia.it/) community.
 
