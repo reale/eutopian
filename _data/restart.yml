@@ -406,6 +406,17 @@ restart-2021:
       url: https://fb.me/e/4tn79OV8Q
       image: png
 
+    - title: "LiFi – Trasmettere dati attraverso la luce"
+      ref: lifi-trasmettere-dati-attraverso-la-luce
+      lang: it
+      date: 6 Maggio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker:
+      coordinator-bio: true
+      speaker-bio:
+      url:
+      image:
+
     - title: "La trasformazione digitale dell'industria assicurativa tra sfide e opportunità"
       ref: trasformazione-digitale-industria-assicurativa
       lang: it
