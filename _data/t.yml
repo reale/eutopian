@@ -57,9 +57,6 @@ social-links:
     youtube:
       name: "youtube"
       url: "https://youtube.com/playlist?list=PLEsotff6khyGq06csdBDotV3D6_Aaj6kA"
-    github:
-      name: "github"
-      url: "https://github.com/eutopian-eu"
     rss:
       name: "rss"
       url: "/feed.xml"
@@ -79,9 +76,6 @@ social-links:
     youtube:
       name: "youtube"
       url: "https://youtube.com/playlist?list=PLEsotff6khyGq06csdBDotV3D6_Aaj6kA"
-    github:
-      name: "github"
-      url: "https://github.com/eutopian-eu"
     rss:
       name: "rss"
       url: "/feed.xml"
