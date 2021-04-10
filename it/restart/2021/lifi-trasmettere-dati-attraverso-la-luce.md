@@ -4,7 +4,7 @@ title: "LiFi – Trasmettere dati attraverso la luce"
 lang: it
 ref: lifi-trasmettere-dati-attraverso-la-luce
 permalink: /it/restart/2021/lifi-trasmettere-dati-attraverso-la-luce
-#image:
+image: /assets/images/restart/lifi-trasmettere-dati-attraverso-la-luce.png
 child_of_ref: restart-2021
 ---
 

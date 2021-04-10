@@ -426,7 +426,7 @@ restart-2021:
       coordinator-bio: true
       speaker-bio:
       url:
-      image:
+      image: png
 
     - title: "La trasformazione digitale dell'industria assicurativa tra sfide e opportunità"
       ref: trasformazione-digitale-industria-assicurativa
