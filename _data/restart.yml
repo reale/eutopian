@@ -395,6 +395,17 @@ restart-2021:
       url: https://fb.me/e/3yJNXUYGm
       image: png
 
+    - title: "La democrazia digitale per riformare le città"
+      ref: la-democrazia-digitale-per-riformare-le-citta
+      lang: it
+      date: 16 Aprile 2021 21:00-22:00
+      coordinator: Flavia Marzano
+      speaker: Angelo Sturni
+      coordinator-bio: true
+      speaker-bio: true
+      url: https://fb.me/e/2aYXTLaDp
+      image: png
+
     - title: "Il futuro che ci aspetta"
       ref: il-futuro-che-ci-aspetta
       lang: it
