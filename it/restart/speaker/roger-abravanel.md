@@ -8,5 +8,4 @@ image: /assets/images/headshots/roger-abravanel.jpg
 child_of_ref: restart
 ---
 
-Roger Abravanel è director emeritus di McKinsey e consigliere di
-amministrazione di aziende italiane e internazionali.
+Roger Abravanel è director emeritus di McKinsey, saggista ed advisor.
