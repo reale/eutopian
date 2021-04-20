@@ -449,6 +449,17 @@ restart-2021:
       url: https://fb.me/e/cWqP5JbET
       image: png
 
+    - title: "Passaporto vaccinale tra sicurezza e diritti"
+      ref: passaporto-vaccinale-sicurezza-diritti-2
+      lang: it
+      date: 19 Maggio 2021 18:00-20:00
+      coordinator: Roberto Reale
+      speaker:
+      coordinator-bio: true
+      speaker-bio:
+      url:
+      image:
+
     - title: "La trasformazione digitale dell'industria assicurativa tra sfide e opportunità"
       ref: trasformazione-digitale-industria-assicurativa
       lang: it
