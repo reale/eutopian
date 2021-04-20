@@ -417,6 +417,16 @@ restart-2021:
       url: https://fb.me/e/4tn79OV8Q
       image: png
 
+    - title: "GAIA-X"
+      ref: gaia-x
+      lang: it
+      date: 21 Aprile 2021 14:00-15:00
+      coordinator: Roberto Reale
+      speaker: Francesco Bonfiglio
+      coordinator-bio: true
+      speaker-bio: true
+      image: png
+
     - title: "Aristocrazia 2.0. Una nuova élite per salvare l'Italia"
       ref: aristocrazia-2-0
       lang: it
