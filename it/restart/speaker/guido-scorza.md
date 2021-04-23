@@ -8,7 +8,7 @@ image: /assets/images/headshots/guido-scorza.png
 child_of_ref: restart
 ---
 
-È **componente del Collegio del Garante per la protezione dei dati personali**, già **avvocato cassazionista **e socio fondatore dello Studio Legale E-Lex che ha lasciato all'atto dell'assunzione dell'incarico al Garante.
+È **componente del Collegio del Garante per la protezione dei dati personali**, già **avvocato cassazionista** e socio fondatore dello Studio Legale E-Lex che ha lasciato all'atto dell'assunzione dell'incarico al Garante.
 
 È stato **Consigliere giuridico del Ministro per l'innovazione** ed è **rappresentante vicario del Governo italiano presso il GAC -- Government advisory Board dell'ICANN **nonché **componente del sottogruppo policy del Comitato ad hoc sulla regolamentazione dell'Intelligenza artificiale del Consiglio d'Europa**.
 
