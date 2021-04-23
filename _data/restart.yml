@@ -438,6 +438,17 @@ restart-2021:
       url: https://fb.me/e/VeU7ONFJ
       image: png
 
+    - title: "Innovazione sociale e democrazia paritaria, una sfida possibile"
+      ref: innovazione-sociale-democrazia-paritaria
+      lang: it
+      date: 29 Aprile 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Roberta Mori
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
     - title: "LiFi – Trasmettere dati attraverso la luce"
       ref: lifi-trasmettere-dati-attraverso-la-luce
       lang: it
