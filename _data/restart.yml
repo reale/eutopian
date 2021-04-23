@@ -427,6 +427,17 @@ restart-2021:
       speaker-bio: true
       image: png
 
+    - title: "Pass vaccinale. Lo stop del Garante"
+      ref: pass-vaccinale-lo-stop-del-garante
+      lang: it
+      date: 28 Aprile 2021 10:00-11:00
+      coordinator: Roberto Reale
+      speaker: Guido Scorza
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
     - title: "Aristocrazia 2.0. Una nuova élite per salvare l'Italia"
       ref: aristocrazia-2-0
       lang: it
