@@ -4,7 +4,7 @@ title: "Innovazione sociale e democrazia paritaria, una sfida possibile"
 lang: it
 ref: innovazione-sociale-democrazia-paritaria
 permalink: /it/restart/2021/innovazione-sociale-democrazia-paritaria
-images: /assets/images/restart/innovazione-sociale-democrazia-paritaria.png
+image: /assets/images/restart/innovazione-sociale-democrazia-paritaria.png
 child_of_ref: restart-2021
 ---
 
