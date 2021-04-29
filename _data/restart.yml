@@ -460,6 +460,17 @@ restart-2021:
       url:
       image: png
 
+    - title: "Ethics by design a confronto"
+      ref: ethics-by-design-a-confronto
+      lang: it
+      date: 3 Maggio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Enrica Priolo
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
     - title: "LiFi – Trasmettere dati attraverso la luce"
       ref: lifi-trasmettere-dati-attraverso-la-luce
       lang: it
