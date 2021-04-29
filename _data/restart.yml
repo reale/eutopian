@@ -464,11 +464,11 @@ restart-2021:
       ref: lifi-trasmettere-dati-attraverso-la-luce
       lang: it
       date: 6 Maggio 2021 21:00-22:00
-      coordinator: Roberto Reale
+      coordinator: Flavia Marzano
       speaker: Francesco Paolo Russo
       coordinator-bio: true
-      speaker-bio:
-      url: https://fb.me/e/cWqP5JbET
+      speaker-bio: true
+      url:
       image: png
 
     - title: "Passaporto vaccinale tra sicurezza e diritti"
