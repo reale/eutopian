@@ -471,6 +471,17 @@ restart-2021:
       url:
       image: png
 
+    - title: "Le cose che non ci diciamo (fino in fondo)"
+      ref: le-cose-che-non-ci-diciamo
+      lang: it
+      date: 10 Maggio 2021 19:00-20:00
+      coordinator: Roberto Reale
+      speaker: Ferruccio de Bortoli
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image: png
+
     - title: "Passaporto vaccinale tra sicurezza e diritti"
       ref: passaporto-vaccinale-sicurezza-diritti-2
       lang: it
