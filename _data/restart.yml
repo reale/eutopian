@@ -502,7 +502,7 @@ restart-2021:
       coordinator-bio: true
       speaker-bio: true
       url:
-      image:
+      image: png
 
     - title: "Passaporto vaccinale tra sicurezza e diritti"
       ref: passaporto-vaccinale-sicurezza-diritti-2

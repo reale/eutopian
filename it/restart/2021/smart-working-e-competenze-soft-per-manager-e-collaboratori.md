@@ -4,7 +4,7 @@ title: "Smart working e competenze soft per manager e collaboratori"
 lang: it
 ref: smart-working-e-competenze-soft-per-manager-e-collaboratori
 permalink: /it/restart/2021/smart-working-e-competenze-soft-per-manager-e-collaboratori
-#image: /assets/images/restart/smart-working-e-competenze-soft-per-manager-e-collaboratori.png
+image: /assets/images/restart/smart-working-e-competenze-soft-per-manager-e-collaboratori.png
 child_of_ref: restart-2021
 ---
 
