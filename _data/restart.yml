@@ -493,6 +493,17 @@ restart-2021:
       url:
       image: png
 
+    - title: "Smart working e competenze soft per manager e collaboratori"
+      ref: smart-working-e-competenze-soft-per-manager-e-collaboratori
+      lang: it
+      date: 10 Maggio 2021 21:00-22:00
+      coordinator: Flavia Marzano
+      speaker: Luciana d'Ambrosio Marri
+      coordinator-bio: true
+      speaker-bio: true
+      url:
+      image:
+
     - title: "Passaporto vaccinale tra sicurezza e diritti"
       ref: passaporto-vaccinale-sicurezza-diritti-2
       lang: it
