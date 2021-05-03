@@ -20,7 +20,7 @@
 
         {% if webinar.speaker != nil and webinar.speaker != "" %}
         {% if webinar.speaker-bio %}
-        {% assign speaker-slug = webinar.speaker | downcase | replace: ' ', '-' %}
+        {% assign speaker-slug = webinar.speaker | downcase | replace: " ", "-" | replace: "'", "-" %}
         <p><b>{{ site.data.t.keynote-speaker[page.lang] }}</b> <a href="/{{ webinar.lang }}/restart/speaker/{{ speaker-slug }}">{{ webinar.speaker }}</a></p>
         {% else %}
         <p><b>{{ site.data.t.keynote-speaker[page.lang] }}</b> {{ webinar.speaker }}</p>
