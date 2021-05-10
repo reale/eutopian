@@ -4,7 +4,7 @@ title: "Vivere con l'Intelligenza Artificiale. Società, consumatori e mercato"
 lang: it
 ref: vivere-intelligenza-artificiale
 permalink: /it/restart/2021/vivere-intelligenza-artificiale
-image: /assets/image/restart/vivere-intelligenza-artificiale.png
+image: /assets/images/restart/vivere-intelligenza-artificiale.png
 child_of_ref: restart-2021
 ---
 
