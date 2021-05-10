@@ -504,6 +504,17 @@ restart-2021:
       url:
       image: png
 
+    - title: "Intelligenza artificiale: futuro del lavoro e futuro dell'Europa"
+      ref: intelligenza-artificiale-futuro-del-lavoro-e-futuro-dell-europa
+      lang: it
+      date: 12 Maggio 2021 19:00-22:00
+      coordinator: Roberto Reale
+      speaker:
+      coordinator-bio: true
+      speaker-bio:
+      url:
+      image: png
+
     - title: "Vivere con l'Intelligenza Artificiale. Società, consumatori e mercato"
       ref: vivere-intelligenza-artificiale
       lang: it
