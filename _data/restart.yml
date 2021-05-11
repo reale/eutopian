@@ -526,8 +526,8 @@ restart-2021:
       url:
       image: png
 
-    - title: "Passaporto vaccinale tra sicurezza e diritti"
-      ref: passaporto-vaccinale-sicurezza-diritti-2
+    - title: "Green Pass Covid: a che punto siamo?"
+      ref: green-pass-covid-a-che-punto-siamo
       lang: it
       date: 19 Maggio 2021 18:00-20:00
       coordinator: Roberto Reale
@@ -535,7 +535,7 @@ restart-2021:
       coordinator-bio: true
       speaker-bio:
       url:
-      image:
+      image: png
 
     - title: "La trasformazione digitale dell'industria assicurativa tra sfide e opportunità"
       ref: trasformazione-digitale-industria-assicurativa
