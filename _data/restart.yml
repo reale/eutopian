@@ -548,6 +548,17 @@ restart-2021:
       url: https://fb.me/e/FOyfdijF
       image: png
 
+    - title: "Evento sul linguaggio inclusivo"
+      ref: evento-linguaggio-inclusivo
+      lang: it
+      date: 27 Maggio 2021 18:00-20:00
+      coordinator: Roberto Reale
+      speaker:
+      coordinator-bio: true
+      speaker-bio:
+      url:
+      image:
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
