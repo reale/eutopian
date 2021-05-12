@@ -566,7 +566,7 @@ restart-2021:
       coordinator: Flavia Marzano
       speaker: Roberto Scano
       coordinator-bio: true
-      speaker-bio:
+      speaker-bio: true
       url:
       image: png
 
