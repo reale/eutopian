@@ -526,17 +526,17 @@ restart-2021:
       url:
       image: png
 
-#    - title: "L’esperienza di BNL sui dati e le principali sfide operative"
-#      ref: esperienza-bnl-dati-principali-sfide-operative
-#      lang: it
-#      date: 17 Maggio 2021 21:00-22:00
-#      coordinator: Roberto Reale
-#      speaker: Chiara Carollo
-#      coordinator-bio: true
-#      speaker-bio:
-#      url:
-#      image:
-#
+    - title: "L’esperienza di BNL sui dati e le principali sfide operative"
+      ref: esperienza-bnl-dati-principali-sfide-operative
+      lang: it
+      date: 17 Maggio 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Chiara Carollo
+      coordinator-bio: true
+      speaker-bio:
+      url:
+      image: png
+
     - title: "Green Pass Covid: a che punto siamo?"
       ref: green-pass-covid-a-che-punto-siamo
       lang: it
