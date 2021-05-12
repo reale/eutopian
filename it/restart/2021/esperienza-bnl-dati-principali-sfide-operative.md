@@ -4,7 +4,7 @@ title: "L’esperienza di BNL sui dati e le principali sfide operative"
 lang: it
 ref: esperienza-bnl-dati-principali-sfide-operative
 permalink: /it/restart/2021/esperienza-bnl-dati-principali-sfide-operative
-image: /assets/images/restart/esperienza-bnl-dati-principali-sfide-operative.png
+#image: /assets/images/restart/esperienza-bnl-dati-principali-sfide-operative.png
 child_of_ref: restart-2021
 ---
 
