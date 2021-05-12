@@ -4,7 +4,7 @@ title: "Accessibilità, un principio essenziale di qualità e inclusione digital
 lang: it
 ref: accessibilita-un-principio-essenziale-di-qualita-e-inclusione-digitale
 permalink: /it/restart/2021/accessibilita-un-principio-essenziale-di-qualita-e-inclusione-digitale
-#image: /assets/images/restart/accessibilita-un-principio-essenziale-di-qualita-e-inclusione-digitale.png
+image: /assets/images/restart/accessibilita-un-principio-essenziale-di-qualita-e-inclusione-digitale.png
 child_of_ref: restart-2021
 ---
 
