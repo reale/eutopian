@@ -559,6 +559,17 @@ restart-2021:
 #      url:
 #      image:
 
+    - title: "Accessibilità, un principio essenziale di qualità e inclusione digitale"
+      ref: accessibilita-un-principio-essenziale-di-qualita-e-inclusione-digitale
+      lang: it
+      date: 31 Maggio 2021 21:00-22:00
+      coordinator: Flavia Marzano
+      speaker: Roberto Scano
+      coordinator-bio: true
+      speaker-bio:
+      url:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
