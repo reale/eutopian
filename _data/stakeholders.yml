@@ -91,6 +91,12 @@ stakeholders:
       links:
           agreement:
           website: https://innovazione.gov.it/it/repubblica-digitale/
+    - name: "Swascan"
+      ref: swascan
+      logo: png
+      links:
+          agreement: /assets/docs/Eutopian_Swascan_Convenzione_Quadro.pdf
+          website: https://www.swascan.com/
     - name: "Synapta"
       ref: synapta
       logo: png
