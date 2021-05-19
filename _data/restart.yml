@@ -581,6 +581,17 @@ restart-2021:
       url:
       image: png
 
+    - title: "Filosofia e tecnologia: inconciliabili o complementari?"
+      ref: filosofia-e-tecnologia-inconciliabili-o-complementari
+      lang: it
+      date: 03 Giugno 2021 21:00-22:00
+      coordinator: Roberto Reale
+      speaker: Diletta Huyskes
+      coordinator-bio: true
+      speaker-bio:
+      url:
+      image: png
+
 restart-2020:
     - title: "Identità Ubique. Verso un'antropologia non antropocentrica"
       ref: identita-ubique
