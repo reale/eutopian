@@ -95,7 +95,7 @@ stakeholders:
       ref: swascan
       logo: png
       links:
-          agreement: /assets/docs/Eutopian_Swascan_Convenzione_Quadro.pdf
+          agreement: /assets/docs/Eutopian_Swascan_Accordo_Quadro.pdf
           website: https://www.swascan.com/
     - name: "Synapta"
       ref: synapta
