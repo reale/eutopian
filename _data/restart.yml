@@ -559,16 +559,16 @@ restart-2021:
       url: https://fb.me/e/FOyfdijF
       image: png
 
-#    - title: "Evento sul linguaggio inclusivo"
-#      ref: evento-linguaggio-inclusivo
-#      lang: it
-#      date: 27 Maggio 2021 18:00-20:00
-#      coordinator: Roberto Reale
-#      speaker:
-#      coordinator-bio: true
-#      speaker-bio:
-#      url:
-#      image:
+    - title: "Non solo asterischi. La costruzione di un linguaggio inclusivo"
+      ref: non-solo-asterischi
+      lang: it
+      date: 27 Maggio 2021 18:00-20:00
+      coordinator: Roberto Reale
+      speaker:
+      coordinator-bio: true
+      speaker-bio:
+      url:
+      image: png
 
     - title: "Accessibilità, un principio essenziale di qualità e inclusione digitale"
       ref: accessibilita-un-principio-essenziale-di-qualita-e-inclusione-digitale
