@@ -588,7 +588,7 @@ restart-2021:
       coordinator: Roberto Reale
       speaker: Diletta Huyskes
       coordinator-bio: true
-      speaker-bio:
+      speaker-bio: true
       url:
       image: png
 
