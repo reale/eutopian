@@ -19,9 +19,6 @@ author:
 
 header-links:
   en:
-    digitally-sustainable:
-      name: "Digitally Sustainable 2021"
-      url: "https://digitallysustainable.eu"
     eu-commission:
       name: "European Commission"
       url: "https://ec.europa.eu/info/index_en"
@@ -29,9 +26,6 @@ header-links:
       name: "European Parliament"
       url: "https://www.europarl.europa.eu/portal/en"
   it:
-    digitally-sustainable:
-      name: "Digitally Sustainable 2021"
-      url: "https://digitallysustainable.eu"
     eu-commission:
       name: "Commissione europea"
       url: "https://ec.europa.eu/info/index_it"
