@@ -13,18 +13,18 @@ board:
           linkedin: https://www.linkedin.com/in/robertoreale
           twitter: https://twitter.com/Reale_EU
 
-    - name: "Flavia Marzano"
-      priority: 1
-      role: vicepresident
-      role:
-          en: Vice President
-          it: Vicepresidente
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/flaviamarzano
-          twitter: https://twitter.com/flavia_marzano
-
+#    - name: "Flavia Marzano"
+#      priority: 1
+#      role: vicepresident
+#      role:
+#          en: Vice President
+#          it: Vicepresidente
+#      bio: true
+#      headshot: jpg
+#      social-links:
+#          linkedin: https://www.linkedin.com/in/flaviamarzano
+#          twitter: https://twitter.com/flavia_marzano
+#
     - name: "Gaetano Bruno"
       priority: 0
       role:
