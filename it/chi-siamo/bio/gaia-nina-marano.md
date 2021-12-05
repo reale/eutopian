@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gaia Nina Marano
-description: Consigliera
+description: Vicepresidente
 lang: it
 ref: gaia-nina-marano
 permalink: /it/chi-siamo/bio/gaia-nina-marano
