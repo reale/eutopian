@@ -15,6 +15,6 @@ Laureata in Giurisprudenza alla Luiss Guido Carli ha studiato alla Goteborg Univ
 
 Nel 2020 ha conseguito il Master in Business and Administration (MBA) alla Luiss Business School di Roma e ha recentemente lavorato presso il dipartimento HR dell’European Banking Association - EBA Clearing di Parigi.
 
-Da sempre impegnata sul tema della parità di genere, sostiene i diritti delle donne collaborando attivamente con la [Professional Women’s Association di Roma](https://www.pwarome.org/), di cui è attualmente PR Director.
+Da sempre impegnata sul tema della parità di genere, ha sostenuto i diritti delle donne collaborando attivamente con la [Professional Women’s Association di Roma](https://www.pwarome.org/).
 
 [LinkedIn](https://www.linkedin.com/in/gnmarano/)
