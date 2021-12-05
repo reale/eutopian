@@ -13,6 +13,16 @@ board:
           linkedin: https://www.linkedin.com/in/robertoreale
           twitter: https://twitter.com/Reale_EU
 
+    - name: "Gaia Nina Marano"
+      priority: 1
+      role:
+          en: Vice President
+          it: Vicepresidente
+      bio: true
+      headshot: jpg
+      social-links:
+          linkedin: https://www.linkedin.com/in/gnmarano
+
 #    - name: "Flavia Marzano"
 #      priority: 1
 #      role: vicepresident
@@ -74,16 +84,6 @@ board:
       social-links:
           linkedin: https://www.linkedin.com/in/davide-maniscalco-🇮🇹🇪🇺-6512aa66
           twitter: https://twitter.com/manisco74
-
-    - name: "Gaia Nina Marano"
-      priority: 0
-      role:
-          en: Board Member
-          it: Consigliera
-      bio: true
-      headshot: jpg
-      social-links:
-          linkedin: https://www.linkedin.com/in/gnmarano
 
     - name: "Francesca Martini"
       priority: 0
