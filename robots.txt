@@ -1,1 +1,1 @@
-Sitemap: https://restart.eutopian.eu/sitemap.xml
+Sitemap: https://eutopian.eu/sitemap.xml
